@@ -1,0 +1,2001 @@
+id_email;date_test;vrai_label;prediction;score_confiance;categorie_phishing;longueur_texte;nb_liens
+MAIL-5000;2025-09-25;légitime;légitime;0.983;N/A;144;1
+MAIL-5001;2025-09-15;phishing;phishing;0.897;Fausse facture;873;2
+MAIL-5002;2025-09-30;phishing;phishing;0.828;Usurpation fournisseur;918;2
+MAIL-5003;2025-09-24;légitime;légitime;0.965;N/A;885;1
+MAIL-5004;2025-09-26;phishing;phishing;0.883;Faux support technique;1051;3
+MAIL-5005;2025-09-16;légitime;légitime;0.927;N/A;319;2
+MAIL-5006;2025-09-05;phishing;phishing;0.903;Phishing RH/paie;981;0
+MAIL-5007;2025-09-06;légitime;phishing;0.646;N/A;268;2
+MAIL-5008;2025-09-24;légitime;phishing;0.739;N/A;561;0
+MAIL-5009;2025-09-14;phishing;phishing;0.888;Fausse facture;654;5
+MAIL-5010;2025-09-09;phishing;phishing;0.938;Faux support technique;1099;1
+MAIL-5011;2025-09-08;phishing;phishing;0.976;Fausse livraison colis;432;3
+MAIL-5012;2025-09-02;légitime;légitime;0.954;N/A;950;0
+MAIL-5013;2025-09-20;phishing;légitime;0.613;Faux support technique;673;4
+MAIL-5014;2025-09-15;phishing;phishing;0.919;Usurpation fournisseur;616;1
+MAIL-5015;2025-09-20;phishing;phishing;0.929;Fausse livraison colis;496;0
+MAIL-5016;2025-09-18;phishing;phishing;0.941;Phishing RH/paie;1172;4
+MAIL-5017;2025-09-14;phishing;phishing;0.803;Fausse facture;371;6
+MAIL-5018;2025-09-21;légitime;légitime;0.92;N/A;689;2
+MAIL-5019;2025-09-13;légitime;légitime;0.964;N/A;348;1
+MAIL-5020;2025-09-27;légitime;légitime;0.786;N/A;1018;0
+MAIL-5021;2025-09-30;légitime;légitime;0.925;N/A;397;2
+MAIL-5022;2025-09-16;légitime;légitime;0.983;N/A;186;0
+MAIL-5023;2025-09-29;phishing;phishing;0.957;Usurpation bancaire;378;5
+MAIL-5024;2025-09-01;phishing;phishing;0.816;Fausse livraison colis;529;4
+MAIL-5025;2025-09-20;légitime;légitime;0.781;N/A;751;0
+MAIL-5026;2025-09-13;légitime;légitime;0.834;N/A;654;0
+MAIL-5027;2025-09-01;phishing;phishing;0.983;Usurpation fournisseur;1177;6
+MAIL-5028;2025-09-08;légitime;légitime;0.833;N/A;732;2
+MAIL-5029;2025-09-16;légitime;légitime;0.804;N/A;655;0
+MAIL-5030;2025-09-08;légitime;légitime;0.904;N/A;154;0
+MAIL-5031;2025-09-30;légitime;légitime;0.933;N/A;476;1
+MAIL-5032;2025-09-01;phishing;phishing;0.828;Fausse facture;1015;5
+MAIL-5033;2025-09-24;phishing;phishing;0.958;Usurpation fournisseur;297;2
+MAIL-5034;2025-09-25;légitime;légitime;0.826;N/A;840;1
+MAIL-5035;2025-09-16;légitime;légitime;0.845;N/A;818;1
+MAIL-5036;2025-09-26;légitime;légitime;0.782;N/A;569;2
+MAIL-5037;2025-09-07;légitime;légitime;0.874;N/A;504;1
+MAIL-5038;2025-09-16;phishing;phishing;0.896;Fausse facture;586;1
+MAIL-5039;2025-09-08;phishing;légitime;0.711;Fausse facture;770;3
+MAIL-5040;2025-09-16;phishing;phishing;0.89;Fausse facture;772;1
+MAIL-5041;2025-09-11;légitime;légitime;0.953;N/A;299;2
+MAIL-5042;2025-09-28;légitime;légitime;0.977;N/A;730;1
+MAIL-5043;2025-09-07;légitime;légitime;0.949;N/A;378;2
+MAIL-5044;2025-09-29;légitime;légitime;0.863;N/A;998;1
+MAIL-5045;2025-09-08;légitime;légitime;0.925;N/A;912;1
+MAIL-5046;2025-09-15;légitime;légitime;0.929;N/A;1124;0
+MAIL-5047;2025-09-26;légitime;légitime;0.793;N/A;594;1
+MAIL-5048;2025-09-11;légitime;légitime;0.966;N/A;878;0
+MAIL-5049;2025-09-29;légitime;légitime;0.972;N/A;215;2
+MAIL-5050;2025-09-16;légitime;légitime;0.854;N/A;196;2
+MAIL-5051;2025-09-12;phishing;phishing;0.981;Usurpation fournisseur;870;2
+MAIL-5052;2025-09-08;phishing;phishing;0.922;Faux support technique;360;3
+MAIL-5053;2025-09-03;légitime;légitime;0.913;N/A;967;1
+MAIL-5054;2025-09-19;phishing;phishing;0.942;Usurpation fournisseur;940;6
+MAIL-5055;2025-09-06;phishing;phishing;0.819;Usurpation bancaire;308;5
+MAIL-5056;2025-09-01;légitime;phishing;0.552;N/A;953;2
+MAIL-5057;2025-09-03;légitime;légitime;0.883;N/A;920;1
+MAIL-5058;2025-09-23;phishing;phishing;0.932;Phishing RH/paie;294;2
+MAIL-5059;2025-09-05;phishing;phishing;0.862;Fausse facture;378;2
+MAIL-5060;2025-09-12;légitime;légitime;0.976;N/A;994;0
+MAIL-5061;2025-09-29;phishing;phishing;0.909;Fausse livraison colis;389;3
+MAIL-5062;2025-09-17;légitime;légitime;0.984;N/A;944;1
+MAIL-5063;2025-09-09;légitime;légitime;0.983;N/A;727;2
+MAIL-5064;2025-09-29;légitime;légitime;0.787;N/A;1151;1
+MAIL-5065;2025-09-08;légitime;légitime;0.97;N/A;467;2
+MAIL-5066;2025-09-08;phishing;phishing;0.845;Usurpation bancaire;92;4
+MAIL-5067;2025-09-16;phishing;phishing;0.91;Usurpation bancaire;112;5
+MAIL-5068;2025-09-18;phishing;phishing;0.953;Faux support technique;627;0
+MAIL-5069;2025-09-12;légitime;légitime;0.792;N/A;262;2
+MAIL-5070;2025-09-04;légitime;légitime;0.828;N/A;321;2
+MAIL-5071;2025-09-28;légitime;légitime;0.788;N/A;556;2
+MAIL-5072;2025-09-14;phishing;phishing;0.94;Phishing RH/paie;834;4
+MAIL-5073;2025-09-16;légitime;légitime;0.985;N/A;158;2
+MAIL-5074;2025-09-04;phishing;phishing;0.87;Usurpation fournisseur;170;3
+MAIL-5075;2025-09-05;légitime;légitime;0.973;N/A;906;0
+MAIL-5076;2025-09-13;phishing;phishing;0.917;Usurpation fournisseur;976;5
+MAIL-5077;2025-09-05;légitime;légitime;0.936;N/A;883;2
+MAIL-5078;2025-09-11;phishing;phishing;0.925;Faux support technique;620;2
+MAIL-5079;2025-09-18;phishing;phishing;0.921;Fausse livraison colis;107;4
+MAIL-5080;2025-09-19;légitime;légitime;0.98;N/A;746;1
+MAIL-5081;2025-09-08;légitime;légitime;0.793;N/A;471;1
+MAIL-5082;2025-09-13;légitime;légitime;0.92;N/A;934;0
+MAIL-5083;2025-09-14;phishing;phishing;0.951;Fausse livraison colis;645;6
+MAIL-5084;2025-09-30;légitime;légitime;0.956;N/A;838;1
+MAIL-5085;2025-09-14;phishing;phishing;0.838;Fausse livraison colis;1154;3
+MAIL-5086;2025-09-20;légitime;légitime;0.907;N/A;905;2
+MAIL-5087;2025-09-20;phishing;phishing;0.915;Fausse facture;329;3
+MAIL-5088;2025-09-26;légitime;légitime;0.821;N/A;1119;0
+MAIL-5089;2025-09-04;phishing;phishing;0.887;Faux support technique;1004;6
+MAIL-5090;2025-09-06;légitime;légitime;0.902;N/A;1043;2
+MAIL-5091;2025-09-28;légitime;légitime;0.895;N/A;356;2
+MAIL-5092;2025-09-18;légitime;légitime;0.792;N/A;687;2
+MAIL-5093;2025-09-30;phishing;phishing;0.888;Usurpation bancaire;756;4
+MAIL-5094;2025-09-29;légitime;légitime;0.98;N/A;1178;0
+MAIL-5095;2025-09-04;légitime;légitime;0.914;N/A;394;2
+MAIL-5096;2025-09-17;légitime;légitime;0.94;N/A;953;1
+MAIL-5097;2025-09-03;légitime;légitime;0.885;N/A;227;2
+MAIL-5098;2025-09-05;phishing;phishing;0.889;Fausse livraison colis;699;2
+MAIL-5099;2025-09-30;phishing;phishing;0.939;Faux support technique;597;2
+MAIL-5100;2025-09-16;phishing;phishing;0.941;Phishing RH/paie;131;0
+MAIL-5101;2025-09-30;légitime;légitime;0.976;N/A;145;2
+MAIL-5102;2025-09-25;phishing;phishing;0.844;Fausse livraison colis;166;3
+MAIL-5103;2025-09-19;phishing;phishing;0.818;Fausse livraison colis;964;4
+MAIL-5104;2025-09-13;légitime;légitime;0.875;N/A;780;2
+MAIL-5105;2025-09-06;phishing;phishing;0.81;Fausse livraison colis;1016;4
+MAIL-5106;2025-09-14;phishing;légitime;0.74;Usurpation bancaire;856;3
+MAIL-5107;2025-09-23;phishing;phishing;0.953;Phishing RH/paie;866;5
+MAIL-5108;2025-09-30;légitime;légitime;0.851;N/A;976;1
+MAIL-5109;2025-09-10;légitime;légitime;0.787;N/A;492;2
+MAIL-5110;2025-09-17;phishing;phishing;0.882;Usurpation bancaire;727;4
+MAIL-5111;2025-09-28;légitime;légitime;0.974;N/A;546;1
+MAIL-5112;2025-09-08;phishing;phishing;0.801;Usurpation fournisseur;771;0
+MAIL-5113;2025-09-17;légitime;légitime;0.791;N/A;873;2
+MAIL-5114;2025-09-11;légitime;légitime;0.932;N/A;1093;1
+MAIL-5115;2025-09-06;légitime;phishing;0.577;N/A;913;1
+MAIL-5116;2025-09-24;phishing;phishing;0.892;Phishing RH/paie;186;6
+MAIL-5117;2025-09-18;légitime;légitime;0.841;N/A;150;0
+MAIL-5118;2025-09-09;légitime;phishing;0.736;N/A;91;0
+MAIL-5119;2025-09-14;phishing;légitime;0.77;Usurpation fournisseur;669;6
+MAIL-5120;2025-09-10;légitime;légitime;0.977;N/A;876;0
+MAIL-5121;2025-09-21;phishing;phishing;0.974;Fausse livraison colis;702;6
+MAIL-5122;2025-09-10;phishing;phishing;0.845;Fausse livraison colis;823;5
+MAIL-5123;2025-09-04;légitime;légitime;0.947;N/A;306;2
+MAIL-5124;2025-09-09;légitime;légitime;0.912;N/A;799;2
+MAIL-5125;2025-09-14;phishing;phishing;0.807;Faux support technique;175;3
+MAIL-5126;2025-09-22;phishing;phishing;0.943;Fausse facture;240;0
+MAIL-5127;2025-09-05;légitime;légitime;0.868;N/A;105;2
+MAIL-5128;2025-09-26;phishing;phishing;0.868;Fausse facture;373;4
+MAIL-5129;2025-09-21;légitime;légitime;0.781;N/A;450;2
+MAIL-5130;2025-09-05;phishing;phishing;0.808;Usurpation fournisseur;109;5
+MAIL-5131;2025-09-23;phishing;phishing;0.912;Fausse facture;718;6
+MAIL-5132;2025-09-13;phishing;phishing;0.963;Faux support technique;140;6
+MAIL-5133;2025-09-13;phishing;phishing;0.857;Usurpation fournisseur;324;0
+MAIL-5134;2025-09-16;légitime;légitime;0.987;N/A;872;1
+MAIL-5135;2025-09-05;légitime;légitime;0.855;N/A;594;0
+MAIL-5136;2025-09-15;légitime;phishing;0.617;N/A;152;2
+MAIL-5137;2025-09-02;légitime;légitime;0.949;N/A;86;0
+MAIL-5138;2025-09-01;légitime;légitime;0.799;N/A;231;2
+MAIL-5139;2025-09-07;légitime;légitime;0.897;N/A;786;1
+MAIL-5140;2025-09-16;légitime;légitime;0.899;N/A;523;0
+MAIL-5141;2025-09-12;légitime;légitime;0.88;N/A;118;2
+MAIL-5142;2025-09-11;légitime;légitime;0.868;N/A;387;1
+MAIL-5143;2025-09-21;phishing;phishing;0.924;Usurpation fournisseur;873;3
+MAIL-5144;2025-09-02;phishing;phishing;0.955;Usurpation bancaire;323;0
+MAIL-5145;2025-09-17;légitime;légitime;0.863;N/A;862;0
+MAIL-5146;2025-09-13;phishing;phishing;0.853;Fausse facture;1027;2
+MAIL-5147;2025-09-09;légitime;légitime;0.786;N/A;266;2
+MAIL-5148;2025-09-14;légitime;légitime;0.796;N/A;879;1
+MAIL-5149;2025-09-07;légitime;légitime;0.861;N/A;494;2
+MAIL-5150;2025-09-05;légitime;légitime;0.854;N/A;869;2
+MAIL-5151;2025-09-23;phishing;phishing;0.862;Fausse livraison colis;178;3
+MAIL-5152;2025-09-02;phishing;phishing;0.986;Fausse livraison colis;461;4
+MAIL-5153;2025-09-23;phishing;phishing;0.986;Fausse livraison colis;209;2
+MAIL-5154;2025-09-02;phishing;phishing;0.922;Fausse facture;634;6
+MAIL-5155;2025-09-12;légitime;légitime;0.858;N/A;368;0
+MAIL-5156;2025-09-12;légitime;légitime;0.863;N/A;409;2
+MAIL-5157;2025-09-11;légitime;légitime;0.795;N/A;1046;2
+MAIL-5158;2025-09-13;légitime;légitime;0.99;N/A;138;2
+MAIL-5159;2025-09-24;phishing;phishing;0.914;Usurpation fournisseur;233;4
+MAIL-5160;2025-09-07;légitime;légitime;0.928;N/A;621;2
+MAIL-5161;2025-09-05;phishing;phishing;0.878;Fausse livraison colis;1037;5
+MAIL-5162;2025-09-24;phishing;phishing;0.964;Usurpation bancaire;869;6
+MAIL-5163;2025-09-21;légitime;légitime;0.836;N/A;891;1
+MAIL-5164;2025-09-09;phishing;phishing;0.847;Faux support technique;461;0
+MAIL-5165;2025-09-06;phishing;phishing;0.932;Usurpation fournisseur;761;5
+MAIL-5166;2025-09-30;légitime;légitime;0.918;N/A;738;0
+MAIL-5167;2025-09-11;légitime;légitime;0.855;N/A;335;1
+MAIL-5168;2025-09-07;phishing;phishing;0.971;Phishing RH/paie;395;2
+MAIL-5169;2025-09-14;légitime;légitime;0.866;N/A;1046;0
+MAIL-5170;2025-09-15;phishing;phishing;0.864;Faux support technique;1082;4
+MAIL-5171;2025-09-08;phishing;légitime;0.595;Phishing RH/paie;858;2
+MAIL-5172;2025-09-23;légitime;légitime;0.936;N/A;915;0
+MAIL-5173;2025-09-12;légitime;légitime;0.978;N/A;1167;2
+MAIL-5174;2025-09-26;légitime;légitime;0.868;N/A;931;0
+MAIL-5175;2025-09-16;légitime;légitime;0.869;N/A;440;1
+MAIL-5176;2025-09-30;légitime;légitime;0.833;N/A;1015;0
+MAIL-5177;2025-09-24;légitime;légitime;0.844;N/A;709;2
+MAIL-5178;2025-09-09;légitime;légitime;0.968;N/A;652;2
+MAIL-5179;2025-09-17;phishing;phishing;0.968;Fausse livraison colis;543;4
+MAIL-5180;2025-09-08;légitime;légitime;0.804;N/A;396;0
+MAIL-5181;2025-09-19;légitime;légitime;0.879;N/A;840;0
+MAIL-5182;2025-09-18;phishing;phishing;0.836;Usurpation fournisseur;747;1
+MAIL-5183;2025-09-23;légitime;légitime;0.792;N/A;662;2
+MAIL-5184;2025-09-27;légitime;légitime;0.866;N/A;759;0
+MAIL-5185;2025-09-24;phishing;phishing;0.933;Usurpation bancaire;224;0
+MAIL-5186;2025-09-25;légitime;légitime;0.832;N/A;1141;0
+MAIL-5187;2025-09-30;légitime;légitime;0.796;N/A;861;2
+MAIL-5188;2025-09-25;légitime;légitime;0.956;N/A;936;1
+MAIL-5189;2025-09-30;légitime;légitime;0.896;N/A;259;0
+MAIL-5190;2025-09-19;légitime;légitime;0.869;N/A;715;0
+MAIL-5191;2025-09-05;légitime;légitime;0.897;N/A;1160;0
+MAIL-5192;2025-09-20;légitime;légitime;0.95;N/A;191;1
+MAIL-5193;2025-09-02;légitime;légitime;0.879;N/A;402;0
+MAIL-5194;2025-09-12;légitime;légitime;0.835;N/A;204;0
+MAIL-5195;2025-09-08;phishing;phishing;0.925;Faux support technique;652;6
+MAIL-5196;2025-09-14;phishing;phishing;0.988;Fausse livraison colis;989;1
+MAIL-5197;2025-09-11;phishing;phishing;0.902;Phishing RH/paie;708;1
+MAIL-5198;2025-09-17;légitime;légitime;0.788;N/A;228;0
+MAIL-5199;2025-09-26;légitime;légitime;0.967;N/A;739;2
+MAIL-5200;2025-09-21;phishing;phishing;0.922;Usurpation fournisseur;628;5
+MAIL-5201;2025-09-27;légitime;légitime;0.799;N/A;395;1
+MAIL-5202;2025-09-01;légitime;légitime;0.971;N/A;339;1
+MAIL-5203;2025-09-12;phishing;phishing;0.82;Fausse livraison colis;1019;2
+MAIL-5204;2025-09-03;phishing;phishing;0.95;Faux support technique;534;5
+MAIL-5205;2025-09-03;légitime;légitime;0.802;N/A;1167;1
+MAIL-5206;2025-09-07;phishing;phishing;0.804;Fausse facture;495;0
+MAIL-5207;2025-09-22;phishing;phishing;0.876;Faux support technique;947;3
+MAIL-5208;2025-09-04;phishing;phishing;0.849;Usurpation fournisseur;407;1
+MAIL-5209;2025-09-23;légitime;légitime;0.913;N/A;473;2
+MAIL-5210;2025-09-13;phishing;légitime;0.774;Fausse facture;681;3
+MAIL-5211;2025-09-02;phishing;phishing;0.821;Usurpation bancaire;649;1
+MAIL-5212;2025-09-13;légitime;légitime;0.781;N/A;749;0
+MAIL-5213;2025-09-23;légitime;légitime;0.929;N/A;485;1
+MAIL-5214;2025-09-01;légitime;légitime;0.867;N/A;1134;2
+MAIL-5215;2025-09-16;légitime;légitime;0.969;N/A;628;0
+MAIL-5216;2025-09-01;légitime;légitime;0.921;N/A;798;0
+MAIL-5217;2025-09-17;légitime;légitime;0.887;N/A;1169;1
+MAIL-5218;2025-09-09;phishing;phishing;0.829;Phishing RH/paie;690;5
+MAIL-5219;2025-09-12;phishing;phishing;0.942;Faux support technique;1129;5
+MAIL-5220;2025-09-27;légitime;légitime;0.907;N/A;516;1
+MAIL-5221;2025-09-10;légitime;légitime;0.922;N/A;109;0
+MAIL-5222;2025-09-08;légitime;légitime;0.874;N/A;82;2
+MAIL-5223;2025-09-28;légitime;phishing;0.696;N/A;1104;0
+MAIL-5224;2025-09-17;phishing;phishing;0.853;Usurpation fournisseur;169;2
+MAIL-5225;2025-09-20;phishing;phishing;0.954;Fausse facture;1084;6
+MAIL-5226;2025-09-23;phishing;phishing;0.939;Usurpation bancaire;904;5
+MAIL-5227;2025-09-11;phishing;phishing;0.935;Phishing RH/paie;325;1
+MAIL-5228;2025-09-05;légitime;légitime;0.89;N/A;685;2
+MAIL-5229;2025-09-23;phishing;phishing;0.854;Fausse livraison colis;243;0
+MAIL-5230;2025-09-26;phishing;phishing;0.805;Phishing RH/paie;1005;5
+MAIL-5231;2025-09-10;phishing;phishing;0.834;Phishing RH/paie;891;0
+MAIL-5232;2025-09-28;légitime;légitime;0.887;N/A;850;2
+MAIL-5233;2025-09-21;légitime;légitime;0.804;N/A;1198;1
+MAIL-5234;2025-09-17;phishing;phishing;0.867;Usurpation fournisseur;370;2
+MAIL-5235;2025-09-20;légitime;légitime;0.808;N/A;1048;0
+MAIL-5236;2025-09-30;phishing;phishing;0.952;Faux support technique;489;4
+MAIL-5237;2025-09-09;légitime;légitime;0.8;N/A;686;2
+MAIL-5238;2025-09-09;légitime;légitime;0.801;N/A;1096;1
+MAIL-5239;2025-09-12;phishing;phishing;0.804;Fausse facture;261;0
+MAIL-5240;2025-09-30;phishing;phishing;0.965;Fausse facture;759;1
+MAIL-5241;2025-09-09;légitime;légitime;0.959;N/A;188;1
+MAIL-5242;2025-09-15;phishing;phishing;0.963;Usurpation bancaire;1186;4
+MAIL-5243;2025-09-21;phishing;phishing;0.935;Fausse livraison colis;390;6
+MAIL-5244;2025-09-12;légitime;légitime;0.888;N/A;1000;1
+MAIL-5245;2025-09-15;légitime;légitime;0.885;N/A;650;1
+MAIL-5246;2025-09-19;légitime;légitime;0.959;N/A;771;1
+MAIL-5247;2025-09-26;phishing;phishing;0.831;Phishing RH/paie;168;1
+MAIL-5248;2025-09-16;phishing;phishing;0.85;Usurpation fournisseur;1019;1
+MAIL-5249;2025-09-18;phishing;phishing;0.951;Usurpation fournisseur;122;1
+MAIL-5250;2025-09-27;légitime;légitime;0.803;N/A;704;0
+MAIL-5251;2025-09-23;phishing;phishing;0.927;Usurpation bancaire;864;1
+MAIL-5252;2025-09-17;phishing;phishing;0.841;Usurpation bancaire;1118;2
+MAIL-5253;2025-09-23;légitime;légitime;0.966;N/A;146;1
+MAIL-5254;2025-09-26;phishing;phishing;0.981;Faux support technique;87;2
+MAIL-5255;2025-09-30;légitime;légitime;0.845;N/A;594;0
+MAIL-5256;2025-09-30;légitime;légitime;0.897;N/A;965;1
+MAIL-5257;2025-09-12;légitime;légitime;0.916;N/A;703;2
+MAIL-5258;2025-09-09;légitime;légitime;0.88;N/A;370;0
+MAIL-5259;2025-09-13;légitime;légitime;0.834;N/A;994;0
+MAIL-5260;2025-09-27;légitime;légitime;0.879;N/A;758;0
+MAIL-5261;2025-09-01;légitime;légitime;0.98;N/A;1125;1
+MAIL-5262;2025-09-02;légitime;légitime;0.94;N/A;1036;1
+MAIL-5263;2025-09-30;légitime;légitime;0.927;N/A;332;0
+MAIL-5264;2025-09-13;phishing;phishing;0.807;Fausse livraison colis;288;5
+MAIL-5265;2025-09-04;phishing;phishing;0.844;Phishing RH/paie;1182;2
+MAIL-5266;2025-09-23;phishing;phishing;0.913;Fausse livraison colis;835;3
+MAIL-5267;2025-09-03;légitime;légitime;0.815;N/A;642;2
+MAIL-5268;2025-09-19;légitime;légitime;0.896;N/A;962;2
+MAIL-5269;2025-09-30;légitime;phishing;0.66;N/A;1107;0
+MAIL-5270;2025-09-07;légitime;légitime;0.909;N/A;566;0
+MAIL-5271;2025-09-21;phishing;phishing;0.848;Faux support technique;335;1
+MAIL-5272;2025-09-13;légitime;légitime;0.985;N/A;297;0
+MAIL-5273;2025-09-19;légitime;légitime;0.842;N/A;548;2
+MAIL-5274;2025-09-28;phishing;phishing;0.848;Fausse livraison colis;148;4
+MAIL-5275;2025-09-12;légitime;légitime;0.807;N/A;508;2
+MAIL-5276;2025-09-06;phishing;phishing;0.917;Usurpation fournisseur;131;6
+MAIL-5277;2025-09-08;légitime;légitime;0.878;N/A;741;0
+MAIL-5278;2025-09-21;légitime;légitime;0.966;N/A;586;0
+MAIL-5279;2025-09-23;phishing;phishing;0.962;Faux support technique;959;2
+MAIL-5280;2025-09-07;légitime;légitime;0.916;N/A;215;2
+MAIL-5281;2025-09-11;légitime;légitime;0.787;N/A;833;2
+MAIL-5282;2025-09-23;phishing;phishing;0.855;Faux support technique;317;2
+MAIL-5283;2025-09-16;légitime;légitime;0.874;N/A;446;0
+MAIL-5284;2025-09-20;légitime;légitime;0.795;N/A;693;2
+MAIL-5285;2025-09-12;légitime;légitime;0.884;N/A;1049;0
+MAIL-5286;2025-09-23;phishing;phishing;0.855;Faux support technique;935;1
+MAIL-5287;2025-09-25;phishing;phishing;0.908;Fausse facture;557;2
+MAIL-5288;2025-09-05;légitime;phishing;0.776;N/A;1075;2
+MAIL-5289;2025-09-08;légitime;légitime;0.831;N/A;535;2
+MAIL-5290;2025-09-15;légitime;légitime;0.953;N/A;1168;2
+MAIL-5291;2025-09-04;légitime;légitime;0.89;N/A;683;1
+MAIL-5292;2025-09-28;légitime;légitime;0.811;N/A;203;0
+MAIL-5293;2025-09-04;légitime;légitime;0.835;N/A;1069;1
+MAIL-5294;2025-09-26;légitime;légitime;0.974;N/A;1155;2
+MAIL-5295;2025-09-02;phishing;phishing;0.957;Usurpation fournisseur;411;3
+MAIL-5296;2025-09-16;légitime;légitime;0.948;N/A;676;2
+MAIL-5297;2025-09-25;légitime;légitime;0.966;N/A;427;2
+MAIL-5298;2025-09-21;phishing;phishing;0.84;Faux support technique;591;2
+MAIL-5299;2025-09-02;phishing;phishing;0.95;Phishing RH/paie;981;6
+MAIL-5300;2025-09-04;phishing;légitime;0.742;Phishing RH/paie;1052;4
+MAIL-5301;2025-09-13;légitime;légitime;0.84;N/A;385;2
+MAIL-5302;2025-09-29;phishing;légitime;0.766;Faux support technique;396;6
+MAIL-5303;2025-09-16;légitime;légitime;0.944;N/A;208;1
+MAIL-5304;2025-09-27;légitime;légitime;0.917;N/A;189;1
+MAIL-5305;2025-09-13;phishing;phishing;0.849;Phishing RH/paie;770;2
+MAIL-5306;2025-09-30;phishing;phishing;0.932;Usurpation fournisseur;808;4
+MAIL-5307;2025-09-21;légitime;légitime;0.878;N/A;1102;0
+MAIL-5308;2025-09-21;phishing;phishing;0.931;Usurpation bancaire;674;5
+MAIL-5309;2025-09-23;légitime;légitime;0.96;N/A;948;0
+MAIL-5310;2025-09-09;phishing;phishing;0.934;Faux support technique;954;3
+MAIL-5311;2025-09-17;légitime;légitime;0.9;N/A;1100;1
+MAIL-5312;2025-09-23;légitime;légitime;0.809;N/A;303;0
+MAIL-5313;2025-09-24;légitime;légitime;0.801;N/A;311;1
+MAIL-5314;2025-09-11;légitime;légitime;0.855;N/A;190;2
+MAIL-5315;2025-09-09;phishing;phishing;0.835;Phishing RH/paie;540;2
+MAIL-5316;2025-09-06;légitime;légitime;0.798;N/A;515;1
+MAIL-5317;2025-09-12;légitime;légitime;0.965;N/A;375;2
+MAIL-5318;2025-09-09;légitime;légitime;0.832;N/A;1079;2
+MAIL-5319;2025-09-17;phishing;phishing;0.966;Usurpation fournisseur;1193;0
+MAIL-5320;2025-09-23;phishing;phishing;0.967;Fausse facture;302;6
+MAIL-5321;2025-09-30;phishing;phishing;0.853;Usurpation fournisseur;1057;6
+MAIL-5322;2025-09-10;phishing;phishing;0.894;Phishing RH/paie;121;1
+MAIL-5323;2025-09-06;légitime;légitime;0.951;N/A;1096;2
+MAIL-5324;2025-09-05;légitime;phishing;0.762;N/A;801;2
+MAIL-5325;2025-09-10;phishing;phishing;0.858;Fausse facture;1158;3
+MAIL-5326;2025-09-19;légitime;légitime;0.921;N/A;450;0
+MAIL-5327;2025-09-02;légitime;légitime;0.976;N/A;855;0
+MAIL-5328;2025-09-06;légitime;légitime;0.972;N/A;316;2
+MAIL-5329;2025-09-05;phishing;phishing;0.935;Usurpation fournisseur;839;0
+MAIL-5330;2025-09-12;légitime;légitime;0.8;N/A;1002;1
+MAIL-5331;2025-09-03;phishing;légitime;0.556;Fausse livraison colis;270;3
+MAIL-5332;2025-09-12;phishing;phishing;0.812;Fausse facture;940;0
+MAIL-5333;2025-09-22;légitime;légitime;0.851;N/A;610;2
+MAIL-5334;2025-09-17;phishing;phishing;0.897;Faux support technique;224;1
+MAIL-5335;2025-09-17;phishing;phishing;0.891;Phishing RH/paie;448;3
+MAIL-5336;2025-09-06;légitime;légitime;0.807;N/A;125;2
+MAIL-5337;2025-09-26;phishing;phishing;0.897;Phishing RH/paie;722;4
+MAIL-5338;2025-09-20;légitime;légitime;0.84;N/A;947;1
+MAIL-5339;2025-09-11;légitime;légitime;0.806;N/A;601;1
+MAIL-5340;2025-09-21;phishing;phishing;0.822;Faux support technique;330;6
+MAIL-5341;2025-09-21;phishing;phishing;0.93;Phishing RH/paie;730;2
+MAIL-5342;2025-09-04;légitime;légitime;0.902;N/A;853;1
+MAIL-5343;2025-09-28;légitime;légitime;0.81;N/A;483;1
+MAIL-5344;2025-09-30;phishing;phishing;0.932;Usurpation bancaire;674;1
+MAIL-5345;2025-09-27;phishing;phishing;0.826;Usurpation fournisseur;274;2
+MAIL-5346;2025-09-27;phishing;phishing;0.872;Usurpation bancaire;246;1
+MAIL-5347;2025-09-21;légitime;légitime;0.85;N/A;1117;2
+MAIL-5348;2025-09-17;légitime;légitime;0.911;N/A;88;0
+MAIL-5349;2025-09-28;légitime;légitime;0.897;N/A;598;1
+MAIL-5350;2025-09-01;légitime;légitime;0.932;N/A;138;2
+MAIL-5351;2025-09-19;légitime;légitime;0.919;N/A;367;2
+MAIL-5352;2025-09-21;phishing;phishing;0.866;Faux support technique;653;2
+MAIL-5353;2025-09-06;phishing;phishing;0.945;Faux support technique;630;0
+MAIL-5354;2025-09-14;légitime;légitime;0.884;N/A;846;1
+MAIL-5355;2025-09-29;légitime;légitime;0.87;N/A;679;0
+MAIL-5356;2025-09-11;légitime;légitime;0.958;N/A;405;2
+MAIL-5357;2025-09-20;phishing;phishing;0.813;Faux support technique;955;5
+MAIL-5358;2025-09-15;légitime;légitime;0.981;N/A;1022;1
+MAIL-5359;2025-09-07;phishing;phishing;0.985;Fausse livraison colis;150;2
+MAIL-5360;2025-09-17;phishing;phishing;0.87;Usurpation fournisseur;686;0
+MAIL-5361;2025-09-02;légitime;légitime;0.9;N/A;158;2
+MAIL-5362;2025-09-22;légitime;phishing;0.664;N/A;751;0
+MAIL-5363;2025-09-25;légitime;légitime;0.928;N/A;1081;0
+MAIL-5364;2025-09-03;légitime;légitime;0.807;N/A;258;1
+MAIL-5365;2025-09-24;légitime;légitime;0.848;N/A;206;2
+MAIL-5366;2025-09-24;légitime;légitime;0.973;N/A;644;2
+MAIL-5367;2025-09-20;légitime;légitime;0.802;N/A;845;2
+MAIL-5368;2025-09-11;légitime;légitime;0.826;N/A;719;0
+MAIL-5369;2025-09-12;phishing;phishing;0.819;Usurpation fournisseur;685;0
+MAIL-5370;2025-09-14;légitime;légitime;0.923;N/A;163;0
+MAIL-5371;2025-09-14;phishing;phishing;0.858;Fausse facture;163;3
+MAIL-5372;2025-09-02;phishing;phishing;0.902;Usurpation fournisseur;574;1
+MAIL-5373;2025-09-12;phishing;phishing;0.926;Fausse facture;620;3
+MAIL-5374;2025-09-10;légitime;légitime;0.793;N/A;912;0
+MAIL-5375;2025-09-06;légitime;légitime;0.863;N/A;140;1
+MAIL-5376;2025-09-14;phishing;phishing;0.932;Usurpation bancaire;1153;2
+MAIL-5377;2025-09-25;légitime;légitime;0.948;N/A;650;2
+MAIL-5378;2025-09-20;phishing;phishing;0.946;Fausse livraison colis;328;6
+MAIL-5379;2025-09-07;légitime;légitime;0.907;N/A;492;1
+MAIL-5380;2025-09-06;phishing;phishing;0.957;Faux support technique;1128;5
+MAIL-5381;2025-09-02;phishing;phishing;0.879;Usurpation bancaire;1027;4
+MAIL-5382;2025-09-04;légitime;légitime;0.812;N/A;988;2
+MAIL-5383;2025-09-26;phishing;phishing;0.961;Phishing RH/paie;290;1
+MAIL-5384;2025-09-04;phishing;légitime;0.577;Usurpation fournisseur;626;0
+MAIL-5385;2025-09-15;légitime;légitime;0.976;N/A;515;0
+MAIL-5386;2025-09-27;légitime;légitime;0.946;N/A;620;2
+MAIL-5387;2025-09-28;phishing;phishing;0.937;Fausse facture;1041;0
+MAIL-5388;2025-09-29;phishing;phishing;0.843;Faux support technique;922;6
+MAIL-5389;2025-09-15;légitime;légitime;0.851;N/A;1014;0
+MAIL-5390;2025-09-13;phishing;phishing;0.943;Fausse facture;1015;5
+MAIL-5391;2025-09-04;phishing;phishing;0.972;Fausse facture;1041;2
+MAIL-5392;2025-09-05;légitime;légitime;0.897;N/A;1139;0
+MAIL-5393;2025-09-30;légitime;légitime;0.932;N/A;1141;0
+MAIL-5394;2025-09-29;phishing;phishing;0.927;Phishing RH/paie;893;3
+MAIL-5395;2025-09-11;légitime;légitime;0.887;N/A;92;2
+MAIL-5396;2025-09-18;légitime;phishing;0.586;N/A;208;1
+MAIL-5397;2025-09-14;phishing;phishing;0.834;Phishing RH/paie;201;5
+MAIL-5398;2025-09-10;légitime;légitime;0.976;N/A;582;0
+MAIL-5399;2025-09-23;légitime;légitime;0.849;N/A;979;1
+MAIL-5400;2025-09-22;légitime;légitime;0.827;N/A;146;0
+MAIL-5401;2025-09-29;phishing;phishing;0.842;Fausse livraison colis;451;1
+MAIL-5402;2025-09-20;phishing;phishing;0.981;Fausse facture;928;5
+MAIL-5403;2025-09-28;phishing;phishing;0.811;Usurpation fournisseur;105;0
+MAIL-5404;2025-09-01;légitime;légitime;0.913;N/A;157;2
+MAIL-5405;2025-09-17;légitime;légitime;0.951;N/A;318;1
+MAIL-5406;2025-09-03;légitime;légitime;0.797;N/A;777;2
+MAIL-5407;2025-09-19;phishing;phishing;0.974;Usurpation bancaire;580;3
+MAIL-5408;2025-09-16;légitime;légitime;0.795;N/A;1041;2
+MAIL-5409;2025-09-20;légitime;légitime;0.942;N/A;475;2
+MAIL-5410;2025-09-28;phishing;phishing;0.922;Faux support technique;533;6
+MAIL-5411;2025-09-16;légitime;légitime;0.886;N/A;603;1
+MAIL-5412;2025-09-08;phishing;phishing;0.966;Usurpation bancaire;1012;4
+MAIL-5413;2025-09-27;phishing;phishing;0.892;Fausse facture;1128;1
+MAIL-5414;2025-09-19;légitime;légitime;0.843;N/A;171;0
+MAIL-5415;2025-09-12;légitime;légitime;0.931;N/A;153;1
+MAIL-5416;2025-09-09;légitime;légitime;0.932;N/A;166;2
+MAIL-5417;2025-09-20;légitime;légitime;0.907;N/A;462;0
+MAIL-5418;2025-09-04;légitime;légitime;0.838;N/A;647;2
+MAIL-5419;2025-09-08;légitime;phishing;0.685;N/A;306;1
+MAIL-5420;2025-09-12;légitime;légitime;0.983;N/A;381;0
+MAIL-5421;2025-09-28;phishing;phishing;0.889;Fausse livraison colis;986;6
+MAIL-5422;2025-09-05;phishing;phishing;0.92;Phishing RH/paie;330;4
+MAIL-5423;2025-09-28;légitime;légitime;0.902;N/A;696;1
+MAIL-5424;2025-09-22;légitime;légitime;0.944;N/A;1029;0
+MAIL-5425;2025-09-21;légitime;légitime;0.84;N/A;527;0
+MAIL-5426;2025-09-02;légitime;légitime;0.859;N/A;766;1
+MAIL-5427;2025-09-04;phishing;phishing;0.839;Fausse facture;506;4
+MAIL-5428;2025-09-24;légitime;légitime;0.854;N/A;966;1
+MAIL-5429;2025-09-30;légitime;légitime;0.822;N/A;1111;1
+MAIL-5430;2025-09-18;légitime;légitime;0.878;N/A;828;0
+MAIL-5431;2025-09-02;légitime;légitime;0.819;N/A;187;1
+MAIL-5432;2025-09-03;légitime;légitime;0.884;N/A;858;1
+MAIL-5433;2025-09-23;légitime;légitime;0.817;N/A;352;0
+MAIL-5434;2025-09-05;phishing;phishing;0.814;Usurpation bancaire;656;1
+MAIL-5435;2025-09-18;légitime;légitime;0.829;N/A;761;1
+MAIL-5436;2025-09-05;légitime;légitime;0.827;N/A;97;2
+MAIL-5437;2025-09-28;phishing;phishing;0.892;Usurpation bancaire;375;1
+MAIL-5438;2025-09-11;phishing;phishing;0.842;Fausse livraison colis;729;6
+MAIL-5439;2025-09-30;légitime;légitime;0.876;N/A;596;0
+MAIL-5440;2025-09-22;phishing;phishing;0.905;Fausse livraison colis;740;4
+MAIL-5441;2025-09-12;légitime;légitime;0.954;N/A;363;2
+MAIL-5442;2025-09-20;légitime;légitime;0.79;N/A;750;1
+MAIL-5443;2025-09-09;légitime;légitime;0.852;N/A;814;0
+MAIL-5444;2025-09-07;phishing;légitime;0.592;Fausse livraison colis;459;6
+MAIL-5445;2025-09-09;phishing;phishing;0.932;Faux support technique;203;0
+MAIL-5446;2025-09-21;phishing;phishing;0.971;Faux support technique;683;6
+MAIL-5447;2025-09-21;phishing;phishing;0.9;Fausse facture;1061;0
+MAIL-5448;2025-09-11;phishing;phishing;0.847;Usurpation bancaire;1109;6
+MAIL-5449;2025-09-05;légitime;légitime;0.87;N/A;581;2
+MAIL-5450;2025-09-22;légitime;légitime;0.963;N/A;136;2
+MAIL-5451;2025-09-07;phishing;phishing;0.921;Phishing RH/paie;241;0
+MAIL-5452;2025-09-15;phishing;phishing;0.803;Usurpation bancaire;1030;2
+MAIL-5453;2025-09-12;légitime;phishing;0.677;N/A;719;0
+MAIL-5454;2025-09-09;légitime;légitime;0.803;N/A;1174;1
+MAIL-5455;2025-09-02;phishing;phishing;0.986;Phishing RH/paie;233;3
+MAIL-5456;2025-09-28;phishing;phishing;0.931;Faux support technique;923;0
+MAIL-5457;2025-09-27;phishing;phishing;0.983;Usurpation fournisseur;1039;3
+MAIL-5458;2025-09-11;phishing;phishing;0.838;Faux support technique;377;0
+MAIL-5459;2025-09-04;légitime;légitime;0.792;N/A;299;2
+MAIL-5460;2025-09-06;phishing;phishing;0.975;Usurpation bancaire;1008;6
+MAIL-5461;2025-09-08;légitime;légitime;0.817;N/A;926;1
+MAIL-5462;2025-09-12;légitime;légitime;0.947;N/A;555;2
+MAIL-5463;2025-09-23;légitime;légitime;0.961;N/A;337;0
+MAIL-5464;2025-09-11;phishing;phishing;0.948;Fausse livraison colis;179;6
+MAIL-5465;2025-09-11;phishing;phishing;0.928;Usurpation fournisseur;1066;6
+MAIL-5466;2025-09-28;légitime;légitime;0.922;N/A;517;2
+MAIL-5467;2025-09-13;légitime;légitime;0.846;N/A;581;1
+MAIL-5468;2025-09-12;phishing;phishing;0.89;Usurpation fournisseur;944;4
+MAIL-5469;2025-09-04;phishing;phishing;0.976;Phishing RH/paie;270;6
+MAIL-5470;2025-09-03;phishing;phishing;0.886;Usurpation fournisseur;556;0
+MAIL-5471;2025-09-14;phishing;phishing;0.989;Fausse facture;892;2
+MAIL-5472;2025-09-29;phishing;phishing;0.865;Fausse livraison colis;721;2
+MAIL-5473;2025-09-17;légitime;légitime;0.924;N/A;587;1
+MAIL-5474;2025-09-17;légitime;légitime;0.927;N/A;528;2
+MAIL-5475;2025-09-23;légitime;légitime;0.793;N/A;870;1
+MAIL-5476;2025-09-19;légitime;légitime;0.846;N/A;1092;0
+MAIL-5477;2025-09-06;phishing;phishing;0.806;Fausse livraison colis;418;6
+MAIL-5478;2025-09-02;phishing;phishing;0.938;Usurpation fournisseur;1170;5
+MAIL-5479;2025-09-11;légitime;phishing;0.62;N/A;676;0
+MAIL-5480;2025-09-17;légitime;légitime;0.869;N/A;267;0
+MAIL-5481;2025-09-15;légitime;légitime;0.878;N/A;840;1
+MAIL-5482;2025-09-08;phishing;phishing;0.92;Phishing RH/paie;496;5
+MAIL-5483;2025-09-30;phishing;phishing;0.943;Fausse facture;1174;2
+MAIL-5484;2025-09-19;phishing;phishing;0.926;Faux support technique;340;1
+MAIL-5485;2025-09-20;légitime;légitime;0.89;N/A;695;0
+MAIL-5486;2025-09-09;légitime;légitime;0.856;N/A;550;0
+MAIL-5487;2025-09-24;légitime;légitime;0.809;N/A;632;2
+MAIL-5488;2025-09-14;légitime;légitime;0.806;N/A;571;1
+MAIL-5489;2025-09-13;légitime;légitime;0.862;N/A;860;1
+MAIL-5490;2025-09-21;légitime;légitime;0.982;N/A;390;1
+MAIL-5491;2025-09-17;légitime;légitime;0.969;N/A;1060;0
+MAIL-5492;2025-09-03;phishing;phishing;0.864;Fausse livraison colis;837;2
+MAIL-5493;2025-09-02;légitime;légitime;0.948;N/A;1090;2
+MAIL-5494;2025-09-09;légitime;légitime;0.874;N/A;960;1
+MAIL-5495;2025-09-28;légitime;légitime;0.853;N/A;937;0
+MAIL-5496;2025-09-14;légitime;légitime;0.882;N/A;617;0
+MAIL-5497;2025-09-28;légitime;phishing;0.558;N/A;951;1
+MAIL-5498;2025-09-02;légitime;légitime;0.789;N/A;1141;0
+MAIL-5499;2025-09-05;légitime;légitime;0.936;N/A;87;0
+MAIL-5500;2025-09-13;phishing;phishing;0.974;Usurpation fournisseur;605;3
+MAIL-5501;2025-09-01;légitime;légitime;0.947;N/A;342;1
+MAIL-5502;2025-09-08;phishing;phishing;0.805;Fausse livraison colis;228;0
+MAIL-5503;2025-09-09;phishing;légitime;0.699;Usurpation fournisseur;743;6
+MAIL-5504;2025-09-20;légitime;légitime;0.987;N/A;1006;1
+MAIL-5505;2025-09-21;phishing;phishing;0.802;Fausse livraison colis;98;5
+MAIL-5506;2025-09-14;légitime;légitime;0.9;N/A;351;2
+MAIL-5507;2025-09-26;légitime;légitime;0.93;N/A;1043;2
+MAIL-5508;2025-09-03;légitime;légitime;0.94;N/A;1172;1
+MAIL-5509;2025-09-20;légitime;légitime;0.847;N/A;733;2
+MAIL-5510;2025-09-15;phishing;phishing;0.939;Usurpation bancaire;773;2
+MAIL-5511;2025-09-01;légitime;légitime;0.97;N/A;1025;1
+MAIL-5512;2025-09-21;phishing;phishing;0.933;Usurpation fournisseur;513;1
+MAIL-5513;2025-09-28;phishing;légitime;0.642;Faux support technique;180;3
+MAIL-5514;2025-09-29;phishing;légitime;0.564;Fausse livraison colis;795;4
+MAIL-5515;2025-09-16;phishing;phishing;0.934;Fausse facture;888;4
+MAIL-5516;2025-09-14;légitime;phishing;0.671;N/A;888;1
+MAIL-5517;2025-09-24;légitime;légitime;0.894;N/A;363;2
+MAIL-5518;2025-09-23;phishing;phishing;0.954;Fausse livraison colis;226;2
+MAIL-5519;2025-09-06;phishing;phishing;0.987;Faux support technique;812;5
+MAIL-5520;2025-09-12;phishing;phishing;0.928;Faux support technique;996;2
+MAIL-5521;2025-09-11;légitime;légitime;0.979;N/A;119;1
+MAIL-5522;2025-09-11;phishing;légitime;0.648;Fausse livraison colis;974;0
+MAIL-5523;2025-09-07;légitime;légitime;0.915;N/A;348;2
+MAIL-5524;2025-09-04;légitime;phishing;0.786;N/A;1187;0
+MAIL-5525;2025-09-06;légitime;légitime;0.864;N/A;621;0
+MAIL-5526;2025-09-27;légitime;légitime;0.783;N/A;577;0
+MAIL-5527;2025-09-20;légitime;légitime;0.818;N/A;691;0
+MAIL-5528;2025-09-07;légitime;légitime;0.886;N/A;644;2
+MAIL-5529;2025-09-17;légitime;légitime;0.873;N/A;1092;0
+MAIL-5530;2025-09-11;légitime;légitime;0.85;N/A;916;0
+MAIL-5531;2025-09-12;phishing;phishing;0.873;Fausse livraison colis;455;6
+MAIL-5532;2025-09-11;phishing;légitime;0.705;Fausse facture;700;3
+MAIL-5533;2025-09-24;phishing;phishing;0.89;Usurpation fournisseur;904;1
+MAIL-5534;2025-09-03;légitime;légitime;0.84;N/A;1167;2
+MAIL-5535;2025-09-23;phishing;phishing;0.846;Fausse livraison colis;263;0
+MAIL-5536;2025-09-25;légitime;légitime;0.885;N/A;690;1
+MAIL-5537;2025-09-17;phishing;phishing;0.953;Faux support technique;281;4
+MAIL-5538;2025-09-08;phishing;phishing;0.877;Fausse livraison colis;800;4
+MAIL-5539;2025-09-29;phishing;phishing;0.946;Faux support technique;930;0
+MAIL-5540;2025-09-15;légitime;légitime;0.846;N/A;258;2
+MAIL-5541;2025-09-06;légitime;légitime;0.807;N/A;894;0
+MAIL-5542;2025-09-11;légitime;légitime;0.957;N/A;965;2
+MAIL-5543;2025-09-12;légitime;légitime;0.925;N/A;1110;1
+MAIL-5544;2025-09-08;phishing;phishing;0.858;Faux support technique;467;0
+MAIL-5545;2025-09-16;légitime;légitime;0.971;N/A;577;0
+MAIL-5546;2025-09-29;phishing;phishing;0.869;Fausse livraison colis;175;3
+MAIL-5547;2025-09-29;légitime;légitime;0.934;N/A;114;2
+MAIL-5548;2025-09-16;phishing;phishing;0.922;Fausse facture;697;5
+MAIL-5549;2025-09-02;phishing;phishing;0.973;Fausse facture;494;1
+MAIL-5550;2025-09-29;légitime;légitime;0.903;N/A;740;2
+MAIL-5551;2025-09-09;légitime;légitime;0.793;N/A;518;2
+MAIL-5552;2025-09-26;phishing;phishing;0.955;Usurpation fournisseur;98;3
+MAIL-5553;2025-09-30;phishing;phishing;0.976;Faux support technique;681;3
+MAIL-5554;2025-09-13;légitime;légitime;0.861;N/A;295;0
+MAIL-5555;2025-09-09;phishing;phishing;0.906;Usurpation fournisseur;141;4
+MAIL-5556;2025-09-24;légitime;légitime;0.983;N/A;765;1
+MAIL-5557;2025-09-22;phishing;phishing;0.807;Fausse livraison colis;232;6
+MAIL-5558;2025-09-28;légitime;légitime;0.92;N/A;100;0
+MAIL-5559;2025-09-01;légitime;légitime;0.798;N/A;306;1
+MAIL-5560;2025-09-11;phishing;phishing;0.914;Fausse facture;376;5
+MAIL-5561;2025-09-21;phishing;phishing;0.804;Phishing RH/paie;372;2
+MAIL-5562;2025-09-28;légitime;légitime;0.887;N/A;622;0
+MAIL-5563;2025-09-11;légitime;légitime;0.972;N/A;547;2
+MAIL-5564;2025-09-16;légitime;légitime;0.947;N/A;1152;1
+MAIL-5565;2025-09-06;légitime;légitime;0.973;N/A;685;1
+MAIL-5566;2025-09-07;légitime;légitime;0.841;N/A;480;1
+MAIL-5567;2025-09-21;phishing;phishing;0.91;Phishing RH/paie;185;6
+MAIL-5568;2025-09-27;légitime;légitime;0.881;N/A;265;1
+MAIL-5569;2025-09-14;légitime;légitime;0.814;N/A;952;1
+MAIL-5570;2025-09-24;phishing;phishing;0.802;Fausse facture;337;5
+MAIL-5571;2025-09-30;légitime;légitime;0.801;N/A;415;1
+MAIL-5572;2025-09-14;légitime;légitime;0.904;N/A;945;2
+MAIL-5573;2025-09-01;phishing;phishing;0.989;Fausse livraison colis;1135;4
+MAIL-5574;2025-09-21;phishing;phishing;0.985;Fausse livraison colis;366;0
+MAIL-5575;2025-09-05;légitime;légitime;0.912;N/A;845;1
+MAIL-5576;2025-09-20;phishing;phishing;0.98;Fausse facture;986;3
+MAIL-5577;2025-09-09;phishing;phishing;0.847;Phishing RH/paie;1190;4
+MAIL-5578;2025-09-27;phishing;phishing;0.87;Faux support technique;259;0
+MAIL-5579;2025-09-15;légitime;légitime;0.882;N/A;895;2
+MAIL-5580;2025-09-04;légitime;légitime;0.792;N/A;679;0
+MAIL-5581;2025-09-15;légitime;légitime;0.939;N/A;311;1
+MAIL-5582;2025-09-11;légitime;légitime;0.784;N/A;525;0
+MAIL-5583;2025-09-24;phishing;phishing;0.865;Faux support technique;389;1
+MAIL-5584;2025-09-24;phishing;phishing;0.854;Phishing RH/paie;873;0
+MAIL-5585;2025-09-06;phishing;phishing;0.932;Usurpation fournisseur;1116;6
+MAIL-5586;2025-09-16;phishing;phishing;0.964;Usurpation bancaire;962;1
+MAIL-5587;2025-09-11;phishing;phishing;0.864;Fausse facture;785;3
+MAIL-5588;2025-09-01;phishing;phishing;0.97;Faux support technique;468;3
+MAIL-5589;2025-09-08;légitime;légitime;0.974;N/A;757;1
+MAIL-5590;2025-09-16;phishing;phishing;0.887;Fausse livraison colis;1033;6
+MAIL-5591;2025-09-20;légitime;légitime;0.881;N/A;774;0
+MAIL-5592;2025-09-23;légitime;légitime;0.983;N/A;607;0
+MAIL-5593;2025-09-30;légitime;légitime;0.969;N/A;789;2
+MAIL-5594;2025-09-13;phishing;phishing;0.922;Faux support technique;416;3
+MAIL-5595;2025-09-21;phishing;phishing;0.817;Phishing RH/paie;222;5
+MAIL-5596;2025-09-17;légitime;légitime;0.877;N/A;221;0
+MAIL-5597;2025-09-21;légitime;légitime;0.841;N/A;475;1
+MAIL-5598;2025-09-02;légitime;légitime;0.978;N/A;743;2
+MAIL-5599;2025-09-08;légitime;légitime;0.811;N/A;529;0
+MAIL-5600;2025-09-03;légitime;légitime;0.954;N/A;992;0
+MAIL-5601;2025-09-17;légitime;légitime;0.828;N/A;1005;2
+MAIL-5602;2025-09-03;phishing;phishing;0.92;Usurpation bancaire;1177;4
+MAIL-5603;2025-09-23;légitime;légitime;0.837;N/A;301;0
+MAIL-5604;2025-09-06;phishing;phishing;0.88;Fausse livraison colis;452;5
+MAIL-5605;2025-09-06;légitime;légitime;0.879;N/A;1010;1
+MAIL-5606;2025-09-08;légitime;légitime;0.815;N/A;542;0
+MAIL-5607;2025-09-30;phishing;phishing;0.912;Usurpation bancaire;590;3
+MAIL-5608;2025-09-22;légitime;légitime;0.964;N/A;366;0
+MAIL-5609;2025-09-01;phishing;phishing;0.868;Fausse facture;875;4
+MAIL-5610;2025-09-15;légitime;légitime;0.925;N/A;863;0
+MAIL-5611;2025-09-26;légitime;légitime;0.929;N/A;156;0
+MAIL-5612;2025-09-20;phishing;phishing;0.983;Faux support technique;1023;5
+MAIL-5613;2025-09-30;phishing;phishing;0.801;Faux support technique;210;3
+MAIL-5614;2025-09-10;légitime;légitime;0.845;N/A;1046;0
+MAIL-5615;2025-09-20;phishing;phishing;0.961;Usurpation bancaire;710;1
+MAIL-5616;2025-09-22;légitime;légitime;0.852;N/A;984;0
+MAIL-5617;2025-09-13;phishing;phishing;0.978;Fausse livraison colis;1065;1
+MAIL-5618;2025-09-15;phishing;phishing;0.817;Faux support technique;824;4
+MAIL-5619;2025-09-24;légitime;légitime;0.938;N/A;885;0
+MAIL-5620;2025-09-08;légitime;légitime;0.941;N/A;875;0
+MAIL-5621;2025-09-23;légitime;légitime;0.968;N/A;409;2
+MAIL-5622;2025-09-10;légitime;légitime;0.913;N/A;480;2
+MAIL-5623;2025-09-19;légitime;légitime;0.865;N/A;325;1
+MAIL-5624;2025-09-21;phishing;phishing;0.972;Fausse facture;623;6
+MAIL-5625;2025-09-03;phishing;phishing;0.838;Phishing RH/paie;539;4
+MAIL-5626;2025-09-21;phishing;phishing;0.965;Usurpation fournisseur;630;1
+MAIL-5627;2025-09-22;phishing;phishing;0.864;Usurpation bancaire;401;6
+MAIL-5628;2025-09-12;phishing;phishing;0.826;Phishing RH/paie;801;1
+MAIL-5629;2025-09-08;phishing;phishing;0.972;Usurpation fournisseur;326;4
+MAIL-5630;2025-09-18;légitime;légitime;0.868;N/A;832;2
+MAIL-5631;2025-09-19;légitime;légitime;0.889;N/A;719;1
+MAIL-5632;2025-09-28;légitime;légitime;0.813;N/A;861;0
+MAIL-5633;2025-09-12;légitime;légitime;0.87;N/A;89;1
+MAIL-5634;2025-09-08;légitime;légitime;0.911;N/A;341;0
+MAIL-5635;2025-09-30;phishing;phishing;0.921;Fausse livraison colis;494;2
+MAIL-5636;2025-09-13;phishing;phishing;0.818;Usurpation bancaire;995;6
+MAIL-5637;2025-09-02;phishing;phishing;0.917;Fausse facture;1068;4
+MAIL-5638;2025-09-28;légitime;légitime;0.843;N/A;123;1
+MAIL-5639;2025-09-22;phishing;phishing;0.832;Phishing RH/paie;760;2
+MAIL-5640;2025-09-16;phishing;légitime;0.636;Usurpation fournisseur;533;4
+MAIL-5641;2025-09-22;légitime;légitime;0.929;N/A;816;1
+MAIL-5642;2025-09-21;phishing;phishing;0.901;Usurpation bancaire;155;2
+MAIL-5643;2025-09-22;phishing;phishing;0.955;Phishing RH/paie;348;0
+MAIL-5644;2025-09-25;légitime;légitime;0.838;N/A;749;0
+MAIL-5645;2025-09-19;phishing;phishing;0.972;Fausse livraison colis;307;3
+MAIL-5646;2025-09-07;légitime;légitime;0.919;N/A;246;0
+MAIL-5647;2025-09-16;phishing;phishing;0.84;Usurpation bancaire;658;6
+MAIL-5648;2025-09-22;légitime;phishing;0.586;N/A;1102;0
+MAIL-5649;2025-09-27;légitime;légitime;0.918;N/A;311;2
+MAIL-5650;2025-09-14;légitime;légitime;0.918;N/A;591;0
+MAIL-5651;2025-09-29;légitime;légitime;0.966;N/A;403;2
+MAIL-5652;2025-09-06;légitime;légitime;0.963;N/A;468;1
+MAIL-5653;2025-09-22;légitime;légitime;0.945;N/A;179;1
+MAIL-5654;2025-09-28;phishing;phishing;0.915;Fausse facture;317;6
+MAIL-5655;2025-09-24;phishing;phishing;0.97;Usurpation bancaire;983;5
+MAIL-5656;2025-09-08;légitime;légitime;0.798;N/A;945;1
+MAIL-5657;2025-09-09;phishing;phishing;0.92;Usurpation bancaire;276;0
+MAIL-5658;2025-09-01;légitime;légitime;0.982;N/A;282;1
+MAIL-5659;2025-09-06;phishing;phishing;0.851;Usurpation bancaire;1006;4
+MAIL-5660;2025-09-04;légitime;légitime;0.983;N/A;954;1
+MAIL-5661;2025-09-28;phishing;phishing;0.814;Usurpation bancaire;997;4
+MAIL-5662;2025-09-16;légitime;légitime;0.972;N/A;170;1
+MAIL-5663;2025-09-29;légitime;phishing;0.771;N/A;176;1
+MAIL-5664;2025-09-04;phishing;phishing;0.919;Faux support technique;498;2
+MAIL-5665;2025-09-23;légitime;légitime;0.972;N/A;835;2
+MAIL-5666;2025-09-02;phishing;phishing;0.969;Fausse livraison colis;322;2
+MAIL-5667;2025-09-06;légitime;légitime;0.798;N/A;96;1
+MAIL-5668;2025-09-14;légitime;légitime;0.964;N/A;477;2
+MAIL-5669;2025-09-11;légitime;légitime;0.839;N/A;1056;1
+MAIL-5670;2025-09-14;légitime;légitime;0.923;N/A;582;2
+MAIL-5671;2025-09-03;légitime;légitime;0.923;N/A;1075;2
+MAIL-5672;2025-09-28;légitime;légitime;0.938;N/A;179;2
+MAIL-5673;2025-09-03;phishing;phishing;0.902;Fausse facture;1136;6
+MAIL-5674;2025-09-14;phishing;phishing;0.856;Usurpation fournisseur;425;3
+MAIL-5675;2025-09-25;phishing;phishing;0.838;Usurpation fournisseur;1008;5
+MAIL-5676;2025-09-08;légitime;légitime;0.834;N/A;1194;2
+MAIL-5677;2025-09-23;phishing;phishing;0.927;Usurpation fournisseur;156;4
+MAIL-5678;2025-09-21;phishing;phishing;0.858;Phishing RH/paie;970;1
+MAIL-5679;2025-09-21;légitime;légitime;0.929;N/A;995;0
+MAIL-5680;2025-09-26;phishing;phishing;0.983;Phishing RH/paie;322;5
+MAIL-5681;2025-09-12;légitime;légitime;0.922;N/A;522;1
+MAIL-5682;2025-09-26;légitime;légitime;0.83;N/A;1110;1
+MAIL-5683;2025-09-08;phishing;phishing;0.937;Phishing RH/paie;751;4
+MAIL-5684;2025-09-14;légitime;légitime;0.984;N/A;766;1
+MAIL-5685;2025-09-22;légitime;légitime;0.796;N/A;997;1
+MAIL-5686;2025-09-02;légitime;légitime;0.854;N/A;396;1
+MAIL-5687;2025-09-13;phishing;phishing;0.953;Phishing RH/paie;228;5
+MAIL-5688;2025-09-12;légitime;légitime;0.944;N/A;199;2
+MAIL-5689;2025-09-10;phishing;phishing;0.988;Fausse livraison colis;486;1
+MAIL-5690;2025-09-22;légitime;légitime;0.895;N/A;422;1
+MAIL-5691;2025-09-24;phishing;phishing;0.887;Usurpation fournisseur;996;6
+MAIL-5692;2025-09-12;légitime;légitime;0.91;N/A;210;1
+MAIL-5693;2025-09-07;légitime;légitime;0.882;N/A;666;1
+MAIL-5694;2025-09-25;phishing;phishing;0.822;Fausse facture;727;2
+MAIL-5695;2025-09-19;légitime;légitime;0.962;N/A;714;2
+MAIL-5696;2025-09-22;légitime;légitime;0.918;N/A;277;2
+MAIL-5697;2025-09-04;légitime;légitime;0.903;N/A;817;2
+MAIL-5698;2025-09-07;légitime;légitime;0.901;N/A;970;1
+MAIL-5699;2025-09-06;légitime;légitime;0.871;N/A;930;2
+MAIL-5700;2025-09-28;phishing;phishing;0.928;Usurpation fournisseur;453;1
+MAIL-5701;2025-09-19;légitime;phishing;0.596;N/A;1147;0
+MAIL-5702;2025-09-25;phishing;phishing;0.9;Fausse livraison colis;226;4
+MAIL-5703;2025-09-01;légitime;légitime;0.783;N/A;852;2
+MAIL-5704;2025-09-12;légitime;légitime;0.967;N/A;869;2
+MAIL-5705;2025-09-15;légitime;légitime;0.872;N/A;612;0
+MAIL-5706;2025-09-20;légitime;légitime;0.889;N/A;859;2
+MAIL-5707;2025-09-16;phishing;phishing;0.829;Usurpation bancaire;635;2
+MAIL-5708;2025-09-03;phishing;phishing;0.854;Phishing RH/paie;646;6
+MAIL-5709;2025-09-13;phishing;phishing;0.947;Faux support technique;728;1
+MAIL-5710;2025-09-06;légitime;légitime;0.934;N/A;998;2
+MAIL-5711;2025-09-05;phishing;phishing;0.852;Fausse livraison colis;585;1
+MAIL-5712;2025-09-07;phishing;phishing;0.978;Faux support technique;890;4
+MAIL-5713;2025-09-20;phishing;phishing;0.942;Usurpation bancaire;1147;6
+MAIL-5714;2025-09-05;légitime;légitime;0.95;N/A;375;1
+MAIL-5715;2025-09-24;légitime;légitime;0.784;N/A;443;0
+MAIL-5716;2025-09-18;phishing;phishing;0.891;Faux support technique;491;2
+MAIL-5717;2025-09-03;phishing;phishing;0.895;Usurpation bancaire;895;4
+MAIL-5718;2025-09-10;légitime;légitime;0.841;N/A;898;2
+MAIL-5719;2025-09-17;phishing;phishing;0.916;Usurpation bancaire;520;2
+MAIL-5720;2025-09-01;légitime;légitime;0.936;N/A;811;2
+MAIL-5721;2025-09-24;légitime;légitime;0.792;N/A;441;0
+MAIL-5722;2025-09-12;phishing;phishing;0.97;Phishing RH/paie;420;1
+MAIL-5723;2025-09-04;légitime;légitime;0.957;N/A;557;0
+MAIL-5724;2025-09-30;légitime;légitime;0.939;N/A;1047;2
+MAIL-5725;2025-09-17;légitime;légitime;0.863;N/A;83;0
+MAIL-5726;2025-09-29;légitime;légitime;0.947;N/A;82;1
+MAIL-5727;2025-09-07;légitime;légitime;0.786;N/A;468;1
+MAIL-5728;2025-09-20;phishing;phishing;0.897;Fausse facture;1076;0
+MAIL-5729;2025-09-27;phishing;phishing;0.889;Usurpation fournisseur;197;2
+MAIL-5730;2025-09-29;phishing;phishing;0.989;Faux support technique;867;2
+MAIL-5731;2025-09-04;légitime;légitime;0.841;N/A;1043;2
+MAIL-5732;2025-09-19;légitime;légitime;0.972;N/A;1004;1
+MAIL-5733;2025-09-29;phishing;phishing;0.874;Usurpation bancaire;1044;2
+MAIL-5734;2025-09-27;légitime;légitime;0.81;N/A;233;1
+MAIL-5735;2025-09-15;phishing;phishing;0.8;Fausse livraison colis;316;1
+MAIL-5736;2025-09-19;légitime;légitime;0.869;N/A;1080;1
+MAIL-5737;2025-09-10;phishing;légitime;0.673;Phishing RH/paie;648;5
+MAIL-5738;2025-09-14;légitime;légitime;0.852;N/A;787;1
+MAIL-5739;2025-09-25;légitime;légitime;0.805;N/A;905;1
+MAIL-5740;2025-09-11;légitime;légitime;0.987;N/A;729;1
+MAIL-5741;2025-09-25;phishing;phishing;0.946;Usurpation fournisseur;592;1
+MAIL-5742;2025-09-24;phishing;phishing;0.938;Usurpation bancaire;596;1
+MAIL-5743;2025-09-10;phishing;phishing;0.875;Phishing RH/paie;204;5
+MAIL-5744;2025-09-30;légitime;phishing;0.565;N/A;279;2
+MAIL-5745;2025-09-02;légitime;légitime;0.782;N/A;589;2
+MAIL-5746;2025-09-25;légitime;légitime;0.955;N/A;1154;0
+MAIL-5747;2025-09-18;phishing;phishing;0.833;Usurpation fournisseur;699;4
+MAIL-5748;2025-09-21;légitime;légitime;0.942;N/A;284;1
+MAIL-5749;2025-09-21;légitime;légitime;0.798;N/A;758;0
+MAIL-5750;2025-09-27;légitime;légitime;0.816;N/A;1172;0
+MAIL-5751;2025-09-02;phishing;légitime;0.599;Fausse facture;302;2
+MAIL-5752;2025-09-18;phishing;phishing;0.854;Faux support technique;758;1
+MAIL-5753;2025-09-10;légitime;légitime;0.957;N/A;827;1
+MAIL-5754;2025-09-20;phishing;phishing;0.881;Usurpation fournisseur;929;1
+MAIL-5755;2025-09-07;phishing;légitime;0.775;Fausse livraison colis;1068;1
+MAIL-5756;2025-09-21;légitime;légitime;0.914;N/A;1192;2
+MAIL-5757;2025-09-08;phishing;phishing;0.986;Fausse livraison colis;704;3
+MAIL-5758;2025-09-26;phishing;légitime;0.78;Fausse facture;586;3
+MAIL-5759;2025-09-13;phishing;phishing;0.83;Fausse facture;684;6
+MAIL-5760;2025-09-05;légitime;légitime;0.834;N/A;174;2
+MAIL-5761;2025-09-30;légitime;phishing;0.624;N/A;1171;2
+MAIL-5762;2025-09-13;légitime;légitime;0.833;N/A;809;2
+MAIL-5763;2025-09-09;légitime;légitime;0.855;N/A;1006;0
+MAIL-5764;2025-09-13;phishing;phishing;0.872;Phishing RH/paie;1029;6
+MAIL-5765;2025-09-21;légitime;légitime;0.804;N/A;234;2
+MAIL-5766;2025-09-03;légitime;légitime;0.959;N/A;773;2
+MAIL-5767;2025-09-25;phishing;phishing;0.948;Phishing RH/paie;244;2
+MAIL-5768;2025-09-13;phishing;phishing;0.942;Fausse livraison colis;683;1
+MAIL-5769;2025-09-27;légitime;légitime;0.83;N/A;749;0
+MAIL-5770;2025-09-16;phishing;phishing;0.817;Phishing RH/paie;213;5
+MAIL-5771;2025-09-18;légitime;légitime;0.903;N/A;630;1
+MAIL-5772;2025-09-25;phishing;phishing;0.867;Usurpation bancaire;1188;6
+MAIL-5773;2025-09-26;légitime;légitime;0.975;N/A;568;1
+MAIL-5774;2025-09-25;phishing;phishing;0.899;Fausse livraison colis;1067;2
+MAIL-5775;2025-09-18;légitime;légitime;0.85;N/A;955;1
+MAIL-5776;2025-09-28;phishing;phishing;0.972;Usurpation fournisseur;1033;2
+MAIL-5777;2025-09-06;légitime;légitime;0.821;N/A;276;1
+MAIL-5778;2025-09-02;légitime;légitime;0.895;N/A;252;2
+MAIL-5779;2025-09-05;phishing;phishing;0.905;Usurpation bancaire;664;0
+MAIL-5780;2025-09-12;légitime;légitime;0.939;N/A;596;0
+MAIL-5781;2025-09-26;légitime;légitime;0.828;N/A;870;1
+MAIL-5782;2025-09-15;légitime;légitime;0.783;N/A;939;0
+MAIL-5783;2025-09-20;phishing;phishing;0.891;Fausse facture;426;1
+MAIL-5784;2025-09-29;légitime;légitime;0.853;N/A;902;0
+MAIL-5785;2025-09-05;légitime;légitime;0.806;N/A;788;1
+MAIL-5786;2025-09-27;phishing;phishing;0.86;Fausse livraison colis;718;4
+MAIL-5787;2025-09-20;phishing;phishing;0.879;Fausse facture;868;1
+MAIL-5788;2025-09-06;phishing;phishing;0.926;Usurpation bancaire;492;3
+MAIL-5789;2025-09-16;légitime;légitime;0.989;N/A;279;1
+MAIL-5790;2025-09-28;légitime;légitime;0.832;N/A;748;2
+MAIL-5791;2025-09-21;légitime;légitime;0.798;N/A;633;2
+MAIL-5792;2025-09-18;légitime;légitime;0.983;N/A;83;1
+MAIL-5793;2025-09-05;phishing;phishing;0.902;Phishing RH/paie;767;6
+MAIL-5794;2025-09-27;légitime;légitime;0.932;N/A;87;0
+MAIL-5795;2025-09-22;phishing;phishing;0.824;Phishing RH/paie;657;0
+MAIL-5796;2025-09-29;légitime;légitime;0.87;N/A;1116;2
+MAIL-5797;2025-09-21;légitime;légitime;0.975;N/A;230;2
+MAIL-5798;2025-09-08;légitime;légitime;0.814;N/A;1085;2
+MAIL-5799;2025-09-05;phishing;phishing;0.895;Fausse facture;1094;1
+MAIL-5800;2025-09-21;légitime;légitime;0.796;N/A;316;0
+MAIL-5801;2025-09-24;légitime;légitime;0.85;N/A;242;1
+MAIL-5802;2025-09-22;phishing;phishing;0.944;Faux support technique;700;3
+MAIL-5803;2025-09-30;phishing;phishing;0.814;Fausse livraison colis;613;6
+MAIL-5804;2025-09-19;phishing;phishing;0.827;Fausse livraison colis;772;0
+MAIL-5805;2025-09-01;phishing;phishing;0.85;Phishing RH/paie;591;6
+MAIL-5806;2025-09-30;phishing;phishing;0.917;Usurpation fournisseur;123;5
+MAIL-5807;2025-09-03;légitime;légitime;0.895;N/A;387;2
+MAIL-5808;2025-09-06;légitime;légitime;0.848;N/A;1073;1
+MAIL-5809;2025-09-21;légitime;légitime;0.915;N/A;256;0
+MAIL-5810;2025-09-28;légitime;légitime;0.828;N/A;464;1
+MAIL-5811;2025-09-28;légitime;légitime;0.935;N/A;646;1
+MAIL-5812;2025-09-12;phishing;légitime;0.698;Usurpation bancaire;297;5
+MAIL-5813;2025-09-04;légitime;légitime;0.844;N/A;213;1
+MAIL-5814;2025-09-30;légitime;légitime;0.96;N/A;498;2
+MAIL-5815;2025-09-07;phishing;phishing;0.919;Fausse facture;160;3
+MAIL-5816;2025-09-10;légitime;légitime;0.821;N/A;875;2
+MAIL-5817;2025-09-07;légitime;légitime;0.99;N/A;529;2
+MAIL-5818;2025-09-10;légitime;légitime;0.914;N/A;364;1
+MAIL-5819;2025-09-12;phishing;phishing;0.848;Phishing RH/paie;1164;3
+MAIL-5820;2025-09-21;légitime;légitime;0.792;N/A;969;0
+MAIL-5821;2025-09-07;légitime;légitime;0.974;N/A;768;1
+MAIL-5822;2025-09-01;légitime;légitime;0.949;N/A;333;0
+MAIL-5823;2025-09-14;légitime;légitime;0.961;N/A;254;0
+MAIL-5824;2025-09-28;phishing;phishing;0.931;Fausse facture;1180;4
+MAIL-5825;2025-09-12;légitime;légitime;0.827;N/A;299;0
+MAIL-5826;2025-09-24;légitime;légitime;0.941;N/A;253;1
+MAIL-5827;2025-09-09;légitime;légitime;0.94;N/A;854;1
+MAIL-5828;2025-09-24;légitime;légitime;0.888;N/A;797;0
+MAIL-5829;2025-09-02;phishing;phishing;0.852;Faux support technique;813;6
+MAIL-5830;2025-09-22;phishing;phishing;0.965;Phishing RH/paie;1017;1
+MAIL-5831;2025-09-25;légitime;légitime;0.954;N/A;758;2
+MAIL-5832;2025-09-25;phishing;phishing;0.81;Faux support technique;975;0
+MAIL-5833;2025-09-10;légitime;légitime;0.848;N/A;495;2
+MAIL-5834;2025-09-16;phishing;phishing;0.851;Fausse livraison colis;116;1
+MAIL-5835;2025-09-17;légitime;légitime;0.802;N/A;224;0
+MAIL-5836;2025-09-02;phishing;phishing;0.969;Fausse livraison colis;495;4
+MAIL-5837;2025-09-03;légitime;légitime;0.848;N/A;841;0
+MAIL-5838;2025-09-02;phishing;phishing;0.805;Fausse livraison colis;1103;2
+MAIL-5839;2025-09-05;phishing;phishing;0.946;Usurpation bancaire;1172;0
+MAIL-5840;2025-09-11;phishing;phishing;0.85;Usurpation bancaire;662;0
+MAIL-5841;2025-09-04;légitime;légitime;0.901;N/A;141;2
+MAIL-5842;2025-09-25;légitime;légitime;0.855;N/A;494;0
+MAIL-5843;2025-09-14;phishing;phishing;0.843;Fausse facture;1003;2
+MAIL-5844;2025-09-06;phishing;phishing;0.879;Faux support technique;656;3
+MAIL-5845;2025-09-06;phishing;phishing;0.906;Fausse livraison colis;495;2
+MAIL-5846;2025-09-12;phishing;phishing;0.816;Usurpation fournisseur;591;5
+MAIL-5847;2025-09-02;légitime;légitime;0.895;N/A;337;0
+MAIL-5848;2025-09-20;phishing;phishing;0.856;Fausse livraison colis;1132;1
+MAIL-5849;2025-09-22;phishing;phishing;0.887;Fausse facture;1188;5
+MAIL-5850;2025-09-10;légitime;légitime;0.801;N/A;336;2
+MAIL-5851;2025-09-16;phishing;phishing;0.82;Usurpation fournisseur;377;0
+MAIL-5852;2025-09-28;légitime;légitime;0.785;N/A;295;2
+MAIL-5853;2025-09-30;phishing;phishing;0.952;Usurpation bancaire;316;2
+MAIL-5854;2025-09-25;phishing;légitime;0.621;Fausse facture;1161;2
+MAIL-5855;2025-09-16;légitime;légitime;0.792;N/A;889;1
+MAIL-5856;2025-09-17;phishing;phishing;0.902;Usurpation fournisseur;845;3
+MAIL-5857;2025-09-21;légitime;légitime;0.877;N/A;753;0
+MAIL-5858;2025-09-25;légitime;légitime;0.805;N/A;81;0
+MAIL-5859;2025-09-24;phishing;phishing;0.872;Phishing RH/paie;247;0
+MAIL-5860;2025-09-16;légitime;légitime;0.882;N/A;613;1
+MAIL-5861;2025-09-20;légitime;légitime;0.786;N/A;1163;0
+MAIL-5862;2025-09-29;légitime;légitime;0.971;N/A;779;2
+MAIL-5863;2025-09-17;légitime;légitime;0.858;N/A;1138;1
+MAIL-5864;2025-09-30;légitime;légitime;0.982;N/A;345;1
+MAIL-5865;2025-09-04;phishing;phishing;0.953;Usurpation fournisseur;508;2
+MAIL-5866;2025-09-23;phishing;phishing;0.905;Phishing RH/paie;503;1
+MAIL-5867;2025-09-22;légitime;légitime;0.939;N/A;1070;1
+MAIL-5868;2025-09-30;légitime;légitime;0.79;N/A;132;1
+MAIL-5869;2025-09-04;légitime;légitime;0.975;N/A;948;0
+MAIL-5870;2025-09-01;phishing;phishing;0.861;Fausse livraison colis;1018;4
+MAIL-5871;2025-09-21;phishing;phishing;0.825;Phishing RH/paie;293;5
+MAIL-5872;2025-09-17;légitime;légitime;0.798;N/A;191;2
+MAIL-5873;2025-09-15;phishing;phishing;0.803;Usurpation bancaire;1084;3
+MAIL-5874;2025-09-21;légitime;phishing;0.764;N/A;1004;1
+MAIL-5875;2025-09-02;légitime;légitime;0.874;N/A;391;0
+MAIL-5876;2025-09-26;légitime;légitime;0.94;N/A;761;1
+MAIL-5877;2025-09-24;phishing;phishing;0.844;Fausse facture;988;3
+MAIL-5878;2025-09-10;légitime;légitime;0.781;N/A;1002;2
+MAIL-5879;2025-09-16;phishing;phishing;0.821;Usurpation bancaire;889;5
+MAIL-5880;2025-09-29;légitime;légitime;0.954;N/A;870;2
+MAIL-5881;2025-09-12;légitime;légitime;0.864;N/A;614;2
+MAIL-5882;2025-09-28;phishing;phishing;0.835;Phishing RH/paie;543;1
+MAIL-5883;2025-09-28;phishing;phishing;0.807;Phishing RH/paie;1169;2
+MAIL-5884;2025-09-15;légitime;légitime;0.857;N/A;546;0
+MAIL-5885;2025-09-04;phishing;phishing;0.911;Usurpation fournisseur;377;2
+MAIL-5886;2025-09-13;phishing;phishing;0.923;Fausse livraison colis;453;4
+MAIL-5887;2025-09-25;légitime;légitime;0.942;N/A;734;1
+MAIL-5888;2025-09-26;légitime;légitime;0.804;N/A;288;1
+MAIL-5889;2025-09-10;phishing;phishing;0.94;Fausse facture;528;1
+MAIL-5890;2025-09-25;phishing;phishing;0.94;Phishing RH/paie;433;6
+MAIL-5891;2025-09-19;légitime;légitime;0.886;N/A;94;0
+MAIL-5892;2025-09-19;phishing;légitime;0.748;Phishing RH/paie;354;1
+MAIL-5893;2025-09-15;phishing;phishing;0.867;Usurpation fournisseur;997;4
+MAIL-5894;2025-09-25;légitime;phishing;0.637;N/A;333;2
+MAIL-5895;2025-09-20;légitime;légitime;0.957;N/A;937;0
+MAIL-5896;2025-09-27;légitime;légitime;0.961;N/A;276;2
+MAIL-5897;2025-09-27;légitime;légitime;0.803;N/A;842;2
+MAIL-5898;2025-09-30;légitime;légitime;0.978;N/A;387;0
+MAIL-5899;2025-09-07;légitime;légitime;0.954;N/A;840;1
+MAIL-5900;2025-09-28;légitime;légitime;0.88;N/A;393;1
+MAIL-5901;2025-09-09;légitime;légitime;0.928;N/A;906;0
+MAIL-5902;2025-09-22;légitime;légitime;0.975;N/A;395;2
+MAIL-5903;2025-09-18;légitime;légitime;0.829;N/A;535;1
+MAIL-5904;2025-09-05;phishing;phishing;0.963;Usurpation bancaire;469;0
+MAIL-5905;2025-09-19;légitime;légitime;0.898;N/A;1156;0
+MAIL-5906;2025-09-21;phishing;phishing;0.831;Usurpation bancaire;650;6
+MAIL-5907;2025-09-10;phishing;phishing;0.982;Fausse facture;812;6
+MAIL-5908;2025-09-19;légitime;légitime;0.872;N/A;404;0
+MAIL-5909;2025-09-23;phishing;phishing;0.823;Faux support technique;579;3
+MAIL-5910;2025-09-06;phishing;phishing;0.907;Faux support technique;914;6
+MAIL-5911;2025-09-06;légitime;légitime;0.808;N/A;1075;2
+MAIL-5912;2025-09-21;légitime;légitime;0.949;N/A;622;0
+MAIL-5913;2025-09-10;légitime;légitime;0.968;N/A;631;1
+MAIL-5914;2025-09-14;phishing;phishing;0.932;Fausse facture;1181;5
+MAIL-5915;2025-09-21;phishing;phishing;0.94;Phishing RH/paie;579;4
+MAIL-5916;2025-09-02;légitime;légitime;0.978;N/A;264;1
+MAIL-5917;2025-09-19;phishing;phishing;0.817;Phishing RH/paie;362;6
+MAIL-5918;2025-09-01;phishing;phishing;0.967;Fausse livraison colis;512;5
+MAIL-5919;2025-09-10;phishing;phishing;0.866;Faux support technique;883;0
+MAIL-5920;2025-09-11;légitime;légitime;0.901;N/A;243;0
+MAIL-5921;2025-09-27;phishing;phishing;0.936;Fausse livraison colis;449;2
+MAIL-5922;2025-09-23;légitime;légitime;0.912;N/A;784;2
+MAIL-5923;2025-09-07;phishing;phishing;0.93;Usurpation bancaire;860;1
+MAIL-5924;2025-09-18;phishing;phishing;0.809;Fausse facture;849;1
+MAIL-5925;2025-09-02;légitime;légitime;0.825;N/A;612;0
+MAIL-5926;2025-09-05;légitime;légitime;0.967;N/A;510;0
+MAIL-5927;2025-09-06;légitime;légitime;0.812;N/A;558;0
+MAIL-5928;2025-09-19;légitime;légitime;0.913;N/A;134;2
+MAIL-5929;2025-09-04;phishing;phishing;0.986;Usurpation bancaire;315;3
+MAIL-5930;2025-09-02;phishing;phishing;0.952;Fausse livraison colis;1090;5
+MAIL-5931;2025-09-27;légitime;légitime;0.959;N/A;987;0
+MAIL-5932;2025-09-10;légitime;légitime;0.938;N/A;1113;0
+MAIL-5933;2025-09-09;phishing;légitime;0.735;Fausse facture;1061;3
+MAIL-5934;2025-09-28;phishing;phishing;0.824;Fausse livraison colis;324;3
+MAIL-5935;2025-09-03;légitime;légitime;0.887;N/A;1198;2
+MAIL-5936;2025-09-14;phishing;phishing;0.968;Phishing RH/paie;1007;2
+MAIL-5937;2025-09-25;phishing;phishing;0.92;Usurpation fournisseur;861;0
+MAIL-5938;2025-09-19;légitime;légitime;0.796;N/A;146;2
+MAIL-5939;2025-09-11;légitime;légitime;0.906;N/A;691;0
+MAIL-5940;2025-09-15;légitime;légitime;0.853;N/A;991;2
+MAIL-5941;2025-09-20;phishing;phishing;0.971;Fausse facture;357;0
+MAIL-5942;2025-09-03;légitime;légitime;0.811;N/A;250;2
+MAIL-5943;2025-09-19;phishing;phishing;0.858;Usurpation bancaire;722;4
+MAIL-5944;2025-09-25;légitime;légitime;0.984;N/A;481;0
+MAIL-5945;2025-09-16;phishing;phishing;0.809;Faux support technique;194;6
+MAIL-5946;2025-09-07;phishing;phishing;0.896;Usurpation bancaire;1186;5
+MAIL-5947;2025-09-27;phishing;phishing;0.95;Phishing RH/paie;993;0
+MAIL-5948;2025-09-21;légitime;légitime;0.831;N/A;900;0
+MAIL-5949;2025-09-06;phishing;phishing;0.882;Faux support technique;535;3
+MAIL-5950;2025-09-09;légitime;légitime;0.838;N/A;1069;0
+MAIL-5951;2025-09-28;phishing;phishing;0.817;Fausse facture;569;2
+MAIL-5952;2025-09-15;phishing;phishing;0.966;Usurpation bancaire;233;6
+MAIL-5953;2025-09-25;phishing;phishing;0.89;Usurpation bancaire;751;0
+MAIL-5954;2025-09-18;légitime;légitime;0.981;N/A;813;1
+MAIL-5955;2025-09-14;légitime;légitime;0.986;N/A;1098;0
+MAIL-5956;2025-09-03;légitime;légitime;0.893;N/A;840;1
+MAIL-5957;2025-09-05;phishing;phishing;0.889;Usurpation bancaire;1005;0
+MAIL-5958;2025-09-26;phishing;phishing;0.981;Fausse facture;968;4
+MAIL-5959;2025-09-22;phishing;phishing;0.9;Fausse facture;550;5
+MAIL-5960;2025-09-26;phishing;phishing;0.976;Faux support technique;409;4
+MAIL-5961;2025-09-08;légitime;légitime;0.866;N/A;373;0
+MAIL-5962;2025-09-09;légitime;légitime;0.924;N/A;993;0
+MAIL-5963;2025-09-22;légitime;légitime;0.849;N/A;592;1
+MAIL-5964;2025-09-19;légitime;légitime;0.96;N/A;830;1
+MAIL-5965;2025-09-20;légitime;légitime;0.788;N/A;1085;1
+MAIL-5966;2025-09-26;phishing;phishing;0.96;Faux support technique;754;3
+MAIL-5967;2025-09-05;phishing;phishing;0.963;Phishing RH/paie;431;1
+MAIL-5968;2025-09-05;légitime;légitime;0.876;N/A;1044;1
+MAIL-5969;2025-09-16;phishing;phishing;0.911;Phishing RH/paie;371;2
+MAIL-5970;2025-09-12;phishing;phishing;0.898;Usurpation bancaire;733;6
+MAIL-5971;2025-09-10;phishing;phishing;0.948;Fausse facture;866;3
+MAIL-5972;2025-09-16;phishing;phishing;0.865;Usurpation fournisseur;1090;6
+MAIL-5973;2025-09-08;légitime;légitime;0.93;N/A;664;1
+MAIL-5974;2025-09-23;phishing;phishing;0.95;Faux support technique;1105;2
+MAIL-5975;2025-09-23;phishing;phishing;0.984;Fausse livraison colis;638;1
+MAIL-5976;2025-09-18;légitime;légitime;0.977;N/A;1071;0
+MAIL-5977;2025-09-26;légitime;légitime;0.835;N/A;857;0
+MAIL-5978;2025-09-08;légitime;légitime;0.793;N/A;542;2
+MAIL-5979;2025-09-22;phishing;phishing;0.932;Fausse facture;1079;2
+MAIL-5980;2025-09-08;phishing;phishing;0.922;Usurpation bancaire;623;1
+MAIL-5981;2025-09-12;légitime;légitime;0.894;N/A;858;1
+MAIL-5982;2025-09-26;phishing;phishing;0.914;Usurpation fournisseur;635;3
+MAIL-5983;2025-09-08;phishing;phishing;0.945;Usurpation bancaire;627;6
+MAIL-5984;2025-09-10;légitime;légitime;0.814;N/A;547;2
+MAIL-5985;2025-09-12;légitime;légitime;0.891;N/A;949;2
+MAIL-5986;2025-09-26;phishing;phishing;0.845;Faux support technique;750;3
+MAIL-5987;2025-09-30;phishing;phishing;0.821;Phishing RH/paie;879;1
+MAIL-5988;2025-09-30;phishing;phishing;0.885;Usurpation bancaire;1097;0
+MAIL-5989;2025-09-08;phishing;phishing;0.92;Fausse facture;254;0
+MAIL-5990;2025-09-08;légitime;légitime;0.873;N/A;1076;1
+MAIL-5991;2025-09-15;phishing;phishing;0.946;Fausse livraison colis;1118;5
+MAIL-5992;2025-09-03;légitime;légitime;0.835;N/A;723;1
+MAIL-5993;2025-09-14;légitime;légitime;0.844;N/A;364;2
+MAIL-5994;2025-09-15;légitime;légitime;0.956;N/A;1016;1
+MAIL-5995;2025-09-01;légitime;légitime;0.961;N/A;1099;2
+MAIL-5996;2025-09-22;phishing;phishing;0.935;Phishing RH/paie;714;3
+MAIL-5997;2025-09-14;légitime;légitime;0.831;N/A;132;2
+MAIL-5998;2025-09-06;phishing;phishing;0.825;Fausse facture;993;4
+MAIL-5999;2025-09-04;légitime;légitime;0.788;N/A;949;2
+MAIL-6000;2025-09-04;légitime;légitime;0.852;N/A;179;0
+MAIL-6001;2025-09-25;légitime;légitime;0.901;N/A;223;0
+MAIL-6002;2025-09-10;légitime;légitime;0.96;N/A;235;0
+MAIL-6003;2025-09-01;légitime;légitime;0.83;N/A;322;2
+MAIL-6004;2025-09-12;légitime;phishing;0.623;N/A;1081;1
+MAIL-6005;2025-09-02;légitime;légitime;0.987;N/A;985;1
+MAIL-6006;2025-09-07;légitime;légitime;0.969;N/A;1035;0
+MAIL-6007;2025-09-23;légitime;légitime;0.971;N/A;295;0
+MAIL-6008;2025-09-23;légitime;légitime;0.89;N/A;1200;0
+MAIL-6009;2025-09-02;phishing;phishing;0.969;Fausse facture;653;1
+MAIL-6010;2025-09-13;légitime;phishing;0.772;N/A;802;2
+MAIL-6011;2025-09-18;légitime;légitime;0.986;N/A;711;0
+MAIL-6012;2025-09-29;phishing;phishing;0.948;Phishing RH/paie;906;6
+MAIL-6013;2025-09-10;légitime;légitime;0.905;N/A;244;2
+MAIL-6014;2025-09-11;phishing;phishing;0.914;Usurpation fournisseur;484;4
+MAIL-6015;2025-09-10;phishing;phishing;0.93;Usurpation bancaire;1116;6
+MAIL-6016;2025-09-12;légitime;légitime;0.878;N/A;1160;2
+MAIL-6017;2025-09-18;légitime;légitime;0.879;N/A;767;0
+MAIL-6018;2025-09-12;légitime;légitime;0.79;N/A;964;2
+MAIL-6019;2025-09-24;légitime;légitime;0.826;N/A;187;0
+MAIL-6020;2025-09-27;phishing;phishing;0.841;Faux support technique;1129;1
+MAIL-6021;2025-09-21;légitime;phishing;0.777;N/A;385;2
+MAIL-6022;2025-09-05;phishing;phishing;0.889;Usurpation bancaire;1129;4
+MAIL-6023;2025-09-16;légitime;légitime;0.865;N/A;854;2
+MAIL-6024;2025-09-19;phishing;phishing;0.862;Phishing RH/paie;296;4
+MAIL-6025;2025-09-10;légitime;légitime;0.931;N/A;457;0
+MAIL-6026;2025-09-30;légitime;légitime;0.887;N/A;719;0
+MAIL-6027;2025-09-19;légitime;légitime;0.81;N/A;1068;1
+MAIL-6028;2025-09-30;phishing;phishing;0.807;Usurpation bancaire;440;0
+MAIL-6029;2025-09-22;légitime;légitime;0.874;N/A;111;2
+MAIL-6030;2025-09-27;légitime;légitime;0.814;N/A;355;2
+MAIL-6031;2025-09-01;phishing;phishing;0.837;Fausse livraison colis;661;0
+MAIL-6032;2025-09-17;légitime;légitime;0.945;N/A;218;1
+MAIL-6033;2025-09-26;légitime;légitime;0.794;N/A;160;0
+MAIL-6034;2025-09-27;légitime;légitime;0.898;N/A;572;1
+MAIL-6035;2025-09-07;phishing;phishing;0.824;Faux support technique;621;4
+MAIL-6036;2025-09-03;légitime;légitime;0.945;N/A;874;0
+MAIL-6037;2025-09-20;phishing;phishing;0.899;Usurpation bancaire;249;2
+MAIL-6038;2025-09-06;phishing;phishing;0.966;Fausse livraison colis;256;6
+MAIL-6039;2025-09-12;légitime;légitime;0.82;N/A;958;1
+MAIL-6040;2025-09-10;légitime;légitime;0.841;N/A;920;2
+MAIL-6041;2025-09-09;légitime;légitime;0.926;N/A;1056;0
+MAIL-6042;2025-09-03;phishing;phishing;0.848;Faux support technique;298;5
+MAIL-6043;2025-09-28;légitime;légitime;0.928;N/A;850;2
+MAIL-6044;2025-09-15;légitime;légitime;0.924;N/A;594;2
+MAIL-6045;2025-09-23;légitime;légitime;0.983;N/A;498;1
+MAIL-6046;2025-09-05;phishing;phishing;0.879;Usurpation fournisseur;86;3
+MAIL-6047;2025-09-13;phishing;phishing;0.871;Usurpation fournisseur;911;4
+MAIL-6048;2025-09-16;légitime;légitime;0.882;N/A;562;1
+MAIL-6049;2025-09-30;légitime;phishing;0.555;N/A;924;1
+MAIL-6050;2025-09-06;légitime;légitime;0.978;N/A;114;0
+MAIL-6051;2025-09-01;phishing;phishing;0.915;Fausse facture;928;3
+MAIL-6052;2025-09-13;légitime;légitime;0.784;N/A;696;0
+MAIL-6053;2025-09-26;phishing;phishing;0.877;Usurpation bancaire;660;6
+MAIL-6054;2025-09-17;phishing;phishing;0.838;Usurpation fournisseur;648;5
+MAIL-6055;2025-09-30;légitime;légitime;0.837;N/A;1061;1
+MAIL-6056;2025-09-16;phishing;phishing;0.961;Phishing RH/paie;545;2
+MAIL-6057;2025-09-17;légitime;légitime;0.962;N/A;805;1
+MAIL-6058;2025-09-23;légitime;légitime;0.891;N/A;678;0
+MAIL-6059;2025-09-22;légitime;légitime;0.811;N/A;1080;0
+MAIL-6060;2025-09-07;légitime;légitime;0.952;N/A;351;2
+MAIL-6061;2025-09-14;phishing;phishing;0.965;Phishing RH/paie;1143;0
+MAIL-6062;2025-09-08;phishing;phishing;0.891;Faux support technique;276;6
+MAIL-6063;2025-09-08;légitime;légitime;0.903;N/A;91;0
+MAIL-6064;2025-09-26;légitime;légitime;0.821;N/A;884;2
+MAIL-6065;2025-09-25;légitime;légitime;0.849;N/A;482;0
+MAIL-6066;2025-09-19;légitime;légitime;0.93;N/A;665;1
+MAIL-6067;2025-09-05;légitime;légitime;0.902;N/A;363;2
+MAIL-6068;2025-09-19;phishing;phishing;0.837;Fausse livraison colis;245;2
+MAIL-6069;2025-09-07;légitime;légitime;0.915;N/A;595;0
+MAIL-6070;2025-09-09;légitime;légitime;0.891;N/A;336;2
+MAIL-6071;2025-09-06;légitime;légitime;0.878;N/A;754;2
+MAIL-6072;2025-09-11;légitime;légitime;0.792;N/A;384;0
+MAIL-6073;2025-09-06;phishing;phishing;0.846;Faux support technique;1031;6
+MAIL-6074;2025-09-06;phishing;phishing;0.927;Usurpation fournisseur;637;0
+MAIL-6075;2025-09-06;phishing;phishing;0.803;Phishing RH/paie;531;3
+MAIL-6076;2025-09-26;légitime;légitime;0.849;N/A;754;0
+MAIL-6077;2025-09-11;légitime;légitime;0.934;N/A;204;2
+MAIL-6078;2025-09-26;phishing;phishing;0.801;Faux support technique;203;4
+MAIL-6079;2025-09-02;légitime;légitime;0.888;N/A;640;1
+MAIL-6080;2025-09-12;phishing;phishing;0.802;Fausse livraison colis;734;5
+MAIL-6081;2025-09-20;phishing;phishing;0.947;Faux support technique;1056;2
+MAIL-6082;2025-09-26;phishing;phishing;0.866;Fausse livraison colis;1113;0
+MAIL-6083;2025-09-22;phishing;légitime;0.564;Faux support technique;522;1
+MAIL-6084;2025-09-06;phishing;phishing;0.803;Faux support technique;665;4
+MAIL-6085;2025-09-07;phishing;phishing;0.826;Fausse facture;84;0
+MAIL-6086;2025-09-06;légitime;légitime;0.839;N/A;987;1
+MAIL-6087;2025-09-17;légitime;légitime;0.959;N/A;500;2
+MAIL-6088;2025-09-10;légitime;légitime;0.794;N/A;1146;0
+MAIL-6089;2025-09-04;légitime;légitime;0.906;N/A;978;1
+MAIL-6090;2025-09-03;légitime;légitime;0.806;N/A;453;0
+MAIL-6091;2025-09-15;phishing;phishing;0.978;Phishing RH/paie;103;2
+MAIL-6092;2025-09-26;légitime;légitime;0.798;N/A;119;0
+MAIL-6093;2025-09-08;légitime;légitime;0.872;N/A;535;2
+MAIL-6094;2025-09-29;légitime;légitime;0.878;N/A;286;1
+MAIL-6095;2025-09-13;légitime;légitime;0.971;N/A;550;2
+MAIL-6096;2025-09-11;légitime;légitime;0.948;N/A;772;2
+MAIL-6097;2025-09-08;légitime;légitime;0.834;N/A;975;0
+MAIL-6098;2025-09-02;phishing;phishing;0.859;Faux support technique;905;4
+MAIL-6099;2025-09-24;légitime;légitime;0.881;N/A;814;2
+MAIL-6100;2025-09-06;phishing;phishing;0.875;Phishing RH/paie;379;1
+MAIL-6101;2025-09-29;légitime;légitime;0.838;N/A;1052;0
+MAIL-6102;2025-09-07;phishing;phishing;0.93;Phishing RH/paie;728;4
+MAIL-6103;2025-09-06;phishing;phishing;0.804;Usurpation bancaire;523;6
+MAIL-6104;2025-09-06;légitime;légitime;0.838;N/A;395;1
+MAIL-6105;2025-09-18;phishing;phishing;0.981;Faux support technique;1048;6
+MAIL-6106;2025-09-23;phishing;phishing;0.802;Usurpation bancaire;292;2
+MAIL-6107;2025-09-23;légitime;légitime;0.835;N/A;1173;0
+MAIL-6108;2025-09-06;phishing;phishing;0.94;Fausse facture;907;3
+MAIL-6109;2025-09-16;phishing;légitime;0.716;Usurpation bancaire;921;1
+MAIL-6110;2025-09-26;phishing;phishing;0.924;Usurpation fournisseur;901;6
+MAIL-6111;2025-09-01;légitime;légitime;0.814;N/A;142;0
+MAIL-6112;2025-09-02;phishing;phishing;0.93;Phishing RH/paie;1150;2
+MAIL-6113;2025-09-27;phishing;phishing;0.87;Phishing RH/paie;248;6
+MAIL-6114;2025-09-03;légitime;légitime;0.802;N/A;412;1
+MAIL-6115;2025-09-18;phishing;phishing;0.829;Usurpation bancaire;314;3
+MAIL-6116;2025-09-30;phishing;phishing;0.837;Phishing RH/paie;529;6
+MAIL-6117;2025-09-15;phishing;phishing;0.984;Usurpation fournisseur;1026;4
+MAIL-6118;2025-09-24;légitime;légitime;0.967;N/A;923;0
+MAIL-6119;2025-09-03;légitime;légitime;0.885;N/A;897;1
+MAIL-6120;2025-09-20;phishing;phishing;0.914;Usurpation bancaire;239;5
+MAIL-6121;2025-09-25;légitime;légitime;0.834;N/A;84;2
+MAIL-6122;2025-09-01;légitime;légitime;0.957;N/A;298;0
+MAIL-6123;2025-09-19;phishing;phishing;0.971;Fausse facture;257;2
+MAIL-6124;2025-09-28;légitime;légitime;0.981;N/A;624;0
+MAIL-6125;2025-09-19;légitime;légitime;0.981;N/A;122;1
+MAIL-6126;2025-09-21;phishing;phishing;0.962;Fausse facture;615;0
+MAIL-6127;2025-09-01;phishing;phishing;0.949;Fausse livraison colis;1167;6
+MAIL-6128;2025-09-04;légitime;légitime;0.888;N/A;1150;2
+MAIL-6129;2025-09-10;phishing;phishing;0.866;Fausse livraison colis;1103;5
+MAIL-6130;2025-09-15;légitime;légitime;0.887;N/A;191;0
+MAIL-6131;2025-09-01;légitime;légitime;0.99;N/A;845;2
+MAIL-6132;2025-09-19;légitime;phishing;0.564;N/A;109;0
+MAIL-6133;2025-09-13;légitime;légitime;0.955;N/A;410;2
+MAIL-6134;2025-09-26;légitime;phishing;0.673;N/A;315;1
+MAIL-6135;2025-09-11;légitime;légitime;0.793;N/A;508;0
+MAIL-6136;2025-09-04;légitime;légitime;0.829;N/A;875;2
+MAIL-6137;2025-09-09;phishing;phishing;0.925;Usurpation bancaire;939;1
+MAIL-6138;2025-09-12;légitime;légitime;0.976;N/A;856;2
+MAIL-6139;2025-09-16;phishing;phishing;0.85;Usurpation fournisseur;953;1
+MAIL-6140;2025-09-30;légitime;légitime;0.841;N/A;425;2
+MAIL-6141;2025-09-10;légitime;légitime;0.897;N/A;1113;2
+MAIL-6142;2025-09-07;légitime;légitime;0.892;N/A;557;0
+MAIL-6143;2025-09-20;phishing;phishing;0.829;Usurpation fournisseur;886;4
+MAIL-6144;2025-09-09;légitime;légitime;0.959;N/A;160;0
+MAIL-6145;2025-09-19;légitime;légitime;0.971;N/A;665;1
+MAIL-6146;2025-09-28;légitime;légitime;0.85;N/A;901;0
+MAIL-6147;2025-09-30;légitime;légitime;0.797;N/A;942;0
+MAIL-6148;2025-09-21;légitime;légitime;0.961;N/A;387;2
+MAIL-6149;2025-09-27;phishing;phishing;0.961;Fausse facture;168;3
+MAIL-6150;2025-09-29;légitime;légitime;0.954;N/A;870;0
+MAIL-6151;2025-09-14;légitime;légitime;0.838;N/A;174;1
+MAIL-6152;2025-09-02;légitime;légitime;0.915;N/A;1195;2
+MAIL-6153;2025-09-22;phishing;phishing;0.908;Fausse facture;448;5
+MAIL-6154;2025-09-16;phishing;phishing;0.843;Fausse facture;1068;5
+MAIL-6155;2025-09-09;phishing;phishing;0.922;Fausse livraison colis;266;1
+MAIL-6156;2025-09-06;légitime;légitime;0.815;N/A;573;2
+MAIL-6157;2025-09-19;légitime;légitime;0.803;N/A;270;0
+MAIL-6158;2025-09-05;légitime;légitime;0.805;N/A;491;0
+MAIL-6159;2025-09-24;légitime;légitime;0.906;N/A;594;2
+MAIL-6160;2025-09-23;légitime;légitime;0.864;N/A;86;1
+MAIL-6161;2025-09-01;légitime;légitime;0.98;N/A;694;0
+MAIL-6162;2025-09-17;légitime;légitime;0.98;N/A;340;0
+MAIL-6163;2025-09-12;phishing;légitime;0.65;Usurpation fournisseur;163;6
+MAIL-6164;2025-09-17;légitime;légitime;0.81;N/A;518;0
+MAIL-6165;2025-09-16;légitime;légitime;0.827;N/A;125;0
+MAIL-6166;2025-09-08;légitime;légitime;0.963;N/A;957;2
+MAIL-6167;2025-09-15;phishing;phishing;0.982;Phishing RH/paie;489;2
+MAIL-6168;2025-09-25;légitime;légitime;0.821;N/A;157;0
+MAIL-6169;2025-09-07;légitime;phishing;0.752;N/A;861;1
+MAIL-6170;2025-09-22;phishing;phishing;0.982;Fausse facture;733;6
+MAIL-6171;2025-09-30;phishing;légitime;0.724;Fausse facture;621;2
+MAIL-6172;2025-09-04;légitime;légitime;0.893;N/A;400;1
+MAIL-6173;2025-09-29;légitime;légitime;0.846;N/A;745;0
+MAIL-6174;2025-09-03;légitime;légitime;0.858;N/A;247;2
+MAIL-6175;2025-09-26;phishing;phishing;0.986;Phishing RH/paie;632;2
+MAIL-6176;2025-09-27;légitime;légitime;0.797;N/A;1159;2
+MAIL-6177;2025-09-13;légitime;phishing;0.584;N/A;1097;2
+MAIL-6178;2025-09-19;légitime;légitime;0.835;N/A;1077;2
+MAIL-6179;2025-09-27;phishing;phishing;0.83;Usurpation fournisseur;998;2
+MAIL-6180;2025-09-14;légitime;légitime;0.872;N/A;777;0
+MAIL-6181;2025-09-10;phishing;phishing;0.959;Fausse facture;524;4
+MAIL-6182;2025-09-13;légitime;légitime;0.79;N/A;426;2
+MAIL-6183;2025-09-17;phishing;légitime;0.667;Usurpation bancaire;619;6
+MAIL-6184;2025-09-25;phishing;phishing;0.861;Faux support technique;1129;3
+MAIL-6185;2025-09-04;légitime;légitime;0.928;N/A;770;1
+MAIL-6186;2025-09-11;phishing;phishing;0.891;Phishing RH/paie;303;1
+MAIL-6187;2025-09-18;légitime;légitime;0.955;N/A;919;2
+MAIL-6188;2025-09-22;phishing;phishing;0.88;Fausse livraison colis;398;4
+MAIL-6189;2025-09-25;légitime;légitime;0.811;N/A;771;2
+MAIL-6190;2025-09-27;légitime;légitime;0.817;N/A;154;1
+MAIL-6191;2025-09-12;légitime;légitime;0.823;N/A;275;2
+MAIL-6192;2025-09-13;légitime;légitime;0.836;N/A;642;2
+MAIL-6193;2025-09-07;phishing;phishing;0.952;Usurpation fournisseur;470;5
+MAIL-6194;2025-09-27;légitime;légitime;0.824;N/A;1091;1
+MAIL-6195;2025-09-14;légitime;légitime;0.985;N/A;847;0
+MAIL-6196;2025-09-19;phishing;phishing;0.863;Fausse livraison colis;287;2
+MAIL-6197;2025-09-13;légitime;légitime;0.794;N/A;938;0
+MAIL-6198;2025-09-16;phishing;phishing;0.831;Faux support technique;118;2
+MAIL-6199;2025-09-18;légitime;légitime;0.843;N/A;771;2
+MAIL-6200;2025-09-20;phishing;légitime;0.679;Faux support technique;726;0
+MAIL-6201;2025-09-15;légitime;légitime;0.983;N/A;365;0
+MAIL-6202;2025-09-09;phishing;phishing;0.814;Faux support technique;677;1
+MAIL-6203;2025-09-29;légitime;légitime;0.906;N/A;436;2
+MAIL-6204;2025-09-04;légitime;légitime;0.969;N/A;283;0
+MAIL-6205;2025-09-28;phishing;légitime;0.728;Fausse facture;243;0
+MAIL-6206;2025-09-25;phishing;phishing;0.801;Usurpation bancaire;403;5
+MAIL-6207;2025-09-08;phishing;phishing;0.9;Usurpation bancaire;365;1
+MAIL-6208;2025-09-16;phishing;phishing;0.975;Usurpation fournisseur;918;2
+MAIL-6209;2025-09-16;phishing;phishing;0.905;Fausse facture;533;5
+MAIL-6210;2025-09-15;légitime;légitime;0.844;N/A;480;0
+MAIL-6211;2025-09-12;phishing;phishing;0.811;Usurpation bancaire;1093;2
+MAIL-6212;2025-09-20;phishing;légitime;0.563;Phishing RH/paie;908;1
+MAIL-6213;2025-09-10;légitime;légitime;0.935;N/A;999;2
+MAIL-6214;2025-09-18;phishing;phishing;0.823;Fausse livraison colis;921;4
+MAIL-6215;2025-09-27;légitime;légitime;0.788;N/A;418;1
+MAIL-6216;2025-09-29;légitime;légitime;0.915;N/A;465;0
+MAIL-6217;2025-09-07;légitime;légitime;0.922;N/A;749;2
+MAIL-6218;2025-09-27;légitime;légitime;0.908;N/A;1134;2
+MAIL-6219;2025-09-21;légitime;légitime;0.794;N/A;769;2
+MAIL-6220;2025-09-15;phishing;phishing;0.965;Fausse facture;596;0
+MAIL-6221;2025-09-13;légitime;légitime;0.902;N/A;586;2
+MAIL-6222;2025-09-23;légitime;légitime;0.808;N/A;750;1
+MAIL-6223;2025-09-29;légitime;légitime;0.833;N/A;185;1
+MAIL-6224;2025-09-17;légitime;légitime;0.959;N/A;403;0
+MAIL-6225;2025-09-23;légitime;légitime;0.91;N/A;1100;1
+MAIL-6226;2025-09-12;légitime;légitime;0.815;N/A;827;1
+MAIL-6227;2025-09-16;légitime;légitime;0.932;N/A;1019;0
+MAIL-6228;2025-09-25;phishing;phishing;0.806;Phishing RH/paie;1147;1
+MAIL-6229;2025-09-22;légitime;légitime;0.838;N/A;355;1
+MAIL-6230;2025-09-08;légitime;légitime;0.784;N/A;755;0
+MAIL-6231;2025-09-30;phishing;phishing;0.854;Faux support technique;705;0
+MAIL-6232;2025-09-12;phishing;phishing;0.887;Usurpation fournisseur;1085;1
+MAIL-6233;2025-09-26;phishing;phishing;0.973;Usurpation bancaire;962;6
+MAIL-6234;2025-09-03;phishing;phishing;0.905;Fausse facture;1149;1
+MAIL-6235;2025-09-28;légitime;légitime;0.931;N/A;612;0
+MAIL-6236;2025-09-29;phishing;phishing;0.829;Faux support technique;678;4
+MAIL-6237;2025-09-27;phishing;phishing;0.904;Usurpation bancaire;98;5
+MAIL-6238;2025-09-25;légitime;légitime;0.943;N/A;758;0
+MAIL-6239;2025-09-09;phishing;phishing;0.847;Phishing RH/paie;429;1
+MAIL-6240;2025-09-27;phishing;phishing;0.963;Faux support technique;606;2
+MAIL-6241;2025-09-12;légitime;légitime;0.787;N/A;363;0
+MAIL-6242;2025-09-24;phishing;phishing;0.956;Usurpation bancaire;115;4
+MAIL-6243;2025-09-24;phishing;phishing;0.867;Faux support technique;468;2
+MAIL-6244;2025-09-09;légitime;légitime;0.946;N/A;917;0
+MAIL-6245;2025-09-10;phishing;phishing;0.873;Phishing RH/paie;1120;2
+MAIL-6246;2025-09-29;phishing;phishing;0.99;Fausse facture;94;2
+MAIL-6247;2025-09-05;légitime;légitime;0.905;N/A;307;1
+MAIL-6248;2025-09-27;légitime;légitime;0.933;N/A;500;2
+MAIL-6249;2025-09-23;phishing;phishing;0.814;Fausse livraison colis;849;3
+MAIL-6250;2025-09-12;légitime;légitime;0.938;N/A;302;0
+MAIL-6251;2025-09-17;phishing;phishing;0.817;Fausse livraison colis;789;4
+MAIL-6252;2025-09-16;légitime;légitime;0.979;N/A;1092;1
+MAIL-6253;2025-09-03;légitime;légitime;0.882;N/A;844;0
+MAIL-6254;2025-09-06;légitime;légitime;0.953;N/A;689;1
+MAIL-6255;2025-09-20;légitime;légitime;0.865;N/A;562;1
+MAIL-6256;2025-09-11;phishing;phishing;0.903;Fausse facture;317;5
+MAIL-6257;2025-09-20;phishing;phishing;0.829;Fausse facture;321;2
+MAIL-6258;2025-09-06;légitime;légitime;0.914;N/A;304;1
+MAIL-6259;2025-09-18;légitime;légitime;0.839;N/A;874;1
+MAIL-6260;2025-09-26;phishing;phishing;0.974;Fausse livraison colis;553;3
+MAIL-6261;2025-09-10;légitime;légitime;0.982;N/A;916;1
+MAIL-6262;2025-09-19;légitime;légitime;0.828;N/A;1046;0
+MAIL-6263;2025-09-26;légitime;légitime;0.967;N/A;1059;0
+MAIL-6264;2025-09-07;phishing;phishing;0.965;Faux support technique;411;1
+MAIL-6265;2025-09-16;phishing;phishing;0.943;Fausse facture;514;2
+MAIL-6266;2025-09-12;légitime;légitime;0.962;N/A;1023;1
+MAIL-6267;2025-09-21;légitime;légitime;0.782;N/A;1006;0
+MAIL-6268;2025-09-29;légitime;légitime;0.793;N/A;751;2
+MAIL-6269;2025-09-26;légitime;légitime;0.989;N/A;999;1
+MAIL-6270;2025-09-19;phishing;phishing;0.939;Fausse facture;786;1
+MAIL-6271;2025-09-09;phishing;phishing;0.844;Usurpation fournisseur;940;0
+MAIL-6272;2025-09-29;légitime;légitime;0.941;N/A;182;1
+MAIL-6273;2025-09-13;légitime;légitime;0.944;N/A;658;1
+MAIL-6274;2025-09-23;phishing;phishing;0.987;Usurpation fournisseur;123;1
+MAIL-6275;2025-09-19;légitime;légitime;0.956;N/A;919;1
+MAIL-6276;2025-09-26;phishing;phishing;0.873;Phishing RH/paie;206;2
+MAIL-6277;2025-09-07;légitime;légitime;0.86;N/A;153;1
+MAIL-6278;2025-09-03;légitime;légitime;0.972;N/A;867;2
+MAIL-6279;2025-09-23;légitime;légitime;0.903;N/A;980;1
+MAIL-6280;2025-09-29;légitime;légitime;0.806;N/A;327;0
+MAIL-6281;2025-09-30;phishing;phishing;0.911;Usurpation bancaire;376;6
+MAIL-6282;2025-09-06;légitime;légitime;0.781;N/A;887;0
+MAIL-6283;2025-09-02;légitime;légitime;0.9;N/A;884;1
+MAIL-6284;2025-09-07;légitime;légitime;0.831;N/A;390;0
+MAIL-6285;2025-09-03;phishing;phishing;0.862;Fausse livraison colis;517;4
+MAIL-6286;2025-09-22;légitime;légitime;0.792;N/A;1078;2
+MAIL-6287;2025-09-20;légitime;légitime;0.925;N/A;659;2
+MAIL-6288;2025-09-19;phishing;phishing;0.916;Usurpation fournisseur;310;1
+MAIL-6289;2025-09-19;phishing;phishing;0.852;Faux support technique;1062;6
+MAIL-6290;2025-09-19;phishing;phishing;0.916;Phishing RH/paie;385;4
+MAIL-6291;2025-09-27;légitime;légitime;0.824;N/A;1151;2
+MAIL-6292;2025-09-06;légitime;légitime;0.878;N/A;1144;1
+MAIL-6293;2025-09-28;légitime;légitime;0.923;N/A;197;1
+MAIL-6294;2025-09-12;légitime;légitime;0.925;N/A;1071;2
+MAIL-6295;2025-09-25;légitime;légitime;0.809;N/A;509;2
+MAIL-6296;2025-09-10;phishing;phishing;0.902;Phishing RH/paie;891;3
+MAIL-6297;2025-09-06;phishing;phishing;0.861;Phishing RH/paie;972;3
+MAIL-6298;2025-09-20;légitime;légitime;0.989;N/A;416;0
+MAIL-6299;2025-09-15;légitime;légitime;0.79;N/A;435;0
+MAIL-6300;2025-09-10;légitime;légitime;0.789;N/A;694;1
+MAIL-6301;2025-09-25;phishing;phishing;0.973;Usurpation fournisseur;632;6
+MAIL-6302;2025-09-15;légitime;légitime;0.893;N/A;384;1
+MAIL-6303;2025-09-15;légitime;légitime;0.918;N/A;121;2
+MAIL-6304;2025-09-03;légitime;légitime;0.938;N/A;1156;2
+MAIL-6305;2025-09-15;légitime;légitime;0.862;N/A;460;2
+MAIL-6306;2025-09-16;légitime;légitime;0.878;N/A;951;1
+MAIL-6307;2025-09-07;légitime;légitime;0.915;N/A;250;1
+MAIL-6308;2025-09-03;légitime;légitime;0.789;N/A;663;1
+MAIL-6309;2025-09-07;phishing;phishing;0.851;Usurpation bancaire;527;5
+MAIL-6310;2025-09-12;légitime;légitime;0.905;N/A;358;0
+MAIL-6311;2025-09-23;légitime;légitime;0.857;N/A;839;2
+MAIL-6312;2025-09-10;phishing;phishing;0.901;Phishing RH/paie;633;3
+MAIL-6313;2025-09-23;phishing;phishing;0.869;Fausse livraison colis;1156;4
+MAIL-6314;2025-09-30;phishing;phishing;0.884;Usurpation fournisseur;338;2
+MAIL-6315;2025-09-22;phishing;légitime;0.575;Faux support technique;1188;2
+MAIL-6316;2025-09-18;phishing;phishing;0.861;Fausse livraison colis;560;1
+MAIL-6317;2025-09-12;légitime;légitime;0.986;N/A;1079;1
+MAIL-6318;2025-09-01;légitime;légitime;0.783;N/A;226;0
+MAIL-6319;2025-09-13;légitime;légitime;0.896;N/A;536;0
+MAIL-6320;2025-09-03;légitime;légitime;0.958;N/A;406;0
+MAIL-6321;2025-09-06;phishing;phishing;0.938;Faux support technique;459;6
+MAIL-6322;2025-09-03;légitime;légitime;0.985;N/A;431;0
+MAIL-6323;2025-09-16;phishing;phishing;0.945;Phishing RH/paie;594;0
+MAIL-6324;2025-09-30;légitime;légitime;0.955;N/A;966;2
+MAIL-6325;2025-09-06;phishing;phishing;0.937;Fausse livraison colis;426;4
+MAIL-6326;2025-09-16;phishing;phishing;0.974;Faux support technique;706;4
+MAIL-6327;2025-09-29;légitime;phishing;0.708;N/A;1070;2
+MAIL-6328;2025-09-13;légitime;légitime;0.894;N/A;593;0
+MAIL-6329;2025-09-13;phishing;phishing;0.956;Fausse livraison colis;889;0
+MAIL-6330;2025-09-02;légitime;légitime;0.869;N/A;800;0
+MAIL-6331;2025-09-01;légitime;légitime;0.968;N/A;1141;1
+MAIL-6332;2025-09-24;phishing;phishing;0.84;Usurpation bancaire;515;4
+MAIL-6333;2025-09-19;légitime;légitime;0.804;N/A;96;1
+MAIL-6334;2025-09-15;légitime;légitime;0.911;N/A;454;2
+MAIL-6335;2025-09-28;légitime;légitime;0.854;N/A;947;1
+MAIL-6336;2025-09-21;légitime;légitime;0.86;N/A;189;2
+MAIL-6337;2025-09-19;légitime;légitime;0.844;N/A;133;1
+MAIL-6338;2025-09-21;phishing;phishing;0.922;Usurpation bancaire;834;3
+MAIL-6339;2025-09-02;phishing;phishing;0.894;Usurpation fournisseur;1176;4
+MAIL-6340;2025-09-05;légitime;légitime;0.798;N/A;604;0
+MAIL-6341;2025-09-21;phishing;phishing;0.877;Usurpation fournisseur;1131;3
+MAIL-6342;2025-09-18;légitime;légitime;0.86;N/A;92;0
+MAIL-6343;2025-09-24;phishing;phishing;0.913;Fausse facture;259;1
+MAIL-6344;2025-09-01;légitime;légitime;0.974;N/A;292;2
+MAIL-6345;2025-09-25;légitime;légitime;0.983;N/A;831;0
+MAIL-6346;2025-09-15;légitime;légitime;0.985;N/A;766;1
+MAIL-6347;2025-09-05;phishing;phishing;0.867;Fausse livraison colis;372;5
+MAIL-6348;2025-09-16;phishing;phishing;0.948;Usurpation bancaire;1173;0
+MAIL-6349;2025-09-26;légitime;légitime;0.939;N/A;168;0
+MAIL-6350;2025-09-07;légitime;légitime;0.945;N/A;328;0
+MAIL-6351;2025-09-12;phishing;légitime;0.658;Faux support technique;979;6
+MAIL-6352;2025-09-26;phishing;phishing;0.814;Phishing RH/paie;551;4
+MAIL-6353;2025-09-24;phishing;phishing;0.821;Usurpation bancaire;1148;3
+MAIL-6354;2025-09-13;légitime;légitime;0.79;N/A;1057;0
+MAIL-6355;2025-09-27;légitime;légitime;0.858;N/A;188;2
+MAIL-6356;2025-09-26;légitime;légitime;0.967;N/A;1176;0
+MAIL-6357;2025-09-22;légitime;légitime;0.807;N/A;568;2
+MAIL-6358;2025-09-28;phishing;phishing;0.879;Usurpation fournisseur;181;1
+MAIL-6359;2025-09-20;légitime;légitime;0.953;N/A;306;1
+MAIL-6360;2025-09-06;légitime;légitime;0.821;N/A;88;0
+MAIL-6361;2025-09-27;légitime;légitime;0.932;N/A;347;1
+MAIL-6362;2025-09-13;phishing;phishing;0.85;Fausse facture;733;5
+MAIL-6363;2025-09-20;phishing;phishing;0.923;Phishing RH/paie;853;0
+MAIL-6364;2025-09-12;phishing;phishing;0.813;Phishing RH/paie;629;5
+MAIL-6365;2025-09-25;légitime;légitime;0.797;N/A;464;1
+MAIL-6366;2025-09-26;phishing;phishing;0.92;Fausse facture;833;0
+MAIL-6367;2025-09-06;légitime;légitime;0.948;N/A;233;1
+MAIL-6368;2025-09-25;légitime;légitime;0.867;N/A;781;1
+MAIL-6369;2025-09-16;phishing;phishing;0.945;Usurpation fournisseur;196;3
+MAIL-6370;2025-09-07;légitime;légitime;0.805;N/A;924;1
+MAIL-6371;2025-09-18;légitime;légitime;0.927;N/A;501;0
+MAIL-6372;2025-09-19;phishing;phishing;0.847;Faux support technique;645;5
+MAIL-6373;2025-09-20;légitime;légitime;0.989;N/A;308;0
+MAIL-6374;2025-09-15;légitime;légitime;0.962;N/A;259;1
+MAIL-6375;2025-09-27;légitime;légitime;0.795;N/A;992;0
+MAIL-6376;2025-09-20;légitime;légitime;0.89;N/A;497;1
+MAIL-6377;2025-09-06;phishing;phishing;0.838;Usurpation bancaire;403;6
+MAIL-6378;2025-09-08;légitime;légitime;0.875;N/A;702;0
+MAIL-6379;2025-09-13;légitime;légitime;0.833;N/A;728;0
+MAIL-6380;2025-09-12;légitime;légitime;0.88;N/A;482;1
+MAIL-6381;2025-09-15;légitime;légitime;0.847;N/A;951;0
+MAIL-6382;2025-09-09;légitime;légitime;0.823;N/A;870;2
+MAIL-6383;2025-09-02;phishing;phishing;0.929;Phishing RH/paie;815;4
+MAIL-6384;2025-09-24;phishing;phishing;0.828;Phishing RH/paie;879;0
+MAIL-6385;2025-09-19;phishing;phishing;0.903;Faux support technique;408;2
+MAIL-6386;2025-09-18;phishing;phishing;0.936;Faux support technique;318;6
+MAIL-6387;2025-09-15;légitime;légitime;0.801;N/A;296;1
+MAIL-6388;2025-09-28;phishing;phishing;0.965;Usurpation fournisseur;147;6
+MAIL-6389;2025-09-07;légitime;légitime;0.817;N/A;102;1
+MAIL-6390;2025-09-07;légitime;légitime;0.795;N/A;81;0
+MAIL-6391;2025-09-10;phishing;phishing;0.951;Faux support technique;774;4
+MAIL-6392;2025-09-05;légitime;légitime;0.888;N/A;748;2
+MAIL-6393;2025-09-02;légitime;légitime;0.824;N/A;427;2
+MAIL-6394;2025-09-26;légitime;légitime;0.989;N/A;687;0
+MAIL-6395;2025-09-08;légitime;légitime;0.813;N/A;124;1
+MAIL-6396;2025-09-15;phishing;phishing;0.88;Fausse livraison colis;682;1
+MAIL-6397;2025-09-25;phishing;phishing;0.945;Fausse livraison colis;105;3
+MAIL-6398;2025-09-04;phishing;phishing;0.957;Faux support technique;742;2
+MAIL-6399;2025-09-20;légitime;légitime;0.892;N/A;599;0
+MAIL-6400;2025-09-26;légitime;légitime;0.88;N/A;979;2
+MAIL-6401;2025-09-07;légitime;légitime;0.869;N/A;1053;0
+MAIL-6402;2025-09-20;légitime;légitime;0.984;N/A;143;1
+MAIL-6403;2025-09-14;légitime;phishing;0.78;N/A;346;2
+MAIL-6404;2025-09-07;légitime;légitime;0.952;N/A;431;0
+MAIL-6405;2025-09-24;phishing;phishing;0.921;Fausse facture;208;6
+MAIL-6406;2025-09-27;phishing;phishing;0.913;Usurpation bancaire;726;1
+MAIL-6407;2025-09-11;légitime;légitime;0.974;N/A;540;2
+MAIL-6408;2025-09-10;légitime;phishing;0.607;N/A;642;0
+MAIL-6409;2025-09-16;phishing;phishing;0.882;Usurpation bancaire;430;4
+MAIL-6410;2025-09-21;phishing;phishing;0.91;Phishing RH/paie;513;6
+MAIL-6411;2025-09-04;légitime;légitime;0.906;N/A;372;2
+MAIL-6412;2025-09-05;phishing;phishing;0.813;Phishing RH/paie;240;5
+MAIL-6413;2025-09-25;phishing;phishing;0.968;Fausse livraison colis;307;0
+MAIL-6414;2025-09-11;légitime;légitime;0.858;N/A;533;1
+MAIL-6415;2025-09-21;phishing;phishing;0.915;Usurpation fournisseur;197;5
+MAIL-6416;2025-09-28;légitime;légitime;0.965;N/A;95;0
+MAIL-6417;2025-09-28;légitime;légitime;0.817;N/A;140;0
+MAIL-6418;2025-09-17;légitime;légitime;0.959;N/A;864;2
+MAIL-6419;2025-09-01;phishing;phishing;0.895;Fausse facture;360;1
+MAIL-6420;2025-09-15;phishing;phishing;0.865;Fausse livraison colis;1182;5
+MAIL-6421;2025-09-29;légitime;légitime;0.783;N/A;1065;1
+MAIL-6422;2025-09-17;légitime;légitime;0.843;N/A;119;1
+MAIL-6423;2025-09-09;légitime;légitime;0.966;N/A;409;2
+MAIL-6424;2025-09-26;phishing;phishing;0.879;Faux support technique;400;1
+MAIL-6425;2025-09-26;phishing;phishing;0.917;Fausse facture;1090;1
+MAIL-6426;2025-09-07;légitime;légitime;0.957;N/A;646;0
+MAIL-6427;2025-09-28;légitime;légitime;0.798;N/A;360;0
+MAIL-6428;2025-09-11;légitime;légitime;0.827;N/A;229;2
+MAIL-6429;2025-09-04;légitime;légitime;0.885;N/A;352;0
+MAIL-6430;2025-09-08;phishing;légitime;0.756;Fausse facture;257;6
+MAIL-6431;2025-09-03;phishing;phishing;0.874;Usurpation fournisseur;740;2
+MAIL-6432;2025-09-01;légitime;légitime;0.965;N/A;734;1
+MAIL-6433;2025-09-26;légitime;légitime;0.909;N/A;765;0
+MAIL-6434;2025-09-01;phishing;phishing;0.889;Fausse facture;188;3
+MAIL-6435;2025-09-20;légitime;légitime;0.899;N/A;695;1
+MAIL-6436;2025-09-01;phishing;légitime;0.734;Usurpation fournisseur;414;6
+MAIL-6437;2025-09-23;phishing;phishing;0.936;Faux support technique;85;3
+MAIL-6438;2025-09-27;phishing;phishing;0.976;Faux support technique;980;6
+MAIL-6439;2025-09-12;légitime;légitime;0.942;N/A;976;2
+MAIL-6440;2025-09-21;légitime;phishing;0.669;N/A;986;2
+MAIL-6441;2025-09-22;phishing;phishing;0.811;Fausse facture;1172;4
+MAIL-6442;2025-09-10;phishing;phishing;0.812;Phishing RH/paie;449;3
+MAIL-6443;2025-09-11;phishing;phishing;0.953;Phishing RH/paie;293;4
+MAIL-6444;2025-09-20;phishing;phishing;0.932;Faux support technique;473;0
+MAIL-6445;2025-09-30;phishing;légitime;0.705;Fausse livraison colis;297;5
+MAIL-6446;2025-09-29;légitime;légitime;0.972;N/A;128;1
+MAIL-6447;2025-09-10;légitime;légitime;0.813;N/A;745;1
+MAIL-6448;2025-09-15;phishing;phishing;0.931;Usurpation fournisseur;185;6
+MAIL-6449;2025-09-05;légitime;légitime;0.873;N/A;760;1
+MAIL-6450;2025-09-23;légitime;légitime;0.809;N/A;903;2
+MAIL-6451;2025-09-27;légitime;légitime;0.975;N/A;916;1
+MAIL-6452;2025-09-17;légitime;légitime;0.845;N/A;186;1
+MAIL-6453;2025-09-23;légitime;légitime;0.975;N/A;1186;0
+MAIL-6454;2025-09-08;légitime;légitime;0.788;N/A;454;1
+MAIL-6455;2025-09-11;légitime;légitime;0.846;N/A;610;0
+MAIL-6456;2025-09-12;phishing;phishing;0.844;Phishing RH/paie;386;1
+MAIL-6457;2025-09-04;légitime;légitime;0.916;N/A;416;2
+MAIL-6458;2025-09-09;légitime;légitime;0.922;N/A;635;2
+MAIL-6459;2025-09-18;phishing;phishing;0.854;Faux support technique;822;0
+MAIL-6460;2025-09-30;phishing;légitime;0.614;Usurpation bancaire;806;2
+MAIL-6461;2025-09-15;légitime;légitime;0.874;N/A;396;2
+MAIL-6462;2025-09-19;phishing;phishing;0.943;Usurpation fournisseur;655;6
+MAIL-6463;2025-09-24;légitime;légitime;0.794;N/A;681;1
+MAIL-6464;2025-09-14;légitime;légitime;0.884;N/A;849;1
+MAIL-6465;2025-09-24;légitime;phishing;0.573;N/A;892;0
+MAIL-6466;2025-09-20;phishing;phishing;0.807;Faux support technique;961;4
+MAIL-6467;2025-09-03;phishing;phishing;0.828;Phishing RH/paie;1076;4
+MAIL-6468;2025-09-03;phishing;phishing;0.856;Phishing RH/paie;963;5
+MAIL-6469;2025-09-20;légitime;légitime;0.853;N/A;1088;2
+MAIL-6470;2025-09-14;phishing;phishing;0.886;Usurpation fournisseur;396;6
+MAIL-6471;2025-09-11;légitime;légitime;0.886;N/A;807;2
+MAIL-6472;2025-09-04;légitime;légitime;0.866;N/A;975;1
+MAIL-6473;2025-09-10;légitime;légitime;0.878;N/A;545;1
+MAIL-6474;2025-09-24;légitime;légitime;0.966;N/A;770;1
+MAIL-6475;2025-09-20;légitime;légitime;0.964;N/A;717;0
+MAIL-6476;2025-09-22;légitime;légitime;0.844;N/A;1046;0
+MAIL-6477;2025-09-23;phishing;phishing;0.963;Usurpation bancaire;436;3
+MAIL-6478;2025-09-21;légitime;légitime;0.826;N/A;174;1
+MAIL-6479;2025-09-30;légitime;légitime;0.969;N/A;908;2
+MAIL-6480;2025-09-19;phishing;phishing;0.95;Faux support technique;1164;6
+MAIL-6481;2025-09-26;légitime;légitime;0.827;N/A;145;2
+MAIL-6482;2025-09-12;légitime;légitime;0.797;N/A;825;0
+MAIL-6483;2025-09-12;phishing;phishing;0.838;Phishing RH/paie;211;0
+MAIL-6484;2025-09-01;légitime;légitime;0.856;N/A;603;0
+MAIL-6485;2025-09-27;légitime;légitime;0.95;N/A;1017;1
+MAIL-6486;2025-09-28;phishing;légitime;0.773;Usurpation bancaire;723;4
+MAIL-6487;2025-09-02;phishing;légitime;0.674;Usurpation bancaire;160;5
+MAIL-6488;2025-09-30;phishing;phishing;0.907;Phishing RH/paie;323;2
+MAIL-6489;2025-09-16;légitime;légitime;0.889;N/A;659;0
+MAIL-6490;2025-09-11;phishing;phishing;0.837;Phishing RH/paie;1099;2
+MAIL-6491;2025-09-02;légitime;légitime;0.796;N/A;90;1
+MAIL-6492;2025-09-09;phishing;phishing;0.926;Faux support technique;554;0
+MAIL-6493;2025-09-01;phishing;phishing;0.809;Faux support technique;166;1
+MAIL-6494;2025-09-12;légitime;légitime;0.88;N/A;458;2
+MAIL-6495;2025-09-23;phishing;phishing;0.977;Fausse livraison colis;462;5
+MAIL-6496;2025-09-04;légitime;phishing;0.725;N/A;1166;1
+MAIL-6497;2025-09-16;légitime;légitime;0.927;N/A;970;2
+MAIL-6498;2025-09-08;phishing;phishing;0.877;Fausse livraison colis;109;2
+MAIL-6499;2025-09-27;légitime;légitime;0.916;N/A;744;0
+MAIL-6500;2025-09-15;phishing;phishing;0.871;Usurpation fournisseur;682;1
+MAIL-6501;2025-09-10;légitime;légitime;0.797;N/A;331;2
+MAIL-6502;2025-09-01;phishing;phishing;0.943;Fausse livraison colis;1010;0
+MAIL-6503;2025-09-04;légitime;légitime;0.837;N/A;139;2
+MAIL-6504;2025-09-11;légitime;légitime;0.878;N/A;361;2
+MAIL-6505;2025-09-17;phishing;phishing;0.981;Usurpation fournisseur;214;3
+MAIL-6506;2025-09-24;légitime;légitime;0.886;N/A;962;1
+MAIL-6507;2025-09-13;phishing;phishing;0.941;Faux support technique;301;1
+MAIL-6508;2025-09-13;légitime;légitime;0.84;N/A;769;1
+MAIL-6509;2025-09-17;phishing;phishing;0.811;Fausse facture;408;1
+MAIL-6510;2025-09-13;phishing;phishing;0.961;Phishing RH/paie;638;6
+MAIL-6511;2025-09-28;phishing;phishing;0.98;Usurpation bancaire;489;4
+MAIL-6512;2025-09-11;légitime;légitime;0.795;N/A;797;1
+MAIL-6513;2025-09-22;phishing;phishing;0.874;Usurpation fournisseur;80;2
+MAIL-6514;2025-09-16;légitime;légitime;0.854;N/A;967;2
+MAIL-6515;2025-09-01;légitime;légitime;0.909;N/A;256;2
+MAIL-6516;2025-09-19;légitime;légitime;0.974;N/A;668;0
+MAIL-6517;2025-09-06;légitime;légitime;0.929;N/A;989;1
+MAIL-6518;2025-09-08;légitime;légitime;0.921;N/A;482;0
+MAIL-6519;2025-09-17;phishing;phishing;0.911;Faux support technique;556;0
+MAIL-6520;2025-09-11;légitime;légitime;0.881;N/A;797;1
+MAIL-6521;2025-09-12;légitime;légitime;0.877;N/A;1185;1
+MAIL-6522;2025-09-17;légitime;légitime;0.939;N/A;1065;0
+MAIL-6523;2025-09-13;phishing;phishing;0.935;Faux support technique;928;1
+MAIL-6524;2025-09-25;phishing;phishing;0.953;Faux support technique;453;0
+MAIL-6525;2025-09-18;légitime;légitime;0.81;N/A;991;2
+MAIL-6526;2025-09-23;phishing;phishing;0.861;Usurpation fournisseur;292;1
+MAIL-6527;2025-09-25;phishing;phishing;0.967;Fausse facture;1126;0
+MAIL-6528;2025-09-15;légitime;légitime;0.808;N/A;758;0
+MAIL-6529;2025-09-10;légitime;légitime;0.969;N/A;656;2
+MAIL-6530;2025-09-14;phishing;phishing;0.948;Faux support technique;282;0
+MAIL-6531;2025-09-28;légitime;légitime;0.89;N/A;159;2
+MAIL-6532;2025-09-05;légitime;légitime;0.816;N/A;898;0
+MAIL-6533;2025-09-14;légitime;légitime;0.786;N/A;1020;0
+MAIL-6534;2025-09-05;phishing;légitime;0.599;Faux support technique;535;5
+MAIL-6535;2025-09-01;légitime;légitime;0.838;N/A;1144;1
+MAIL-6536;2025-09-10;légitime;légitime;0.917;N/A;542;1
+MAIL-6537;2025-09-18;légitime;légitime;0.914;N/A;603;2
+MAIL-6538;2025-09-04;phishing;phishing;0.984;Usurpation bancaire;535;2
+MAIL-6539;2025-09-26;phishing;phishing;0.921;Fausse facture;961;5
+MAIL-6540;2025-09-04;légitime;légitime;0.975;N/A;875;1
+MAIL-6541;2025-09-16;phishing;phishing;0.815;Fausse facture;1016;2
+MAIL-6542;2025-09-02;phishing;phishing;0.947;Faux support technique;544;2
+MAIL-6543;2025-09-05;phishing;phishing;0.842;Usurpation bancaire;421;4
+MAIL-6544;2025-09-04;légitime;légitime;0.8;N/A;649;0
+MAIL-6545;2025-09-19;légitime;légitime;0.986;N/A;204;2
+MAIL-6546;2025-09-12;légitime;phishing;0.63;N/A;1033;1
+MAIL-6547;2025-09-29;phishing;phishing;0.955;Phishing RH/paie;631;4
+MAIL-6548;2025-09-18;phishing;phishing;0.97;Usurpation bancaire;1072;4
+MAIL-6549;2025-09-14;légitime;légitime;0.861;N/A;395;0
+MAIL-6550;2025-09-01;phishing;phishing;0.925;Usurpation bancaire;244;3
+MAIL-6551;2025-09-11;légitime;légitime;0.819;N/A;536;0
+MAIL-6552;2025-09-18;légitime;légitime;0.889;N/A;365;2
+MAIL-6553;2025-09-04;légitime;légitime;0.795;N/A;449;0
+MAIL-6554;2025-09-13;phishing;phishing;0.904;Phishing RH/paie;387;3
+MAIL-6555;2025-09-08;phishing;légitime;0.703;Faux support technique;839;3
+MAIL-6556;2025-09-19;légitime;légitime;0.829;N/A;199;0
+MAIL-6557;2025-09-29;légitime;légitime;0.835;N/A;313;1
+MAIL-6558;2025-09-03;légitime;légitime;0.903;N/A;615;1
+MAIL-6559;2025-09-12;légitime;légitime;0.936;N/A;287;0
+MAIL-6560;2025-09-15;phishing;phishing;0.821;Usurpation bancaire;1144;2
+MAIL-6561;2025-09-28;légitime;légitime;0.929;N/A;1138;2
+MAIL-6562;2025-09-26;légitime;légitime;0.909;N/A;430;1
+MAIL-6563;2025-09-09;légitime;légitime;0.788;N/A;619;1
+MAIL-6564;2025-09-09;phishing;phishing;0.841;Faux support technique;191;5
+MAIL-6565;2025-09-20;phishing;phishing;0.811;Usurpation fournisseur;743;4
+MAIL-6566;2025-09-19;phishing;légitime;0.58;Fausse livraison colis;183;1
+MAIL-6567;2025-09-30;légitime;légitime;0.867;N/A;1158;2
+MAIL-6568;2025-09-14;légitime;légitime;0.987;N/A;814;1
+MAIL-6569;2025-09-22;phishing;phishing;0.825;Usurpation fournisseur;1181;6
+MAIL-6570;2025-09-30;légitime;légitime;0.884;N/A;952;2
+MAIL-6571;2025-09-07;phishing;phishing;0.938;Faux support technique;686;5
+MAIL-6572;2025-09-06;légitime;légitime;0.932;N/A;648;0
+MAIL-6573;2025-09-01;phishing;phishing;0.809;Fausse facture;95;2
+MAIL-6574;2025-09-30;phishing;phishing;0.939;Fausse livraison colis;692;2
+MAIL-6575;2025-09-03;phishing;légitime;0.761;Phishing RH/paie;668;0
+MAIL-6576;2025-09-05;phishing;phishing;0.902;Phishing RH/paie;365;6
+MAIL-6577;2025-09-18;légitime;légitime;0.826;N/A;997;2
+MAIL-6578;2025-09-01;légitime;légitime;0.85;N/A;320;2
+MAIL-6579;2025-09-04;légitime;légitime;0.798;N/A;547;1
+MAIL-6580;2025-09-17;légitime;légitime;0.942;N/A;828;1
+MAIL-6581;2025-09-08;légitime;légitime;0.81;N/A;537;1
+MAIL-6582;2025-09-30;légitime;légitime;0.923;N/A;100;0
+MAIL-6583;2025-09-22;légitime;légitime;0.977;N/A;469;0
+MAIL-6584;2025-09-13;phishing;phishing;0.89;Phishing RH/paie;224;3
+MAIL-6585;2025-09-16;phishing;phishing;0.986;Fausse livraison colis;491;6
+MAIL-6586;2025-09-22;légitime;légitime;0.818;N/A;1173;1
+MAIL-6587;2025-09-11;légitime;légitime;0.959;N/A;420;1
+MAIL-6588;2025-09-22;phishing;phishing;0.943;Phishing RH/paie;270;3
+MAIL-6589;2025-09-13;phishing;phishing;0.866;Fausse livraison colis;287;2
+MAIL-6590;2025-09-17;légitime;légitime;0.899;N/A;190;0
+MAIL-6591;2025-09-28;phishing;phishing;0.966;Usurpation fournisseur;1005;6
+MAIL-6592;2025-09-24;phishing;phishing;0.946;Faux support technique;984;0
+MAIL-6593;2025-09-05;phishing;phishing;0.905;Fausse facture;179;4
+MAIL-6594;2025-09-22;légitime;légitime;0.974;N/A;871;0
+MAIL-6595;2025-09-07;légitime;légitime;0.835;N/A;791;2
+MAIL-6596;2025-09-07;phishing;phishing;0.95;Usurpation fournisseur;854;1
+MAIL-6597;2025-09-15;phishing;phishing;0.865;Phishing RH/paie;1135;6
+MAIL-6598;2025-09-22;phishing;phishing;0.839;Usurpation fournisseur;447;0
+MAIL-6599;2025-09-13;légitime;légitime;0.87;N/A;222;2
+MAIL-6600;2025-09-24;phishing;phishing;0.835;Faux support technique;947;4
+MAIL-6601;2025-09-22;légitime;légitime;0.903;N/A;107;0
+MAIL-6602;2025-09-03;phishing;légitime;0.786;Fausse livraison colis;262;4
+MAIL-6603;2025-09-21;légitime;légitime;0.951;N/A;481;2
+MAIL-6604;2025-09-20;légitime;légitime;0.917;N/A;869;1
+MAIL-6605;2025-09-21;phishing;phishing;0.843;Phishing RH/paie;298;5
+MAIL-6606;2025-09-06;phishing;phishing;0.897;Phishing RH/paie;993;6
+MAIL-6607;2025-09-28;légitime;légitime;0.803;N/A;731;2
+MAIL-6608;2025-09-29;phishing;phishing;0.901;Usurpation bancaire;1165;2
+MAIL-6609;2025-09-08;phishing;phishing;0.911;Fausse livraison colis;381;1
+MAIL-6610;2025-09-14;légitime;légitime;0.827;N/A;1165;1
+MAIL-6611;2025-09-25;phishing;phishing;0.974;Faux support technique;1109;1
+MAIL-6612;2025-09-14;légitime;légitime;0.961;N/A;235;1
+MAIL-6613;2025-09-10;légitime;légitime;0.844;N/A;219;1
+MAIL-6614;2025-09-21;phishing;phishing;0.967;Usurpation bancaire;843;0
+MAIL-6615;2025-09-12;légitime;légitime;0.971;N/A;909;0
+MAIL-6616;2025-09-28;phishing;phishing;0.86;Fausse livraison colis;581;3
+MAIL-6617;2025-09-06;légitime;légitime;0.922;N/A;521;0
+MAIL-6618;2025-09-20;légitime;légitime;0.794;N/A;1104;1
+MAIL-6619;2025-09-08;légitime;légitime;0.905;N/A;248;2
+MAIL-6620;2025-09-04;légitime;légitime;0.839;N/A;644;1
+MAIL-6621;2025-09-01;légitime;légitime;0.785;N/A;499;1
+MAIL-6622;2025-09-17;légitime;légitime;0.945;N/A;309;2
+MAIL-6623;2025-09-10;légitime;légitime;0.974;N/A;1155;2
+MAIL-6624;2025-09-18;phishing;phishing;0.889;Fausse livraison colis;1000;3
+MAIL-6625;2025-09-11;légitime;légitime;0.83;N/A;584;1
+MAIL-6626;2025-09-07;légitime;légitime;0.84;N/A;181;2
+MAIL-6627;2025-09-09;légitime;phishing;0.762;N/A;1125;0
+MAIL-6628;2025-09-15;légitime;légitime;0.966;N/A;1053;2
+MAIL-6629;2025-09-21;phishing;phishing;0.86;Phishing RH/paie;801;3
+MAIL-6630;2025-09-11;phishing;phishing;0.891;Usurpation fournisseur;1111;3
+MAIL-6631;2025-09-22;légitime;phishing;0.764;N/A;740;2
+MAIL-6632;2025-09-30;phishing;phishing;0.9;Fausse livraison colis;281;2
+MAIL-6633;2025-09-07;légitime;légitime;0.781;N/A;156;2
+MAIL-6634;2025-09-12;phishing;phishing;0.846;Fausse facture;255;0
+MAIL-6635;2025-09-07;phishing;phishing;0.84;Fausse facture;225;0
+MAIL-6636;2025-09-08;phishing;phishing;0.953;Usurpation fournisseur;647;2
+MAIL-6637;2025-09-24;légitime;légitime;0.955;N/A;1097;2
+MAIL-6638;2025-09-20;légitime;légitime;0.895;N/A;1050;1
+MAIL-6639;2025-09-30;légitime;légitime;0.973;N/A;1097;0
+MAIL-6640;2025-09-05;phishing;phishing;0.932;Usurpation bancaire;517;3
+MAIL-6641;2025-09-27;légitime;phishing;0.758;N/A;591;1
+MAIL-6642;2025-09-10;légitime;légitime;0.804;N/A;1148;1
+MAIL-6643;2025-09-17;phishing;légitime;0.649;Usurpation bancaire;205;0
+MAIL-6644;2025-09-14;légitime;légitime;0.949;N/A;336;0
+MAIL-6645;2025-09-15;légitime;légitime;0.892;N/A;403;1
+MAIL-6646;2025-09-11;phishing;phishing;0.802;Fausse livraison colis;1002;1
+MAIL-6647;2025-09-09;légitime;légitime;0.822;N/A;530;0
+MAIL-6648;2025-09-03;phishing;phishing;0.976;Fausse livraison colis;406;3
+MAIL-6649;2025-09-08;légitime;légitime;0.914;N/A;549;1
+MAIL-6650;2025-09-04;légitime;légitime;0.897;N/A;1126;0
+MAIL-6651;2025-09-30;phishing;phishing;0.928;Usurpation bancaire;149;0
+MAIL-6652;2025-09-13;phishing;phishing;0.83;Faux support technique;1036;3
+MAIL-6653;2025-09-13;légitime;légitime;0.843;N/A;87;1
+MAIL-6654;2025-09-20;phishing;phishing;0.928;Usurpation bancaire;1186;4
+MAIL-6655;2025-09-06;légitime;légitime;0.956;N/A;403;1
+MAIL-6656;2025-09-21;légitime;légitime;0.871;N/A;658;1
+MAIL-6657;2025-09-04;phishing;phishing;0.919;Faux support technique;526;4
+MAIL-6658;2025-09-14;légitime;légitime;0.907;N/A;525;2
+MAIL-6659;2025-09-29;phishing;phishing;0.87;Fausse livraison colis;774;4
+MAIL-6660;2025-09-08;légitime;légitime;0.911;N/A;557;0
+MAIL-6661;2025-09-21;légitime;légitime;0.923;N/A;484;2
+MAIL-6662;2025-09-17;légitime;légitime;0.903;N/A;900;2
+MAIL-6663;2025-09-21;phishing;phishing;0.802;Usurpation bancaire;218;1
+MAIL-6664;2025-09-19;légitime;légitime;0.875;N/A;380;1
+MAIL-6665;2025-09-05;légitime;légitime;0.867;N/A;837;1
+MAIL-6666;2025-09-24;phishing;phishing;0.811;Fausse livraison colis;290;5
+MAIL-6667;2025-09-04;légitime;légitime;0.928;N/A;534;1
+MAIL-6668;2025-09-12;phishing;phishing;0.962;Usurpation bancaire;1012;2
+MAIL-6669;2025-09-28;légitime;légitime;0.876;N/A;987;0
+MAIL-6670;2025-09-21;phishing;phishing;0.911;Fausse livraison colis;614;0
+MAIL-6671;2025-09-25;légitime;légitime;0.908;N/A;1136;2
+MAIL-6672;2025-09-04;légitime;légitime;0.843;N/A;1149;1
+MAIL-6673;2025-09-11;légitime;légitime;0.885;N/A;854;0
+MAIL-6674;2025-09-15;phishing;phishing;0.811;Usurpation bancaire;604;4
+MAIL-6675;2025-09-10;légitime;légitime;0.981;N/A;114;1
+MAIL-6676;2025-09-02;légitime;légitime;0.795;N/A;375;1
+MAIL-6677;2025-09-12;légitime;légitime;0.803;N/A;1108;2
+MAIL-6678;2025-09-05;légitime;légitime;0.856;N/A;961;1
+MAIL-6679;2025-09-06;légitime;légitime;0.969;N/A;179;1
+MAIL-6680;2025-09-25;légitime;légitime;0.926;N/A;930;2
+MAIL-6681;2025-09-25;légitime;légitime;0.903;N/A;395;0
+MAIL-6682;2025-09-13;phishing;phishing;0.904;Usurpation bancaire;832;5
+MAIL-6683;2025-09-12;légitime;légitime;0.85;N/A;119;0
+MAIL-6684;2025-09-17;phishing;phishing;0.864;Faux support technique;708;3
+MAIL-6685;2025-09-22;phishing;phishing;0.95;Faux support technique;403;0
+MAIL-6686;2025-09-28;légitime;légitime;0.939;N/A;555;0
+MAIL-6687;2025-09-25;phishing;phishing;0.91;Phishing RH/paie;1158;5
+MAIL-6688;2025-09-19;légitime;légitime;0.963;N/A;837;2
+MAIL-6689;2025-09-11;phishing;phishing;0.976;Usurpation bancaire;740;4
+MAIL-6690;2025-09-11;phishing;phishing;0.862;Usurpation fournisseur;1008;3
+MAIL-6691;2025-09-02;légitime;légitime;0.959;N/A;879;2
+MAIL-6692;2025-09-19;légitime;légitime;0.946;N/A;877;1
+MAIL-6693;2025-09-12;légitime;légitime;0.849;N/A;381;0
+MAIL-6694;2025-09-09;légitime;légitime;0.837;N/A;843;1
+MAIL-6695;2025-09-07;phishing;phishing;0.905;Phishing RH/paie;403;3
+MAIL-6696;2025-09-27;légitime;légitime;0.959;N/A;1060;0
+MAIL-6697;2025-09-18;phishing;phishing;0.851;Usurpation fournisseur;606;0
+MAIL-6698;2025-09-24;légitime;légitime;0.824;N/A;1066;1
+MAIL-6699;2025-09-12;phishing;légitime;0.693;Phishing RH/paie;464;4
+MAIL-6700;2025-09-06;légitime;phishing;0.617;N/A;388;1
+MAIL-6701;2025-09-14;phishing;légitime;0.751;Usurpation fournisseur;806;4
+MAIL-6702;2025-09-23;légitime;légitime;0.93;N/A;572;2
+MAIL-6703;2025-09-02;phishing;phishing;0.826;Fausse facture;538;3
+MAIL-6704;2025-09-23;phishing;phishing;0.882;Fausse facture;766;2
+MAIL-6705;2025-09-05;phishing;phishing;0.983;Phishing RH/paie;457;4
+MAIL-6706;2025-09-04;légitime;légitime;0.859;N/A;220;0
+MAIL-6707;2025-09-25;phishing;phishing;0.913;Phishing RH/paie;583;0
+MAIL-6708;2025-09-18;légitime;légitime;0.793;N/A;100;0
+MAIL-6709;2025-09-23;légitime;légitime;0.953;N/A;493;1
+MAIL-6710;2025-09-06;légitime;légitime;0.891;N/A;80;1
+MAIL-6711;2025-09-11;phishing;phishing;0.971;Usurpation bancaire;113;0
+MAIL-6712;2025-09-04;phishing;phishing;0.951;Fausse livraison colis;228;0
+MAIL-6713;2025-09-01;phishing;phishing;0.821;Usurpation fournisseur;970;0
+MAIL-6714;2025-09-18;phishing;phishing;0.942;Usurpation bancaire;491;2
+MAIL-6715;2025-09-24;légitime;légitime;0.908;N/A;663;0
+MAIL-6716;2025-09-03;phishing;phishing;0.912;Usurpation bancaire;527;6
+MAIL-6717;2025-09-18;phishing;phishing;0.928;Faux support technique;1050;6
+MAIL-6718;2025-09-06;phishing;légitime;0.646;Usurpation fournisseur;484;5
+MAIL-6719;2025-09-28;légitime;légitime;0.817;N/A;1071;0
+MAIL-6720;2025-09-25;légitime;légitime;0.912;N/A;163;2
+MAIL-6721;2025-09-15;phishing;phishing;0.886;Fausse facture;1011;0
+MAIL-6722;2025-09-04;légitime;légitime;0.958;N/A;998;0
+MAIL-6723;2025-09-28;légitime;légitime;0.858;N/A;247;1
+MAIL-6724;2025-09-16;légitime;légitime;0.903;N/A;876;2
+MAIL-6725;2025-09-17;légitime;légitime;0.807;N/A;128;2
+MAIL-6726;2025-09-07;légitime;légitime;0.814;N/A;1072;0
+MAIL-6727;2025-09-13;légitime;légitime;0.949;N/A;919;0
+MAIL-6728;2025-09-08;légitime;légitime;0.937;N/A;281;2
+MAIL-6729;2025-09-20;légitime;légitime;0.856;N/A;736;1
+MAIL-6730;2025-09-06;légitime;légitime;0.903;N/A;802;1
+MAIL-6731;2025-09-25;phishing;phishing;0.9;Phishing RH/paie;641;5
+MAIL-6732;2025-09-06;phishing;phishing;0.978;Faux support technique;1176;2
+MAIL-6733;2025-09-30;phishing;légitime;0.655;Usurpation fournisseur;94;5
+MAIL-6734;2025-09-10;légitime;phishing;0.656;N/A;967;0
+MAIL-6735;2025-09-11;phishing;phishing;0.832;Fausse facture;851;5
+MAIL-6736;2025-09-28;phishing;phishing;0.953;Phishing RH/paie;771;1
+MAIL-6737;2025-09-01;phishing;phishing;0.845;Usurpation fournisseur;683;2
+MAIL-6738;2025-09-16;légitime;légitime;0.84;N/A;553;1
+MAIL-6739;2025-09-10;phishing;phishing;0.934;Phishing RH/paie;511;0
+MAIL-6740;2025-09-25;phishing;phishing;0.978;Fausse facture;970;3
+MAIL-6741;2025-09-09;phishing;phishing;0.883;Fausse livraison colis;881;1
+MAIL-6742;2025-09-12;légitime;légitime;0.89;N/A;949;0
+MAIL-6743;2025-09-13;phishing;phishing;0.905;Phishing RH/paie;782;3
+MAIL-6744;2025-09-07;phishing;phishing;0.845;Fausse facture;961;0
+MAIL-6745;2025-09-02;légitime;légitime;0.806;N/A;155;1
+MAIL-6746;2025-09-03;légitime;légitime;0.939;N/A;946;1
+MAIL-6747;2025-09-13;légitime;légitime;0.863;N/A;127;0
+MAIL-6748;2025-09-28;phishing;phishing;0.872;Fausse facture;174;4
+MAIL-6749;2025-09-19;phishing;phishing;0.88;Fausse facture;910;6
+MAIL-6750;2025-09-10;phishing;phishing;0.907;Usurpation bancaire;496;4
+MAIL-6751;2025-09-24;phishing;phishing;0.918;Faux support technique;349;3
+MAIL-6752;2025-09-27;légitime;légitime;0.826;N/A;732;2
+MAIL-6753;2025-09-18;légitime;légitime;0.898;N/A;1050;0
+MAIL-6754;2025-09-26;phishing;phishing;0.942;Usurpation bancaire;153;5
+MAIL-6755;2025-09-03;phishing;phishing;0.902;Fausse facture;145;1
+MAIL-6756;2025-09-10;légitime;légitime;0.879;N/A;408;0
+MAIL-6757;2025-09-15;légitime;légitime;0.946;N/A;979;0
+MAIL-6758;2025-09-28;phishing;phishing;0.954;Fausse facture;85;5
+MAIL-6759;2025-09-25;légitime;légitime;0.798;N/A;501;1
+MAIL-6760;2025-09-03;phishing;phishing;0.895;Phishing RH/paie;911;1
+MAIL-6761;2025-09-27;phishing;légitime;0.736;Fausse livraison colis;570;6
+MAIL-6762;2025-09-19;légitime;légitime;0.953;N/A;982;2
+MAIL-6763;2025-09-01;légitime;phishing;0.65;N/A;222;0
+MAIL-6764;2025-09-30;légitime;légitime;0.905;N/A;1130;0
+MAIL-6765;2025-09-11;légitime;légitime;0.847;N/A;891;2
+MAIL-6766;2025-09-11;légitime;légitime;0.949;N/A;473;0
+MAIL-6767;2025-09-29;phishing;phishing;0.914;Usurpation bancaire;621;5
+MAIL-6768;2025-09-23;phishing;phishing;0.832;Fausse livraison colis;279;1
+MAIL-6769;2025-09-24;phishing;phishing;0.891;Usurpation bancaire;903;0
+MAIL-6770;2025-09-02;phishing;phishing;0.836;Faux support technique;729;1
+MAIL-6771;2025-09-07;phishing;phishing;0.837;Fausse facture;283;0
+MAIL-6772;2025-09-19;phishing;phishing;0.874;Fausse facture;1030;5
+MAIL-6773;2025-09-10;phishing;phishing;0.911;Fausse livraison colis;202;5
+MAIL-6774;2025-09-10;phishing;phishing;0.855;Usurpation fournisseur;1156;6
+MAIL-6775;2025-09-22;phishing;phishing;0.805;Faux support technique;897;4
+MAIL-6776;2025-09-28;phishing;phishing;0.976;Phishing RH/paie;168;0
+MAIL-6777;2025-09-23;phishing;phishing;0.915;Fausse facture;165;1
+MAIL-6778;2025-09-01;légitime;légitime;0.961;N/A;1071;1
+MAIL-6779;2025-09-29;légitime;légitime;0.788;N/A;1005;1
+MAIL-6780;2025-09-16;légitime;légitime;0.784;N/A;921;1
+MAIL-6781;2025-09-28;phishing;phishing;0.876;Faux support technique;1080;5
+MAIL-6782;2025-09-21;légitime;légitime;0.796;N/A;846;1
+MAIL-6783;2025-09-16;légitime;légitime;0.885;N/A;400;2
+MAIL-6784;2025-09-21;phishing;phishing;0.837;Usurpation fournisseur;121;4
+MAIL-6785;2025-09-02;phishing;phishing;0.95;Phishing RH/paie;692;5
+MAIL-6786;2025-09-05;légitime;légitime;0.914;N/A;590;0
+MAIL-6787;2025-09-06;phishing;phishing;0.812;Fausse livraison colis;958;2
+MAIL-6788;2025-09-01;légitime;phishing;0.786;N/A;1027;2
+MAIL-6789;2025-09-10;légitime;légitime;0.804;N/A;250;2
+MAIL-6790;2025-09-27;phishing;phishing;0.877;Fausse facture;724;2
+MAIL-6791;2025-09-12;légitime;légitime;0.834;N/A;273;2
+MAIL-6792;2025-09-09;légitime;légitime;0.817;N/A;717;1
+MAIL-6793;2025-09-01;phishing;légitime;0.586;Usurpation bancaire;170;6
+MAIL-6794;2025-09-06;légitime;légitime;0.92;N/A;760;1
+MAIL-6795;2025-09-05;légitime;légitime;0.795;N/A;781;1
+MAIL-6796;2025-09-16;légitime;légitime;0.828;N/A;977;1
+MAIL-6797;2025-09-03;légitime;légitime;0.861;N/A;110;0
+MAIL-6798;2025-09-05;légitime;légitime;0.875;N/A;1081;2
+MAIL-6799;2025-09-28;phishing;phishing;0.93;Fausse facture;166;5
+MAIL-6800;2025-09-26;phishing;phishing;0.821;Usurpation fournisseur;898;6
+MAIL-6801;2025-09-22;légitime;légitime;0.965;N/A;293;0
+MAIL-6802;2025-09-13;phishing;phishing;0.827;Usurpation bancaire;87;6
+MAIL-6803;2025-09-21;légitime;légitime;0.974;N/A;884;2
+MAIL-6804;2025-09-12;phishing;phishing;0.834;Fausse livraison colis;521;1
+MAIL-6805;2025-09-16;phishing;phishing;0.873;Usurpation bancaire;271;1
+MAIL-6806;2025-09-01;phishing;phishing;0.979;Fausse livraison colis;745;4
+MAIL-6807;2025-09-17;légitime;légitime;0.784;N/A;381;1
+MAIL-6808;2025-09-06;légitime;légitime;0.883;N/A;842;0
+MAIL-6809;2025-09-02;légitime;légitime;0.927;N/A;200;0
+MAIL-6810;2025-09-03;phishing;phishing;0.835;Faux support technique;126;5
+MAIL-6811;2025-09-05;légitime;phishing;0.765;N/A;847;2
+MAIL-6812;2025-09-09;légitime;légitime;0.952;N/A;271;0
+MAIL-6813;2025-09-23;légitime;légitime;0.964;N/A;572;2
+MAIL-6814;2025-09-28;légitime;légitime;0.87;N/A;235;2
+MAIL-6815;2025-09-16;légitime;légitime;0.948;N/A;840;0
+MAIL-6816;2025-09-05;légitime;légitime;0.929;N/A;1002;1
+MAIL-6817;2025-09-19;phishing;phishing;0.912;Usurpation bancaire;690;0
+MAIL-6818;2025-09-15;phishing;phishing;0.874;Usurpation fournisseur;1199;6
+MAIL-6819;2025-09-02;légitime;légitime;0.907;N/A;281;2
+MAIL-6820;2025-09-25;légitime;légitime;0.963;N/A;305;2
+MAIL-6821;2025-09-30;phishing;phishing;0.922;Phishing RH/paie;1046;5
+MAIL-6822;2025-09-11;légitime;légitime;0.914;N/A;130;0
+MAIL-6823;2025-09-18;phishing;phishing;0.868;Usurpation bancaire;1095;1
+MAIL-6824;2025-09-25;phishing;phishing;0.917;Faux support technique;974;3
+MAIL-6825;2025-09-18;légitime;légitime;0.966;N/A;853;1
+MAIL-6826;2025-09-03;légitime;légitime;0.851;N/A;855;1
+MAIL-6827;2025-09-10;légitime;légitime;0.831;N/A;207;1
+MAIL-6828;2025-09-23;légitime;phishing;0.723;N/A;472;0
+MAIL-6829;2025-09-05;phishing;phishing;0.899;Usurpation bancaire;360;5
+MAIL-6830;2025-09-08;légitime;légitime;0.854;N/A;1024;1
+MAIL-6831;2025-09-17;légitime;légitime;0.787;N/A;1062;0
+MAIL-6832;2025-09-10;légitime;légitime;0.802;N/A;741;1
+MAIL-6833;2025-09-01;phishing;phishing;0.811;Usurpation fournisseur;842;6
+MAIL-6834;2025-09-26;phishing;phishing;0.923;Usurpation bancaire;529;5
+MAIL-6835;2025-09-19;légitime;légitime;0.892;N/A;307;1
+MAIL-6836;2025-09-30;légitime;légitime;0.844;N/A;808;1
+MAIL-6837;2025-09-25;phishing;phishing;0.813;Faux support technique;976;4
+MAIL-6838;2025-09-08;légitime;légitime;0.958;N/A;298;1
+MAIL-6839;2025-09-13;légitime;légitime;0.782;N/A;545;1
+MAIL-6840;2025-09-09;phishing;phishing;0.901;Fausse livraison colis;672;2
+MAIL-6841;2025-09-05;phishing;phishing;0.839;Phishing RH/paie;1032;5
+MAIL-6842;2025-09-15;légitime;légitime;0.853;N/A;256;1
+MAIL-6843;2025-09-19;légitime;légitime;0.877;N/A;798;2
+MAIL-6844;2025-09-30;légitime;légitime;0.924;N/A;1026;2
+MAIL-6845;2025-09-25;phishing;phishing;0.837;Usurpation fournisseur;1133;0
+MAIL-6846;2025-09-10;phishing;phishing;0.817;Faux support technique;532;2
+MAIL-6847;2025-09-06;légitime;légitime;0.816;N/A;147;1
+MAIL-6848;2025-09-18;phishing;phishing;0.841;Fausse facture;816;6
+MAIL-6849;2025-09-16;phishing;phishing;0.833;Phishing RH/paie;522;6
+MAIL-6850;2025-09-20;phishing;phishing;0.883;Usurpation bancaire;859;3
+MAIL-6851;2025-09-22;phishing;phishing;0.983;Usurpation fournisseur;105;0
+MAIL-6852;2025-09-03;légitime;légitime;0.869;N/A;129;2
+MAIL-6853;2025-09-05;légitime;légitime;0.9;N/A;526;2
+MAIL-6854;2025-09-22;légitime;légitime;0.974;N/A;521;0
+MAIL-6855;2025-09-20;phishing;phishing;0.815;Fausse livraison colis;236;2
+MAIL-6856;2025-09-21;légitime;légitime;0.95;N/A;791;0
+MAIL-6857;2025-09-11;légitime;légitime;0.849;N/A;485;0
+MAIL-6858;2025-09-28;légitime;légitime;0.811;N/A;967;2
+MAIL-6859;2025-09-30;phishing;phishing;0.88;Usurpation fournisseur;133;5
+MAIL-6860;2025-09-20;légitime;légitime;0.96;N/A;691;0
+MAIL-6861;2025-09-16;phishing;phishing;0.935;Fausse facture;306;4
+MAIL-6862;2025-09-18;légitime;légitime;0.798;N/A;665;2
+MAIL-6863;2025-09-23;phishing;phishing;0.896;Fausse facture;196;6
+MAIL-6864;2025-09-13;phishing;phishing;0.812;Usurpation fournisseur;692;1
+MAIL-6865;2025-09-08;phishing;phishing;0.843;Usurpation fournisseur;1037;6
+MAIL-6866;2025-09-03;phishing;phishing;0.971;Usurpation fournisseur;1076;1
+MAIL-6867;2025-09-22;légitime;légitime;0.845;N/A;364;0
+MAIL-6868;2025-09-15;légitime;légitime;0.844;N/A;589;0
+MAIL-6869;2025-09-27;légitime;légitime;0.952;N/A;335;0
+MAIL-6870;2025-09-15;légitime;légitime;0.79;N/A;262;0
+MAIL-6871;2025-09-08;légitime;légitime;0.933;N/A;479;2
+MAIL-6872;2025-09-17;légitime;légitime;0.837;N/A;1145;1
+MAIL-6873;2025-09-29;légitime;légitime;0.822;N/A;879;1
+MAIL-6874;2025-09-13;légitime;légitime;0.808;N/A;681;1
+MAIL-6875;2025-09-28;légitime;légitime;0.798;N/A;796;0
+MAIL-6876;2025-09-16;phishing;phishing;0.923;Usurpation bancaire;557;5
+MAIL-6877;2025-09-13;légitime;légitime;0.788;N/A;981;0
+MAIL-6878;2025-09-15;phishing;phishing;0.933;Fausse livraison colis;95;4
+MAIL-6879;2025-09-18;légitime;légitime;0.983;N/A;791;0
+MAIL-6880;2025-09-22;légitime;légitime;0.95;N/A;495;0
+MAIL-6881;2025-09-01;légitime;légitime;0.86;N/A;1087;2
+MAIL-6882;2025-09-30;légitime;légitime;0.87;N/A;312;2
+MAIL-6883;2025-09-05;phishing;phishing;0.962;Usurpation fournisseur;148;5
+MAIL-6884;2025-09-22;phishing;phishing;0.869;Usurpation bancaire;502;0
+MAIL-6885;2025-09-05;phishing;phishing;0.918;Usurpation bancaire;417;1
+MAIL-6886;2025-09-04;légitime;légitime;0.908;N/A;386;1
+MAIL-6887;2025-09-17;phishing;phishing;0.9;Usurpation bancaire;108;2
+MAIL-6888;2025-09-12;légitime;légitime;0.973;N/A;1181;1
+MAIL-6889;2025-09-01;phishing;phishing;0.861;Phishing RH/paie;394;5
+MAIL-6890;2025-09-03;légitime;légitime;0.82;N/A;929;0
+MAIL-6891;2025-09-29;phishing;phishing;0.958;Fausse facture;465;1
+MAIL-6892;2025-09-12;phishing;phishing;0.867;Usurpation fournisseur;750;2
+MAIL-6893;2025-09-02;phishing;phishing;0.823;Fausse facture;1185;0
+MAIL-6894;2025-09-02;légitime;légitime;0.972;N/A;835;2
+MAIL-6895;2025-09-19;légitime;légitime;0.87;N/A;286;0
+MAIL-6896;2025-09-27;légitime;légitime;0.947;N/A;95;2
+MAIL-6897;2025-09-04;légitime;légitime;0.927;N/A;271;2
+MAIL-6898;2025-09-10;légitime;légitime;0.873;N/A;102;0
+MAIL-6899;2025-09-08;légitime;légitime;0.937;N/A;811;2
+MAIL-6900;2025-09-15;légitime;phishing;0.637;N/A;552;0
+MAIL-6901;2025-09-17;légitime;légitime;0.817;N/A;774;2
+MAIL-6902;2025-09-03;phishing;phishing;0.817;Fausse facture;804;1
+MAIL-6903;2025-09-23;légitime;légitime;0.806;N/A;1125;0
+MAIL-6904;2025-09-02;phishing;phishing;0.953;Fausse livraison colis;745;4
+MAIL-6905;2025-09-02;légitime;légitime;0.794;N/A;183;1
+MAIL-6906;2025-09-11;légitime;légitime;0.786;N/A;878;1
+MAIL-6907;2025-09-07;phishing;légitime;0.742;Phishing RH/paie;1038;0
+MAIL-6908;2025-09-17;phishing;légitime;0.626;Usurpation bancaire;998;2
+MAIL-6909;2025-09-04;légitime;légitime;0.857;N/A;156;0
+MAIL-6910;2025-09-12;légitime;légitime;0.983;N/A;1186;1
+MAIL-6911;2025-09-24;phishing;légitime;0.702;Usurpation bancaire;642;0
+MAIL-6912;2025-09-19;légitime;légitime;0.882;N/A;758;0
+MAIL-6913;2025-09-19;légitime;légitime;0.881;N/A;659;1
+MAIL-6914;2025-09-08;phishing;phishing;0.903;Fausse facture;952;4
+MAIL-6915;2025-09-20;légitime;légitime;0.882;N/A;224;1
+MAIL-6916;2025-09-17;phishing;phishing;0.883;Fausse facture;546;1
+MAIL-6917;2025-09-05;phishing;phishing;0.818;Phishing RH/paie;469;3
+MAIL-6918;2025-09-26;légitime;légitime;0.891;N/A;571;2
+MAIL-6919;2025-09-03;légitime;légitime;0.972;N/A;856;2
+MAIL-6920;2025-09-30;légitime;légitime;0.849;N/A;245;2
+MAIL-6921;2025-09-02;légitime;légitime;0.817;N/A;747;2
+MAIL-6922;2025-09-06;phishing;phishing;0.986;Usurpation fournisseur;418;0
+MAIL-6923;2025-09-22;légitime;légitime;0.809;N/A;407;0
+MAIL-6924;2025-09-30;phishing;phishing;0.906;Faux support technique;567;5
+MAIL-6925;2025-09-06;légitime;phishing;0.68;N/A;921;1
+MAIL-6926;2025-09-20;légitime;légitime;0.863;N/A;1024;0
+MAIL-6927;2025-09-24;légitime;légitime;0.838;N/A;521;2
+MAIL-6928;2025-09-16;phishing;phishing;0.936;Faux support technique;704;3
+MAIL-6929;2025-09-14;phishing;phishing;0.862;Usurpation fournisseur;1113;3
+MAIL-6930;2025-09-12;légitime;légitime;0.859;N/A;300;1
+MAIL-6931;2025-09-05;légitime;légitime;0.789;N/A;346;2
+MAIL-6932;2025-09-16;phishing;phishing;0.883;Fausse facture;403;4
+MAIL-6933;2025-09-08;phishing;phishing;0.896;Usurpation fournisseur;823;4
+MAIL-6934;2025-09-07;légitime;légitime;0.972;N/A;697;2
+MAIL-6935;2025-09-27;phishing;phishing;0.816;Usurpation bancaire;815;1
+MAIL-6936;2025-09-17;phishing;phishing;0.904;Fausse livraison colis;443;0
+MAIL-6937;2025-09-28;légitime;légitime;0.848;N/A;304;0
+MAIL-6938;2025-09-10;légitime;légitime;0.842;N/A;746;1
+MAIL-6939;2025-09-06;légitime;légitime;0.977;N/A;939;1
+MAIL-6940;2025-09-02;légitime;légitime;0.95;N/A;857;0
+MAIL-6941;2025-09-14;légitime;légitime;0.823;N/A;434;1
+MAIL-6942;2025-09-24;légitime;légitime;0.808;N/A;815;2
+MAIL-6943;2025-09-01;légitime;légitime;0.835;N/A;369;0
+MAIL-6944;2025-09-24;légitime;phishing;0.701;N/A;655;2
+MAIL-6945;2025-09-13;phishing;phishing;0.918;Fausse facture;477;2
+MAIL-6946;2025-09-10;légitime;phishing;0.621;N/A;698;2
+MAIL-6947;2025-09-07;phishing;phishing;0.82;Fausse livraison colis;810;2
+MAIL-6948;2025-09-06;légitime;légitime;0.877;N/A;900;1
+MAIL-6949;2025-09-06;phishing;phishing;0.884;Usurpation fournisseur;917;5
+MAIL-6950;2025-09-27;légitime;légitime;0.91;N/A;115;2
+MAIL-6951;2025-09-04;légitime;légitime;0.861;N/A;535;1
+MAIL-6952;2025-09-21;légitime;légitime;0.802;N/A;457;0
+MAIL-6953;2025-09-15;légitime;légitime;0.809;N/A;805;2
+MAIL-6954;2025-09-26;légitime;légitime;0.986;N/A;805;1
+MAIL-6955;2025-09-21;légitime;légitime;0.801;N/A;733;1
+MAIL-6956;2025-09-12;légitime;légitime;0.912;N/A;658;2
+MAIL-6957;2025-09-03;phishing;phishing;0.938;Phishing RH/paie;354;5
+MAIL-6958;2025-09-21;légitime;légitime;0.872;N/A;122;2
+MAIL-6959;2025-09-06;phishing;phishing;0.93;Fausse facture;1144;5
+MAIL-6960;2025-09-22;légitime;légitime;0.914;N/A;1014;0
+MAIL-6961;2025-09-12;légitime;légitime;0.797;N/A;260;2
+MAIL-6962;2025-09-26;phishing;phishing;0.972;Fausse livraison colis;370;0
+MAIL-6963;2025-09-06;légitime;légitime;0.798;N/A;1100;2
+MAIL-6964;2025-09-29;phishing;légitime;0.632;Usurpation bancaire;510;3
+MAIL-6965;2025-09-22;légitime;légitime;0.851;N/A;1022;0
+MAIL-6966;2025-09-01;légitime;légitime;0.97;N/A;199;1
+MAIL-6967;2025-09-10;phishing;phishing;0.897;Phishing RH/paie;1113;6
+MAIL-6968;2025-09-24;phishing;phishing;0.81;Fausse facture;89;6
+MAIL-6969;2025-09-21;légitime;légitime;0.85;N/A;538;1
+MAIL-6970;2025-09-22;légitime;légitime;0.915;N/A;960;2
+MAIL-6971;2025-09-13;phishing;phishing;0.957;Fausse facture;93;1
+MAIL-6972;2025-09-12;légitime;légitime;0.859;N/A;210;1
+MAIL-6973;2025-09-23;phishing;phishing;0.912;Usurpation fournisseur;1184;3
+MAIL-6974;2025-09-05;phishing;phishing;0.815;Phishing RH/paie;907;6
+MAIL-6975;2025-09-11;phishing;phishing;0.811;Fausse livraison colis;836;0
+MAIL-6976;2025-09-24;légitime;légitime;0.873;N/A;94;2
+MAIL-6977;2025-09-04;légitime;légitime;0.782;N/A;1065;0
+MAIL-6978;2025-09-17;phishing;phishing;0.819;Fausse livraison colis;817;2
+MAIL-6979;2025-09-09;légitime;légitime;0.817;N/A;742;2
+MAIL-6980;2025-09-12;phishing;phishing;0.801;Faux support technique;493;4
+MAIL-6981;2025-09-16;légitime;légitime;0.875;N/A;310;1
+MAIL-6982;2025-09-02;légitime;légitime;0.971;N/A;540;2
+MAIL-6983;2025-09-06;phishing;phishing;0.8;Usurpation bancaire;1063;2
+MAIL-6984;2025-09-11;légitime;légitime;0.905;N/A;463;0
+MAIL-6985;2025-09-14;phishing;phishing;0.949;Faux support technique;307;4
+MAIL-6986;2025-09-01;légitime;légitime;0.935;N/A;600;1
+MAIL-6987;2025-09-03;légitime;légitime;0.926;N/A;1124;1
+MAIL-6988;2025-09-03;légitime;légitime;0.876;N/A;475;0
+MAIL-6989;2025-09-29;phishing;phishing;0.905;Fausse livraison colis;453;1
+MAIL-6990;2025-09-12;phishing;phishing;0.801;Faux support technique;606;3
+MAIL-6991;2025-09-02;légitime;légitime;0.973;N/A;984;0
+MAIL-6992;2025-09-09;légitime;légitime;0.987;N/A;909;1
+MAIL-6993;2025-09-02;légitime;légitime;0.918;N/A;1178;1
+MAIL-6994;2025-09-14;légitime;légitime;0.798;N/A;213;2
+MAIL-6995;2025-09-15;phishing;phishing;0.983;Usurpation fournisseur;629;0
+MAIL-6996;2025-09-03;légitime;légitime;0.979;N/A;1191;1
+MAIL-6997;2025-09-12;légitime;légitime;0.97;N/A;699;2
+MAIL-6998;2025-09-11;légitime;phishing;0.702;N/A;1176;1
+MAIL-6999;2025-09-15;légitime;légitime;0.9;N/A;154;1
