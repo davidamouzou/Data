@@ -1,0 +1,1917 @@
+id_offre;competence;intitule_poste;region
+OFR-2025000;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025000;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025000;Python;ML Engineer;Île-de-France
+OFR-2025000;Docker;ML Engineer;Île-de-France
+OFR-2025000;MLOps;ML Engineer;Île-de-France
+OFR-2025001;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025001;Python;Data Scientist;Nouvelle-Aquitaine
+OFR-2025001;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025001;Scikit-learn;Data Scientist;Nouvelle-Aquitaine
+OFR-2025002;SQL;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025002;Gestion de projet;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025002;Agile/Scrum;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025002;KPI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025002;Python;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025003;Docker;Data Engineer;Grand Est
+OFR-2025003;Spark;Data Engineer;Grand Est
+OFR-2025003;SQL;Data Engineer;Grand Est
+OFR-2025004;Deep Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025004;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025004;Python;Data Scientist;Nouvelle-Aquitaine
+OFR-2025004;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025005;Docker;Data Engineer;Île-de-France
+OFR-2025005;SQL;Data Engineer;Île-de-France
+OFR-2025005;Spark;Data Engineer;Île-de-France
+OFR-2025006;DAX;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025006;Excel;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025006;Power Query;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025006;SQL;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025007;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025007;Deep Learning;Data Scientist;Centre-Val de Loire
+OFR-2025007;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025008;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025008;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025008;SQL;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025009;Deep Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025009;SQL;Data Scientist;Nouvelle-Aquitaine
+OFR-2025009;Pandas;Data Scientist;Nouvelle-Aquitaine
+OFR-2025009;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025009;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025010;Power BI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025010;KPI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025010;Power Query;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025010;DAX;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025010;Excel;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025011;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025011;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025011;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025011;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025011;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025012;Agile/Scrum;Chef de Projet Data/IA;Normandie
+OFR-2025012;Python;Chef de Projet Data/IA;Normandie
+OFR-2025012;KPI;Chef de Projet Data/IA;Normandie
+OFR-2025012;Gestion de projet;Chef de Projet Data/IA;Normandie
+OFR-2025013;SQL;Data Analyst;Occitanie
+OFR-2025013;Power Query;Data Analyst;Occitanie
+OFR-2025013;Excel;Data Analyst;Occitanie
+OFR-2025014;Python;ML Engineer;Île-de-France
+OFR-2025014;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025014;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025015;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025015;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025015;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025016;SQL;Data Analyst;Pays de la Loire
+OFR-2025016;DAX;Data Analyst;Pays de la Loire
+OFR-2025016;Tableau;Data Analyst;Pays de la Loire
+OFR-2025017;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025017;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025017;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025018;Hugging Face;AI Engineer;Île-de-France
+OFR-2025018;RAG;AI Engineer;Île-de-France
+OFR-2025018;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025019;SQL;Data Analyst;Pays de la Loire
+OFR-2025019;Tableau;Data Analyst;Pays de la Loire
+OFR-2025019;Power Query;Data Analyst;Pays de la Loire
+OFR-2025020;Tableau;Data Analyst;Bretagne
+OFR-2025020;Power Query;Data Analyst;Bretagne
+OFR-2025020;Excel;Data Analyst;Bretagne
+OFR-2025020;DAX;Data Analyst;Bretagne
+OFR-2025020;SQL;Data Analyst;Bretagne
+OFR-2025021;Python;Data Scientist;Île-de-France
+OFR-2025021;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025021;Pandas;Data Scientist;Île-de-France
+OFR-2025022;ETL;Data Engineer;Pays de la Loire
+OFR-2025022;Airflow;Data Engineer;Pays de la Loire
+OFR-2025022;Spark;Data Engineer;Pays de la Loire
+OFR-2025023;Tableau;Data Analyst;Grand Est
+OFR-2025023;Power BI;Data Analyst;Grand Est
+OFR-2025023;Excel;Data Analyst;Grand Est
+OFR-2025023;Power Query;Data Analyst;Grand Est
+OFR-2025023;Python;Data Analyst;Grand Est
+OFR-2025024;Python;ML Engineer;Grand Est
+OFR-2025024;Cloud (AWS/Azure/GCP);ML Engineer;Grand Est
+OFR-2025024;Docker;ML Engineer;Grand Est
+OFR-2025025;DAX;Data Analyst;Centre-Val de Loire
+OFR-2025025;Power BI;Data Analyst;Centre-Val de Loire
+OFR-2025025;Tableau;Data Analyst;Centre-Val de Loire
+OFR-2025026;Spark;Data Engineer;Pays de la Loire
+OFR-2025026;Python;Data Engineer;Pays de la Loire
+OFR-2025026;Cloud (AWS/Azure/GCP);Data Engineer;Pays de la Loire
+OFR-2025027;ETL;Data Engineer;Bretagne
+OFR-2025027;SQL;Data Engineer;Bretagne
+OFR-2025027;Python;Data Engineer;Bretagne
+OFR-2025028;Agile/Scrum;Chef de Projet Data/IA;Grand Est
+OFR-2025028;Gestion de projet;Chef de Projet Data/IA;Grand Est
+OFR-2025028;KPI;Chef de Projet Data/IA;Grand Est
+OFR-2025029;SQL;Data Scientist;PACA
+OFR-2025029;Python;Data Scientist;PACA
+OFR-2025029;Power BI;Data Scientist;PACA
+OFR-2025029;Pandas;Data Scientist;PACA
+OFR-2025030;Gestion de projet;Chef de Projet Data/IA;Occitanie
+OFR-2025030;Python;Chef de Projet Data/IA;Occitanie
+OFR-2025030;Agile/Scrum;Chef de Projet Data/IA;Occitanie
+OFR-2025031;SQL;Data Engineer;Occitanie
+OFR-2025031;Airflow;Data Engineer;Occitanie
+OFR-2025031;Cloud (AWS/Azure/GCP);Data Engineer;Occitanie
+OFR-2025031;Python;Data Engineer;Occitanie
+OFR-2025032;Agile/Scrum;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025032;SQL;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025032;Power BI;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025032;Gestion de projet;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025033;LLM;AI Engineer;Île-de-France
+OFR-2025033;NLP;AI Engineer;Île-de-France
+OFR-2025033;Hugging Face;AI Engineer;Île-de-France
+OFR-2025033;LangChain;AI Engineer;Île-de-France
+OFR-2025034;DAX;Data Analyst;Pays de la Loire
+OFR-2025034;Excel;Data Analyst;Pays de la Loire
+OFR-2025034;Power BI;Data Analyst;Pays de la Loire
+OFR-2025035;DAX;Data Analyst;Centre-Val de Loire
+OFR-2025035;Power Query;Data Analyst;Centre-Val de Loire
+OFR-2025035;Python;Data Analyst;Centre-Val de Loire
+OFR-2025036;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025036;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025036;Python;ML Engineer;Île-de-France
+OFR-2025036;Docker;ML Engineer;Île-de-France
+OFR-2025036;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025037;Tableau;Data Analyst;Pays de la Loire
+OFR-2025037;Python;Data Analyst;Pays de la Loire
+OFR-2025037;Power Query;Data Analyst;Pays de la Loire
+OFR-2025037;DAX;Data Analyst;Pays de la Loire
+OFR-2025037;SQL;Data Analyst;Pays de la Loire
+OFR-2025038;Python;Data Scientist;Île-de-France
+OFR-2025038;Deep Learning;Data Scientist;Île-de-France
+OFR-2025038;SQL;Data Scientist;Île-de-France
+OFR-2025038;Machine Learning;Data Scientist;Île-de-France
+OFR-2025039;Python;Data Analyst;Île-de-France
+OFR-2025039;Power Query;Data Analyst;Île-de-France
+OFR-2025039;SQL;Data Analyst;Île-de-France
+OFR-2025039;Power BI;Data Analyst;Île-de-France
+OFR-2025039;DAX;Data Analyst;Île-de-France
+OFR-2025040;Power Query;Data Analyst;Bretagne
+OFR-2025040;Python;Data Analyst;Bretagne
+OFR-2025040;Tableau;Data Analyst;Bretagne
+OFR-2025040;Power BI;Data Analyst;Bretagne
+OFR-2025041;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025041;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025041;Airflow;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025041;Docker;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025041;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025042;Excel;Data Analyst;Île-de-France
+OFR-2025042;Python;Data Analyst;Île-de-France
+OFR-2025042;Power Query;Data Analyst;Île-de-France
+OFR-2025042;SQL;Data Analyst;Île-de-France
+OFR-2025043;Power BI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025043;KPI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025043;Gestion de projet;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025044;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025044;Docker;Data Engineer;Île-de-France
+OFR-2025044;SQL;Data Engineer;Île-de-France
+OFR-2025044;Python;Data Engineer;Île-de-France
+OFR-2025044;ETL;Data Engineer;Île-de-France
+OFR-2025045;Docker;Data Engineer;Bretagne
+OFR-2025045;Spark;Data Engineer;Bretagne
+OFR-2025045;Airflow;Data Engineer;Bretagne
+OFR-2025045;SQL;Data Engineer;Bretagne
+OFR-2025045;Cloud (AWS/Azure/GCP);Data Engineer;Bretagne
+OFR-2025046;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025046;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025046;Spark;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025046;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025047;NLP;AI Engineer;Centre-Val de Loire
+OFR-2025047;Cloud (AWS/Azure/GCP);AI Engineer;Centre-Val de Loire
+OFR-2025047;Hugging Face;AI Engineer;Centre-Val de Loire
+OFR-2025047;LangChain;AI Engineer;Centre-Val de Loire
+OFR-2025048;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025048;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025048;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025049;Machine Learning;Data Scientist;Île-de-France
+OFR-2025049;Deep Learning;Data Scientist;Île-de-France
+OFR-2025049;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025050;Python;Data Engineer;Hauts-de-France
+OFR-2025050;Spark;Data Engineer;Hauts-de-France
+OFR-2025050;Airflow;Data Engineer;Hauts-de-France
+OFR-2025050;Cloud (AWS/Azure/GCP);Data Engineer;Hauts-de-France
+OFR-2025050;Docker;Data Engineer;Hauts-de-France
+OFR-2025051;KPI;Chef de Projet Data/IA;Occitanie
+OFR-2025051;Power BI;Chef de Projet Data/IA;Occitanie
+OFR-2025051;SQL;Chef de Projet Data/IA;Occitanie
+OFR-2025052;Python;ML Engineer;Île-de-France
+OFR-2025052;MLOps;ML Engineer;Île-de-France
+OFR-2025052;Docker;ML Engineer;Île-de-France
+OFR-2025052;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025053;Python;ML Engineer;Île-de-France
+OFR-2025053;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025053;Docker;ML Engineer;Île-de-France
+OFR-2025053;MLOps;ML Engineer;Île-de-France
+OFR-2025054;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025054;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025054;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025055;Python;Data Analyst;Île-de-France
+OFR-2025055;Excel;Data Analyst;Île-de-France
+OFR-2025055;Tableau;Data Analyst;Île-de-France
+OFR-2025055;Power Query;Data Analyst;Île-de-France
+OFR-2025056;Python;Data Engineer;PACA
+OFR-2025056;Airflow;Data Engineer;PACA
+OFR-2025056;SQL;Data Engineer;PACA
+OFR-2025057;Python;ML Engineer;Pays de la Loire
+OFR-2025057;MLOps;ML Engineer;Pays de la Loire
+OFR-2025057;Docker;ML Engineer;Pays de la Loire
+OFR-2025057;Cloud (AWS/Azure/GCP);ML Engineer;Pays de la Loire
+OFR-2025058;Power Query;Data Analyst;Île-de-France
+OFR-2025058;Excel;Data Analyst;Île-de-France
+OFR-2025058;Tableau;Data Analyst;Île-de-France
+OFR-2025059;Airflow;Data Engineer;Pays de la Loire
+OFR-2025059;SQL;Data Engineer;Pays de la Loire
+OFR-2025059;ETL;Data Engineer;Pays de la Loire
+OFR-2025060;DAX;Data Analyst;Île-de-France
+OFR-2025060;Python;Data Analyst;Île-de-France
+OFR-2025060;Excel;Data Analyst;Île-de-France
+OFR-2025060;Power BI;Data Analyst;Île-de-France
+OFR-2025060;Tableau;Data Analyst;Île-de-France
+OFR-2025061;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025061;Spark;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025061;Docker;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025061;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025061;Python;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025062;Tableau;Data Analyst;PACA
+OFR-2025062;Excel;Data Analyst;PACA
+OFR-2025062;Power Query;Data Analyst;PACA
+OFR-2025063;Python;AI Engineer;Île-de-France
+OFR-2025063;RAG;AI Engineer;Île-de-France
+OFR-2025063;Hugging Face;AI Engineer;Île-de-France
+OFR-2025064;SQL;Data Engineer;Occitanie
+OFR-2025064;Cloud (AWS/Azure/GCP);Data Engineer;Occitanie
+OFR-2025064;Python;Data Engineer;Occitanie
+OFR-2025064;ETL;Data Engineer;Occitanie
+OFR-2025065;MLOps;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025065;TensorFlow/PyTorch;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025065;Git/CI-CD;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025065;Python;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025066;Power BI;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025066;Agile/Scrum;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025066;Python;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025066;KPI;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025067;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025067;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025067;Docker;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025067;Airflow;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025068;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025068;Python;Data Engineer;Île-de-France
+OFR-2025068;ETL;Data Engineer;Île-de-France
+OFR-2025069;ETL;Data Engineer;Centre-Val de Loire
+OFR-2025069;Spark;Data Engineer;Centre-Val de Loire
+OFR-2025069;Docker;Data Engineer;Centre-Val de Loire
+OFR-2025069;SQL;Data Engineer;Centre-Val de Loire
+OFR-2025069;Cloud (AWS/Azure/GCP);Data Engineer;Centre-Val de Loire
+OFR-2025070;Gestion de projet;Chef de Projet Data/IA;Centre-Val de Loire
+OFR-2025070;Agile/Scrum;Chef de Projet Data/IA;Centre-Val de Loire
+OFR-2025070;Power BI;Chef de Projet Data/IA;Centre-Val de Loire
+OFR-2025070;SQL;Chef de Projet Data/IA;Centre-Val de Loire
+OFR-2025070;Python;Chef de Projet Data/IA;Centre-Val de Loire
+OFR-2025071;RAG;AI Engineer;Île-de-France
+OFR-2025071;LLM;AI Engineer;Île-de-France
+OFR-2025071;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025071;Hugging Face;AI Engineer;Île-de-France
+OFR-2025071;Python;AI Engineer;Île-de-France
+OFR-2025072;Docker;ML Engineer;Pays de la Loire
+OFR-2025072;Python;ML Engineer;Pays de la Loire
+OFR-2025072;Cloud (AWS/Azure/GCP);ML Engineer;Pays de la Loire
+OFR-2025072;MLOps;ML Engineer;Pays de la Loire
+OFR-2025073;Python;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025073;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025073;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025073;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025074;SQL;Data Engineer;Centre-Val de Loire
+OFR-2025074;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025074;Docker;Data Engineer;Centre-Val de Loire
+OFR-2025074;ETL;Data Engineer;Centre-Val de Loire
+OFR-2025075;RAG;AI Engineer;Nouvelle-Aquitaine
+OFR-2025075;Cloud (AWS/Azure/GCP);AI Engineer;Nouvelle-Aquitaine
+OFR-2025075;Python;AI Engineer;Nouvelle-Aquitaine
+OFR-2025076;Python;Data Engineer;PACA
+OFR-2025076;Airflow;Data Engineer;PACA
+OFR-2025076;Spark;Data Engineer;PACA
+OFR-2025077;Power BI;Data Analyst;Normandie
+OFR-2025077;Power Query;Data Analyst;Normandie
+OFR-2025077;Python;Data Analyst;Normandie
+OFR-2025078;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025078;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025078;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025078;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025078;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025079;Deep Learning;Data Scientist;Île-de-France
+OFR-2025079;SQL;Data Scientist;Île-de-France
+OFR-2025079;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025079;Python;Data Scientist;Île-de-France
+OFR-2025080;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025080;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025080;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025080;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025080;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025081;Power BI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025081;Power Query;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025081;KPI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025081;Excel;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025082;Power BI;Chef de Projet Data/IA;Grand Est
+OFR-2025082;KPI;Chef de Projet Data/IA;Grand Est
+OFR-2025082;Python;Chef de Projet Data/IA;Grand Est
+OFR-2025082;Gestion de projet;Chef de Projet Data/IA;Grand Est
+OFR-2025083;SQL;Data Engineer;Grand Est
+OFR-2025083;Spark;Data Engineer;Grand Est
+OFR-2025083;Python;Data Engineer;Grand Est
+OFR-2025083;Airflow;Data Engineer;Grand Est
+OFR-2025083;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025084;Python;ML Engineer;Île-de-France
+OFR-2025084;MLOps;ML Engineer;Île-de-France
+OFR-2025084;Docker;ML Engineer;Île-de-France
+OFR-2025084;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025085;Power BI;Data Analyst;Île-de-France
+OFR-2025085;Tableau;Data Analyst;Île-de-France
+OFR-2025085;SQL;Data Analyst;Île-de-France
+OFR-2025085;Excel;Data Analyst;Île-de-France
+OFR-2025085;Power Query;Data Analyst;Île-de-France
+OFR-2025086;Gestion de projet;Chef de Projet Data/IA;Grand Est
+OFR-2025086;SQL;Chef de Projet Data/IA;Grand Est
+OFR-2025086;Power BI;Chef de Projet Data/IA;Grand Est
+OFR-2025087;TensorFlow/PyTorch;ML Engineer;Occitanie
+OFR-2025087;Git/CI-CD;ML Engineer;Occitanie
+OFR-2025087;Cloud (AWS/Azure/GCP);ML Engineer;Occitanie
+OFR-2025087;Python;ML Engineer;Occitanie
+OFR-2025088;Docker;ML Engineer;PACA
+OFR-2025088;Cloud (AWS/Azure/GCP);ML Engineer;PACA
+OFR-2025088;TensorFlow/PyTorch;ML Engineer;PACA
+OFR-2025088;MLOps;ML Engineer;PACA
+OFR-2025089;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025089;Python;Data Scientist;Île-de-France
+OFR-2025089;SQL;Data Scientist;Île-de-France
+OFR-2025090;Docker;Data Engineer;Occitanie
+OFR-2025090;Cloud (AWS/Azure/GCP);Data Engineer;Occitanie
+OFR-2025090;SQL;Data Engineer;Occitanie
+OFR-2025090;Spark;Data Engineer;Occitanie
+OFR-2025091;Spark;Data Engineer;Île-de-France
+OFR-2025091;SQL;Data Engineer;Île-de-France
+OFR-2025091;Docker;Data Engineer;Île-de-France
+OFR-2025091;Python;Data Engineer;Île-de-France
+OFR-2025091;ETL;Data Engineer;Île-de-France
+OFR-2025092;Docker;ML Engineer;Occitanie
+OFR-2025092;Git/CI-CD;ML Engineer;Occitanie
+OFR-2025092;Python;ML Engineer;Occitanie
+OFR-2025092;Cloud (AWS/Azure/GCP);ML Engineer;Occitanie
+OFR-2025093;Machine Learning;Data Scientist;Île-de-France
+OFR-2025093;SQL;Data Scientist;Île-de-France
+OFR-2025093;Deep Learning;Data Scientist;Île-de-France
+OFR-2025093;Pandas;Data Scientist;Île-de-France
+OFR-2025094;DAX;Data Analyst;Île-de-France
+OFR-2025094;Python;Data Analyst;Île-de-France
+OFR-2025094;Power Query;Data Analyst;Île-de-France
+OFR-2025094;Tableau;Data Analyst;Île-de-France
+OFR-2025095;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025095;Python;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025095;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025095;Docker;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025096;LLM;AI Engineer;PACA
+OFR-2025096;Cloud (AWS/Azure/GCP);AI Engineer;PACA
+OFR-2025096;NLP;AI Engineer;PACA
+OFR-2025096;RAG;AI Engineer;PACA
+OFR-2025097;Power BI;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025097;SQL;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025097;Pandas;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025098;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025098;Docker;ML Engineer;Île-de-France
+OFR-2025098;Python;ML Engineer;Île-de-France
+OFR-2025098;MLOps;ML Engineer;Île-de-France
+OFR-2025098;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025099;Airflow;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025099;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025099;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025100;Machine Learning;Data Scientist;PACA
+OFR-2025100;Pandas;Data Scientist;PACA
+OFR-2025100;Power BI;Data Scientist;PACA
+OFR-2025101;DAX;Data Analyst;PACA
+OFR-2025101;Power Query;Data Analyst;PACA
+OFR-2025101;Tableau;Data Analyst;PACA
+OFR-2025101;Excel;Data Analyst;PACA
+OFR-2025101;Python;Data Analyst;PACA
+OFR-2025102;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025102;Docker;Data Engineer;Nouvelle-Aquitaine
+OFR-2025102;SQL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025102;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025103;Python;ML Engineer;Centre-Val de Loire
+OFR-2025103;Cloud (AWS/Azure/GCP);ML Engineer;Centre-Val de Loire
+OFR-2025103;MLOps;ML Engineer;Centre-Val de Loire
+OFR-2025103;TensorFlow/PyTorch;ML Engineer;Centre-Val de Loire
+OFR-2025103;Docker;ML Engineer;Centre-Val de Loire
+OFR-2025104;DAX;Data Analyst;Bretagne
+OFR-2025104;Python;Data Analyst;Bretagne
+OFR-2025104;Power Query;Data Analyst;Bretagne
+OFR-2025105;Power BI;Data Scientist;Normandie
+OFR-2025105;Deep Learning;Data Scientist;Normandie
+OFR-2025105;SQL;Data Scientist;Normandie
+OFR-2025106;Docker;ML Engineer;Île-de-France
+OFR-2025106;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025106;MLOps;ML Engineer;Île-de-France
+OFR-2025106;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025107;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025107;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025107;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025107;Spark;Data Engineer;Nouvelle-Aquitaine
+OFR-2025107;SQL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025108;Power BI;Data Scientist;PACA
+OFR-2025108;Python;Data Scientist;PACA
+OFR-2025108;Pandas;Data Scientist;PACA
+OFR-2025108;Deep Learning;Data Scientist;PACA
+OFR-2025109;SQL;Data Engineer;Île-de-France
+OFR-2025109;ETL;Data Engineer;Île-de-France
+OFR-2025109;Spark;Data Engineer;Île-de-France
+OFR-2025109;Python;Data Engineer;Île-de-France
+OFR-2025110;Cloud (AWS/Azure/GCP);AI Engineer;PACA
+OFR-2025110;LLM;AI Engineer;PACA
+OFR-2025110;LangChain;AI Engineer;PACA
+OFR-2025110;NLP;AI Engineer;PACA
+OFR-2025111;Python;Data Scientist;Occitanie
+OFR-2025111;Deep Learning;Data Scientist;Occitanie
+OFR-2025111;Scikit-learn;Data Scientist;Occitanie
+OFR-2025111;SQL;Data Scientist;Occitanie
+OFR-2025112;Power BI;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025112;DAX;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025112;SQL;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025112;KPI;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025113;Power BI;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025113;Deep Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025113;SQL;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025114;SQL;Data Scientist;Grand Est
+OFR-2025114;Machine Learning;Data Scientist;Grand Est
+OFR-2025114;Deep Learning;Data Scientist;Grand Est
+OFR-2025115;Docker;Data Engineer;PACA
+OFR-2025115;Airflow;Data Engineer;PACA
+OFR-2025115;ETL;Data Engineer;PACA
+OFR-2025115;SQL;Data Engineer;PACA
+OFR-2025115;Cloud (AWS/Azure/GCP);Data Engineer;PACA
+OFR-2025116;Python;Data Engineer;Nouvelle-Aquitaine
+OFR-2025116;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025116;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025116;Docker;Data Engineer;Nouvelle-Aquitaine
+OFR-2025117;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025117;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025117;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025117;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025118;Power BI;Data Analyst;Occitanie
+OFR-2025118;DAX;Data Analyst;Occitanie
+OFR-2025118;Python;Data Analyst;Occitanie
+OFR-2025118;Tableau;Data Analyst;Occitanie
+OFR-2025118;Excel;Data Analyst;Occitanie
+OFR-2025119;Docker;ML Engineer;Normandie
+OFR-2025119;Git/CI-CD;ML Engineer;Normandie
+OFR-2025119;Cloud (AWS/Azure/GCP);ML Engineer;Normandie
+OFR-2025120;SQL;Data Scientist;PACA
+OFR-2025120;Power BI;Data Scientist;PACA
+OFR-2025120;Python;Data Scientist;PACA
+OFR-2025120;Deep Learning;Data Scientist;PACA
+OFR-2025120;Machine Learning;Data Scientist;PACA
+OFR-2025121;Python;Data Scientist;Île-de-France
+OFR-2025121;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025121;Pandas;Data Scientist;Île-de-France
+OFR-2025121;Machine Learning;Data Scientist;Île-de-France
+OFR-2025122;SQL;Data Analyst;Nouvelle-Aquitaine
+OFR-2025122;DAX;Data Analyst;Nouvelle-Aquitaine
+OFR-2025122;Excel;Data Analyst;Nouvelle-Aquitaine
+OFR-2025122;Python;Data Analyst;Nouvelle-Aquitaine
+OFR-2025123;Git/CI-CD;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025123;Cloud (AWS/Azure/GCP);ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025123;Python;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025123;TensorFlow/PyTorch;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025123;Docker;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025124;SQL;Data Scientist;Normandie
+OFR-2025124;Scikit-learn;Data Scientist;Normandie
+OFR-2025124;Python;Data Scientist;Normandie
+OFR-2025124;Machine Learning;Data Scientist;Normandie
+OFR-2025125;Docker;ML Engineer;Île-de-France
+OFR-2025125;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025125;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025126;Git/CI-CD;ML Engineer;Centre-Val de Loire
+OFR-2025126;Cloud (AWS/Azure/GCP);ML Engineer;Centre-Val de Loire
+OFR-2025126;Python;ML Engineer;Centre-Val de Loire
+OFR-2025127;Deep Learning;Data Scientist;Île-de-France
+OFR-2025127;Machine Learning;Data Scientist;Île-de-France
+OFR-2025127;SQL;Data Scientist;Île-de-France
+OFR-2025127;Power BI;Data Scientist;Île-de-France
+OFR-2025127;Python;Data Scientist;Île-de-France
+OFR-2025128;Python;AI Engineer;Île-de-France
+OFR-2025128;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025128;LangChain;AI Engineer;Île-de-France
+OFR-2025128;NLP;AI Engineer;Île-de-France
+OFR-2025128;Hugging Face;AI Engineer;Île-de-France
+OFR-2025129;NLP;AI Engineer;Grand Est
+OFR-2025129;RAG;AI Engineer;Grand Est
+OFR-2025129;Hugging Face;AI Engineer;Grand Est
+OFR-2025129;LangChain;AI Engineer;Grand Est
+OFR-2025130;Airflow;Data Engineer;PACA
+OFR-2025130;Python;Data Engineer;PACA
+OFR-2025130;Spark;Data Engineer;PACA
+OFR-2025131;SQL;Data Scientist;Normandie
+OFR-2025131;Machine Learning;Data Scientist;Normandie
+OFR-2025131;Power BI;Data Scientist;Normandie
+OFR-2025131;Python;Data Scientist;Normandie
+OFR-2025131;Pandas;Data Scientist;Normandie
+OFR-2025132;SQL;Data Analyst;Nouvelle-Aquitaine
+OFR-2025132;DAX;Data Analyst;Nouvelle-Aquitaine
+OFR-2025132;Tableau;Data Analyst;Nouvelle-Aquitaine
+OFR-2025133;Docker;Data Engineer;Nouvelle-Aquitaine
+OFR-2025133;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025133;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025134;Power Query;Data Analyst;Pays de la Loire
+OFR-2025134;DAX;Data Analyst;Pays de la Loire
+OFR-2025134;Excel;Data Analyst;Pays de la Loire
+OFR-2025134;Tableau;Data Analyst;Pays de la Loire
+OFR-2025135;Machine Learning;Data Scientist;Occitanie
+OFR-2025135;Python;Data Scientist;Occitanie
+OFR-2025135;Deep Learning;Data Scientist;Occitanie
+OFR-2025136;Scikit-learn;Data Scientist;Centre-Val de Loire
+OFR-2025136;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025136;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025137;Excel;Data Analyst;Normandie
+OFR-2025137;Python;Data Analyst;Normandie
+OFR-2025137;Tableau;Data Analyst;Normandie
+OFR-2025138;Docker;Data Engineer;Occitanie
+OFR-2025138;ETL;Data Engineer;Occitanie
+OFR-2025138;Spark;Data Engineer;Occitanie
+OFR-2025138;SQL;Data Engineer;Occitanie
+OFR-2025139;Power Query;Data Analyst;Occitanie
+OFR-2025139;Tableau;Data Analyst;Occitanie
+OFR-2025139;DAX;Data Analyst;Occitanie
+OFR-2025139;SQL;Data Analyst;Occitanie
+OFR-2025140;Python;Data Scientist;Centre-Val de Loire
+OFR-2025140;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025140;Deep Learning;Data Scientist;Centre-Val de Loire
+OFR-2025140;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025140;SQL;Data Scientist;Centre-Val de Loire
+OFR-2025141;Docker;Data Engineer;Nouvelle-Aquitaine
+OFR-2025141;Spark;Data Engineer;Nouvelle-Aquitaine
+OFR-2025141;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025141;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025141;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025142;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025142;Docker;ML Engineer;Île-de-France
+OFR-2025142;Python;ML Engineer;Île-de-France
+OFR-2025142;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025143;Power BI;Chef de Projet Data/IA;Occitanie
+OFR-2025143;Gestion de projet;Chef de Projet Data/IA;Occitanie
+OFR-2025143;Python;Chef de Projet Data/IA;Occitanie
+OFR-2025143;Agile/Scrum;Chef de Projet Data/IA;Occitanie
+OFR-2025143;SQL;Chef de Projet Data/IA;Occitanie
+OFR-2025144;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025144;Pandas;Data Scientist;Île-de-France
+OFR-2025144;Power BI;Data Scientist;Île-de-France
+OFR-2025144;SQL;Data Scientist;Île-de-France
+OFR-2025144;Python;Data Scientist;Île-de-France
+OFR-2025145;Airflow;Data Engineer;Hauts-de-France
+OFR-2025145;Spark;Data Engineer;Hauts-de-France
+OFR-2025145;Python;Data Engineer;Hauts-de-France
+OFR-2025145;Cloud (AWS/Azure/GCP);Data Engineer;Hauts-de-France
+OFR-2025146;TensorFlow/PyTorch;ML Engineer;Pays de la Loire
+OFR-2025146;Git/CI-CD;ML Engineer;Pays de la Loire
+OFR-2025146;Cloud (AWS/Azure/GCP);ML Engineer;Pays de la Loire
+OFR-2025147;SQL;Data Scientist;PACA
+OFR-2025147;Scikit-learn;Data Scientist;PACA
+OFR-2025147;Power BI;Data Scientist;PACA
+OFR-2025148;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025148;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025148;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025149;Scikit-learn;Data Scientist;Hauts-de-France
+OFR-2025149;Deep Learning;Data Scientist;Hauts-de-France
+OFR-2025149;Power BI;Data Scientist;Hauts-de-France
+OFR-2025150;KPI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025150;Gestion de projet;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025150;Power BI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025150;Agile/Scrum;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025150;Python;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025151;SQL;Data Scientist;Pays de la Loire
+OFR-2025151;Power BI;Data Scientist;Pays de la Loire
+OFR-2025151;Scikit-learn;Data Scientist;Pays de la Loire
+OFR-2025152;Cloud (AWS/Azure/GCP);Data Engineer;Normandie
+OFR-2025152;ETL;Data Engineer;Normandie
+OFR-2025152;Spark;Data Engineer;Normandie
+OFR-2025153;SQL;Data Scientist;Île-de-France
+OFR-2025153;Python;Data Scientist;Île-de-France
+OFR-2025153;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025153;Deep Learning;Data Scientist;Île-de-France
+OFR-2025153;Pandas;Data Scientist;Île-de-France
+OFR-2025154;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025154;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025154;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025154;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025155;Power Query;Data Analyst;Île-de-France
+OFR-2025155;Excel;Data Analyst;Île-de-France
+OFR-2025155;SQL;Data Analyst;Île-de-France
+OFR-2025155;DAX;Data Analyst;Île-de-France
+OFR-2025155;Power BI;Data Analyst;Île-de-France
+OFR-2025156;Docker;Data Engineer;Pays de la Loire
+OFR-2025156;Airflow;Data Engineer;Pays de la Loire
+OFR-2025156;Python;Data Engineer;Pays de la Loire
+OFR-2025156;Cloud (AWS/Azure/GCP);Data Engineer;Pays de la Loire
+OFR-2025157;Power Query;Data Analyst;Pays de la Loire
+OFR-2025157;Tableau;Data Analyst;Pays de la Loire
+OFR-2025157;DAX;Data Analyst;Pays de la Loire
+OFR-2025158;Python;Data Analyst;Grand Est
+OFR-2025158;SQL;Data Analyst;Grand Est
+OFR-2025158;Power Query;Data Analyst;Grand Est
+OFR-2025158;Power BI;Data Analyst;Grand Est
+OFR-2025158;Excel;Data Analyst;Grand Est
+OFR-2025159;Python;Data Engineer;Hauts-de-France
+OFR-2025159;Airflow;Data Engineer;Hauts-de-France
+OFR-2025159;SQL;Data Engineer;Hauts-de-France
+OFR-2025159;Cloud (AWS/Azure/GCP);Data Engineer;Hauts-de-France
+OFR-2025159;Docker;Data Engineer;Hauts-de-France
+OFR-2025160;KPI;Chef de Projet Data/IA;Normandie
+OFR-2025160;Agile/Scrum;Chef de Projet Data/IA;Normandie
+OFR-2025160;SQL;Chef de Projet Data/IA;Normandie
+OFR-2025161;Power Query;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025161;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025161;DAX;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025161;Excel;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025161;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025162;Power BI;Data Analyst;Île-de-France
+OFR-2025162;Python;Data Analyst;Île-de-France
+OFR-2025162;Excel;Data Analyst;Île-de-France
+OFR-2025163;Python;AI Engineer;Île-de-France
+OFR-2025163;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025163;Hugging Face;AI Engineer;Île-de-France
+OFR-2025164;MLOps;ML Engineer;Île-de-France
+OFR-2025164;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025164;Docker;ML Engineer;Île-de-France
+OFR-2025165;Airflow;Data Engineer;PACA
+OFR-2025165;Python;Data Engineer;PACA
+OFR-2025165;ETL;Data Engineer;PACA
+OFR-2025165;Spark;Data Engineer;PACA
+OFR-2025165;Cloud (AWS/Azure/GCP);Data Engineer;PACA
+OFR-2025166;Excel;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025166;SQL;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025166;Power Query;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025166;KPI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025166;DAX;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025167;SQL;Data Analyst;Occitanie
+OFR-2025167;Tableau;Data Analyst;Occitanie
+OFR-2025167;Python;Data Analyst;Occitanie
+OFR-2025167;DAX;Data Analyst;Occitanie
+OFR-2025168;Power BI;Data Scientist;Île-de-France
+OFR-2025168;Machine Learning;Data Scientist;Île-de-France
+OFR-2025168;Python;Data Scientist;Île-de-France
+OFR-2025168;SQL;Data Scientist;Île-de-France
+OFR-2025168;Deep Learning;Data Scientist;Île-de-France
+OFR-2025169;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025169;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025169;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025169;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025170;Git/CI-CD;ML Engineer;Hauts-de-France
+OFR-2025170;Docker;ML Engineer;Hauts-de-France
+OFR-2025170;TensorFlow/PyTorch;ML Engineer;Hauts-de-France
+OFR-2025170;MLOps;ML Engineer;Hauts-de-France
+OFR-2025170;Cloud (AWS/Azure/GCP);ML Engineer;Hauts-de-France
+OFR-2025171;Power Query;Data Analyst;Centre-Val de Loire
+OFR-2025171;Power BI;Data Analyst;Centre-Val de Loire
+OFR-2025171;DAX;Data Analyst;Centre-Val de Loire
+OFR-2025171;SQL;Data Analyst;Centre-Val de Loire
+OFR-2025171;Tableau;Data Analyst;Centre-Val de Loire
+OFR-2025172;NLP;AI Engineer;Île-de-France
+OFR-2025172;Hugging Face;AI Engineer;Île-de-France
+OFR-2025172;LangChain;AI Engineer;Île-de-France
+OFR-2025173;MLOps;ML Engineer;Pays de la Loire
+OFR-2025173;TensorFlow/PyTorch;ML Engineer;Pays de la Loire
+OFR-2025173;Python;ML Engineer;Pays de la Loire
+OFR-2025173;Docker;ML Engineer;Pays de la Loire
+OFR-2025174;MLOps;ML Engineer;PACA
+OFR-2025174;Python;ML Engineer;PACA
+OFR-2025174;Git/CI-CD;ML Engineer;PACA
+OFR-2025174;Docker;ML Engineer;PACA
+OFR-2025174;Cloud (AWS/Azure/GCP);ML Engineer;PACA
+OFR-2025175;Python;ML Engineer;Nouvelle-Aquitaine
+OFR-2025175;Git/CI-CD;ML Engineer;Nouvelle-Aquitaine
+OFR-2025175;Docker;ML Engineer;Nouvelle-Aquitaine
+OFR-2025175;Cloud (AWS/Azure/GCP);ML Engineer;Nouvelle-Aquitaine
+OFR-2025176;KPI;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025176;Power Query;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025176;Excel;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025176;DAX;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025176;SQL;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025177;ETL;Data Engineer;Centre-Val de Loire
+OFR-2025177;Docker;Data Engineer;Centre-Val de Loire
+OFR-2025177;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025177;Cloud (AWS/Azure/GCP);Data Engineer;Centre-Val de Loire
+OFR-2025178;Power BI;Data Analyst;Pays de la Loire
+OFR-2025178;Power Query;Data Analyst;Pays de la Loire
+OFR-2025178;Tableau;Data Analyst;Pays de la Loire
+OFR-2025179;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025179;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025179;Python;ML Engineer;Île-de-France
+OFR-2025180;Docker;Data Engineer;Grand Est
+OFR-2025180;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025180;SQL;Data Engineer;Grand Est
+OFR-2025181;SQL;Data Analyst;Île-de-France
+OFR-2025181;DAX;Data Analyst;Île-de-France
+OFR-2025181;Excel;Data Analyst;Île-de-France
+OFR-2025181;Python;Data Analyst;Île-de-France
+OFR-2025182;Gestion de projet;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025182;KPI;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025182;SQL;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025182;Python;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025182;Power BI;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025183;Cloud (AWS/Azure/GCP);AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025183;LangChain;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025183;Python;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025183;LLM;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025184;Airflow;Data Engineer;Occitanie
+OFR-2025184;Spark;Data Engineer;Occitanie
+OFR-2025184;ETL;Data Engineer;Occitanie
+OFR-2025184;SQL;Data Engineer;Occitanie
+OFR-2025184;Python;Data Engineer;Occitanie
+OFR-2025185;DAX;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025185;Power Query;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025185;KPI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025186;DAX;Data Analyst;Île-de-France
+OFR-2025186;Power Query;Data Analyst;Île-de-France
+OFR-2025186;Python;Data Analyst;Île-de-France
+OFR-2025187;Python;Data Analyst;Île-de-France
+OFR-2025187;Excel;Data Analyst;Île-de-France
+OFR-2025187;Power Query;Data Analyst;Île-de-France
+OFR-2025187;Power BI;Data Analyst;Île-de-France
+OFR-2025188;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025188;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025188;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025188;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025189;Power BI;Data Analyst;Occitanie
+OFR-2025189;Python;Data Analyst;Occitanie
+OFR-2025189;Excel;Data Analyst;Occitanie
+OFR-2025189;SQL;Data Analyst;Occitanie
+OFR-2025189;Power Query;Data Analyst;Occitanie
+OFR-2025190;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025190;Pandas;Data Scientist;Île-de-France
+OFR-2025190;Power BI;Data Scientist;Île-de-France
+OFR-2025190;Deep Learning;Data Scientist;Île-de-France
+OFR-2025190;SQL;Data Scientist;Île-de-France
+OFR-2025191;KPI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025191;Power BI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025191;SQL;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025191;DAX;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025191;Power Query;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025192;Power BI;Data Scientist;PACA
+OFR-2025192;Deep Learning;Data Scientist;PACA
+OFR-2025192;Pandas;Data Scientist;PACA
+OFR-2025192;Machine Learning;Data Scientist;PACA
+OFR-2025193;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025193;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025193;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025193;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025194;SQL;Data Analyst;Hauts-de-France
+OFR-2025194;Power Query;Data Analyst;Hauts-de-France
+OFR-2025194;Excel;Data Analyst;Hauts-de-France
+OFR-2025194;DAX;Data Analyst;Hauts-de-France
+OFR-2025194;Tableau;Data Analyst;Hauts-de-France
+OFR-2025195;Power BI;Data Analyst;Île-de-France
+OFR-2025195;DAX;Data Analyst;Île-de-France
+OFR-2025195;Python;Data Analyst;Île-de-France
+OFR-2025196;Airflow;Data Engineer;Pays de la Loire
+OFR-2025196;SQL;Data Engineer;Pays de la Loire
+OFR-2025196;Docker;Data Engineer;Pays de la Loire
+OFR-2025197;Airflow;Data Engineer;Île-de-France
+OFR-2025197;ETL;Data Engineer;Île-de-France
+OFR-2025197;Docker;Data Engineer;Île-de-France
+OFR-2025197;SQL;Data Engineer;Île-de-France
+OFR-2025198;Excel;Data Analyst;Hauts-de-France
+OFR-2025198;SQL;Data Analyst;Hauts-de-France
+OFR-2025198;Power BI;Data Analyst;Hauts-de-France
+OFR-2025199;Deep Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025199;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025199;Pandas;Data Scientist;Nouvelle-Aquitaine
+OFR-2025199;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025199;Scikit-learn;Data Scientist;Nouvelle-Aquitaine
+OFR-2025200;KPI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025200;Excel;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025200;SQL;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025200;DAX;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025201;Power BI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025201;Power Query;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025201;DAX;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025201;KPI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025202;Cloud (AWS/Azure/GCP);AI Engineer;PACA
+OFR-2025202;LangChain;AI Engineer;PACA
+OFR-2025202;Hugging Face;AI Engineer;PACA
+OFR-2025202;Python;AI Engineer;PACA
+OFR-2025202;RAG;AI Engineer;PACA
+OFR-2025203;Python;Data Analyst;Grand Est
+OFR-2025203;SQL;Data Analyst;Grand Est
+OFR-2025203;Power BI;Data Analyst;Grand Est
+OFR-2025204;SQL;Data Scientist;Hauts-de-France
+OFR-2025204;Pandas;Data Scientist;Hauts-de-France
+OFR-2025204;Power BI;Data Scientist;Hauts-de-France
+OFR-2025204;Machine Learning;Data Scientist;Hauts-de-France
+OFR-2025204;Scikit-learn;Data Scientist;Hauts-de-France
+OFR-2025205;Spark;Data Engineer;Normandie
+OFR-2025205;Cloud (AWS/Azure/GCP);Data Engineer;Normandie
+OFR-2025205;Python;Data Engineer;Normandie
+OFR-2025206;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025206;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025206;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025206;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025207;Docker;Data Engineer;Île-de-France
+OFR-2025207;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025207;SQL;Data Engineer;Île-de-France
+OFR-2025208;Cloud (AWS/Azure/GCP);ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025208;Docker;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025208;TensorFlow/PyTorch;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025209;Docker;Data Engineer;Occitanie
+OFR-2025209;ETL;Data Engineer;Occitanie
+OFR-2025209;SQL;Data Engineer;Occitanie
+OFR-2025209;Airflow;Data Engineer;Occitanie
+OFR-2025209;Cloud (AWS/Azure/GCP);Data Engineer;Occitanie
+OFR-2025210;SQL;Data Analyst;Hauts-de-France
+OFR-2025210;DAX;Data Analyst;Hauts-de-France
+OFR-2025210;Excel;Data Analyst;Hauts-de-France
+OFR-2025210;Tableau;Data Analyst;Hauts-de-France
+OFR-2025211;SQL;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025211;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025211;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025212;Cloud (AWS/Azure/GCP);Data Engineer;Pays de la Loire
+OFR-2025212;Python;Data Engineer;Pays de la Loire
+OFR-2025212;ETL;Data Engineer;Pays de la Loire
+OFR-2025212;SQL;Data Engineer;Pays de la Loire
+OFR-2025213;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025213;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025213;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025214;Cloud (AWS/Azure/GCP);ML Engineer;Pays de la Loire
+OFR-2025214;MLOps;ML Engineer;Pays de la Loire
+OFR-2025214;Python;ML Engineer;Pays de la Loire
+OFR-2025214;Git/CI-CD;ML Engineer;Pays de la Loire
+OFR-2025214;Docker;ML Engineer;Pays de la Loire
+OFR-2025215;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025215;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025215;Deep Learning;Data Scientist;Centre-Val de Loire
+OFR-2025216;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025216;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025216;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025216;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025216;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025217;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025217;MLOps;ML Engineer;Île-de-France
+OFR-2025217;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025217;Python;ML Engineer;Île-de-France
+OFR-2025218;Power BI;Data Scientist;Île-de-France
+OFR-2025218;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025218;Deep Learning;Data Scientist;Île-de-France
+OFR-2025218;Pandas;Data Scientist;Île-de-France
+OFR-2025218;Python;Data Scientist;Île-de-France
+OFR-2025219;Python;Data Analyst;Île-de-France
+OFR-2025219;Tableau;Data Analyst;Île-de-France
+OFR-2025219;SQL;Data Analyst;Île-de-France
+OFR-2025219;Excel;Data Analyst;Île-de-France
+OFR-2025220;Deep Learning;Data Scientist;Normandie
+OFR-2025220;Machine Learning;Data Scientist;Normandie
+OFR-2025220;Python;Data Scientist;Normandie
+OFR-2025221;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025221;SQL;Data Engineer;Grand Est
+OFR-2025221;Docker;Data Engineer;Grand Est
+OFR-2025221;Spark;Data Engineer;Grand Est
+OFR-2025222;Power Query;Data Analyst;Hauts-de-France
+OFR-2025222;Tableau;Data Analyst;Hauts-de-France
+OFR-2025222;Power BI;Data Analyst;Hauts-de-France
+OFR-2025222;Excel;Data Analyst;Hauts-de-France
+OFR-2025223;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025223;Docker;ML Engineer;Île-de-France
+OFR-2025223;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025224;Spark;Data Engineer;Normandie
+OFR-2025224;Docker;Data Engineer;Normandie
+OFR-2025224;SQL;Data Engineer;Normandie
+OFR-2025224;Cloud (AWS/Azure/GCP);Data Engineer;Normandie
+OFR-2025224;Airflow;Data Engineer;Normandie
+OFR-2025225;Power BI;Data Scientist;Occitanie
+OFR-2025225;SQL;Data Scientist;Occitanie
+OFR-2025225;Deep Learning;Data Scientist;Occitanie
+OFR-2025225;Python;Data Scientist;Occitanie
+OFR-2025226;Power Query;Data Analyst;Occitanie
+OFR-2025226;Power BI;Data Analyst;Occitanie
+OFR-2025226;Tableau;Data Analyst;Occitanie
+OFR-2025226;DAX;Data Analyst;Occitanie
+OFR-2025227;Scikit-learn;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025227;Deep Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025227;SQL;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025227;Python;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025227;Power BI;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025228;ETL;Data Engineer;Île-de-France
+OFR-2025228;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025228;Spark;Data Engineer;Île-de-France
+OFR-2025228;Docker;Data Engineer;Île-de-France
+OFR-2025228;Airflow;Data Engineer;Île-de-France
+OFR-2025229;Excel;Data Analyst;Grand Est
+OFR-2025229;Power Query;Data Analyst;Grand Est
+OFR-2025229;Python;Data Analyst;Grand Est
+OFR-2025229;DAX;Data Analyst;Grand Est
+OFR-2025230;Python;Data Analyst;Île-de-France
+OFR-2025230;SQL;Data Analyst;Île-de-France
+OFR-2025230;Tableau;Data Analyst;Île-de-France
+OFR-2025230;Excel;Data Analyst;Île-de-France
+OFR-2025231;Deep Learning;Data Scientist;Île-de-France
+OFR-2025231;Pandas;Data Scientist;Île-de-France
+OFR-2025231;Python;Data Scientist;Île-de-France
+OFR-2025231;Machine Learning;Data Scientist;Île-de-France
+OFR-2025231;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025232;Power BI;Data Scientist;Île-de-France
+OFR-2025232;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025232;Pandas;Data Scientist;Île-de-France
+OFR-2025232;Machine Learning;Data Scientist;Île-de-France
+OFR-2025233;RAG;AI Engineer;Île-de-France
+OFR-2025233;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025233;Python;AI Engineer;Île-de-France
+OFR-2025233;LangChain;AI Engineer;Île-de-France
+OFR-2025234;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025234;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025234;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025234;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025235;Power Query;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025235;SQL;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025235;DAX;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025235;Power BI;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025236;Cloud (AWS/Azure/GCP);ML Engineer;Pays de la Loire
+OFR-2025236;MLOps;ML Engineer;Pays de la Loire
+OFR-2025236;TensorFlow/PyTorch;ML Engineer;Pays de la Loire
+OFR-2025237;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025237;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025237;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025237;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025238;Docker;Data Engineer;Île-de-France
+OFR-2025238;Airflow;Data Engineer;Île-de-France
+OFR-2025238;Python;Data Engineer;Île-de-France
+OFR-2025238;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025239;Power BI;Data Scientist;Grand Est
+OFR-2025239;Machine Learning;Data Scientist;Grand Est
+OFR-2025239;Deep Learning;Data Scientist;Grand Est
+OFR-2025239;Pandas;Data Scientist;Grand Est
+OFR-2025240;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025240;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025240;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025240;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025240;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025241;Power BI;Data Analyst;Pays de la Loire
+OFR-2025241;Excel;Data Analyst;Pays de la Loire
+OFR-2025241;SQL;Data Analyst;Pays de la Loire
+OFR-2025241;Tableau;Data Analyst;Pays de la Loire
+OFR-2025241;Python;Data Analyst;Pays de la Loire
+OFR-2025242;Tableau;Data Analyst;Occitanie
+OFR-2025242;SQL;Data Analyst;Occitanie
+OFR-2025242;Excel;Data Analyst;Occitanie
+OFR-2025242;Power Query;Data Analyst;Occitanie
+OFR-2025243;Python;Chef de Projet Data/IA;PACA
+OFR-2025243;SQL;Chef de Projet Data/IA;PACA
+OFR-2025243;Power BI;Chef de Projet Data/IA;PACA
+OFR-2025243;KPI;Chef de Projet Data/IA;PACA
+OFR-2025243;Gestion de projet;Chef de Projet Data/IA;PACA
+OFR-2025244;SQL;Data Analyst;PACA
+OFR-2025244;Power BI;Data Analyst;PACA
+OFR-2025244;Tableau;Data Analyst;PACA
+OFR-2025244;Excel;Data Analyst;PACA
+OFR-2025244;Python;Data Analyst;PACA
+OFR-2025245;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025245;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025245;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025245;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025245;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025246;Machine Learning;Data Scientist;PACA
+OFR-2025246;Scikit-learn;Data Scientist;PACA
+OFR-2025246;Deep Learning;Data Scientist;PACA
+OFR-2025246;Pandas;Data Scientist;PACA
+OFR-2025247;Power Query;BI Analyst / Développeur Power BI;PACA
+OFR-2025247;Power BI;BI Analyst / Développeur Power BI;PACA
+OFR-2025247;Excel;BI Analyst / Développeur Power BI;PACA
+OFR-2025248;SQL;Data Scientist;Bretagne
+OFR-2025248;Pandas;Data Scientist;Bretagne
+OFR-2025248;Deep Learning;Data Scientist;Bretagne
+OFR-2025249;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025249;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025249;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025250;MLOps;ML Engineer;Île-de-France
+OFR-2025250;Python;ML Engineer;Île-de-France
+OFR-2025250;Docker;ML Engineer;Île-de-France
+OFR-2025250;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025251;Python;ML Engineer;Nouvelle-Aquitaine
+OFR-2025251;Cloud (AWS/Azure/GCP);ML Engineer;Nouvelle-Aquitaine
+OFR-2025251;Git/CI-CD;ML Engineer;Nouvelle-Aquitaine
+OFR-2025251;MLOps;ML Engineer;Nouvelle-Aquitaine
+OFR-2025252;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025252;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025252;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025253;SQL;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025253;KPI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025253;DAX;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025253;Power Query;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025253;Power BI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025254;Gestion de projet;Chef de Projet Data/IA;Hauts-de-France
+OFR-2025254;Python;Chef de Projet Data/IA;Hauts-de-France
+OFR-2025254;Power BI;Chef de Projet Data/IA;Hauts-de-France
+OFR-2025254;KPI;Chef de Projet Data/IA;Hauts-de-France
+OFR-2025254;Agile/Scrum;Chef de Projet Data/IA;Hauts-de-France
+OFR-2025255;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025255;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025255;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025255;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025255;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025256;Docker;Data Engineer;Bretagne
+OFR-2025256;ETL;Data Engineer;Bretagne
+OFR-2025256;SQL;Data Engineer;Bretagne
+OFR-2025256;Cloud (AWS/Azure/GCP);Data Engineer;Bretagne
+OFR-2025256;Airflow;Data Engineer;Bretagne
+OFR-2025257;LangChain;AI Engineer;Normandie
+OFR-2025257;NLP;AI Engineer;Normandie
+OFR-2025257;Cloud (AWS/Azure/GCP);AI Engineer;Normandie
+OFR-2025257;RAG;AI Engineer;Normandie
+OFR-2025257;Hugging Face;AI Engineer;Normandie
+OFR-2025258;DAX;Data Analyst;Île-de-France
+OFR-2025258;Power BI;Data Analyst;Île-de-France
+OFR-2025258;SQL;Data Analyst;Île-de-France
+OFR-2025258;Python;Data Analyst;Île-de-France
+OFR-2025259;Python;Data Scientist;PACA
+OFR-2025259;Machine Learning;Data Scientist;PACA
+OFR-2025259;Deep Learning;Data Scientist;PACA
+OFR-2025259;SQL;Data Scientist;PACA
+OFR-2025259;Scikit-learn;Data Scientist;PACA
+OFR-2025260;RAG;AI Engineer;Nouvelle-Aquitaine
+OFR-2025260;NLP;AI Engineer;Nouvelle-Aquitaine
+OFR-2025260;Hugging Face;AI Engineer;Nouvelle-Aquitaine
+OFR-2025260;LangChain;AI Engineer;Nouvelle-Aquitaine
+OFR-2025261;SQL;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025261;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025261;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025261;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025261;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025262;Power BI;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025262;Excel;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025262;DAX;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025262;SQL;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025262;Power Query;BI Analyst / Développeur Power BI;Hauts-de-France
+OFR-2025263;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025263;Python;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025263;Airflow;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025263;Cloud (AWS/Azure/GCP);Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025264;Python;ML Engineer;Île-de-France
+OFR-2025264;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025264;MLOps;ML Engineer;Île-de-France
+OFR-2025264;Docker;ML Engineer;Île-de-France
+OFR-2025264;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025265;Scikit-learn;Data Scientist;Grand Est
+OFR-2025265;SQL;Data Scientist;Grand Est
+OFR-2025265;Machine Learning;Data Scientist;Grand Est
+OFR-2025265;Power BI;Data Scientist;Grand Est
+OFR-2025266;TensorFlow/PyTorch;ML Engineer;Occitanie
+OFR-2025266;Git/CI-CD;ML Engineer;Occitanie
+OFR-2025266;Docker;ML Engineer;Occitanie
+OFR-2025266;MLOps;ML Engineer;Occitanie
+OFR-2025267;SQL;Data Scientist;Île-de-France
+OFR-2025267;Machine Learning;Data Scientist;Île-de-France
+OFR-2025267;Deep Learning;Data Scientist;Île-de-France
+OFR-2025267;Pandas;Data Scientist;Île-de-France
+OFR-2025267;Python;Data Scientist;Île-de-France
+OFR-2025268;Cloud (AWS/Azure/GCP);ML Engineer;Hauts-de-France
+OFR-2025268;Git/CI-CD;ML Engineer;Hauts-de-France
+OFR-2025268;Python;ML Engineer;Hauts-de-France
+OFR-2025268;Docker;ML Engineer;Hauts-de-France
+OFR-2025269;Power Query;Data Analyst;Hauts-de-France
+OFR-2025269;Power BI;Data Analyst;Hauts-de-France
+OFR-2025269;Tableau;Data Analyst;Hauts-de-France
+OFR-2025269;DAX;Data Analyst;Hauts-de-France
+OFR-2025270;NLP;AI Engineer;Hauts-de-France
+OFR-2025270;LangChain;AI Engineer;Hauts-de-France
+OFR-2025270;RAG;AI Engineer;Hauts-de-France
+OFR-2025270;Hugging Face;AI Engineer;Hauts-de-France
+OFR-2025271;ETL;Data Engineer;Bretagne
+OFR-2025271;SQL;Data Engineer;Bretagne
+OFR-2025271;Python;Data Engineer;Bretagne
+OFR-2025271;Airflow;Data Engineer;Bretagne
+OFR-2025272;Agile/Scrum;Chef de Projet Data/IA;Bretagne
+OFR-2025272;SQL;Chef de Projet Data/IA;Bretagne
+OFR-2025272;Power BI;Chef de Projet Data/IA;Bretagne
+OFR-2025273;ETL;Data Engineer;Île-de-France
+OFR-2025273;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025273;Docker;Data Engineer;Île-de-France
+OFR-2025273;Airflow;Data Engineer;Île-de-France
+OFR-2025273;Python;Data Engineer;Île-de-France
+OFR-2025274;DAX;Data Analyst;Île-de-France
+OFR-2025274;SQL;Data Analyst;Île-de-France
+OFR-2025274;Power BI;Data Analyst;Île-de-France
+OFR-2025275;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025275;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025275;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025275;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025276;Python;Data Scientist;Bretagne
+OFR-2025276;Machine Learning;Data Scientist;Bretagne
+OFR-2025276;Deep Learning;Data Scientist;Bretagne
+OFR-2025276;Pandas;Data Scientist;Bretagne
+OFR-2025277;Airflow;Data Engineer;Île-de-France
+OFR-2025277;SQL;Data Engineer;Île-de-France
+OFR-2025277;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025278;MLOps;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025278;Python;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025278;Docker;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025279;Airflow;Data Engineer;Nouvelle-Aquitaine
+OFR-2025279;SQL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025279;Spark;Data Engineer;Nouvelle-Aquitaine
+OFR-2025279;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025279;ETL;Data Engineer;Nouvelle-Aquitaine
+OFR-2025280;LLM;AI Engineer;Grand Est
+OFR-2025280;RAG;AI Engineer;Grand Est
+OFR-2025280;NLP;AI Engineer;Grand Est
+OFR-2025280;LangChain;AI Engineer;Grand Est
+OFR-2025281;SQL;Data Analyst;Île-de-France
+OFR-2025281;Excel;Data Analyst;Île-de-France
+OFR-2025281;Power BI;Data Analyst;Île-de-France
+OFR-2025281;Python;Data Analyst;Île-de-France
+OFR-2025281;Tableau;Data Analyst;Île-de-France
+OFR-2025282;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025282;Excel;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025282;KPI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025282;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025282;Power Query;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025283;Scikit-learn;Data Scientist;Pays de la Loire
+OFR-2025283;Power BI;Data Scientist;Pays de la Loire
+OFR-2025283;Deep Learning;Data Scientist;Pays de la Loire
+OFR-2025284;DAX;BI Analyst / Développeur Power BI;PACA
+OFR-2025284;Power BI;BI Analyst / Développeur Power BI;PACA
+OFR-2025284;SQL;BI Analyst / Développeur Power BI;PACA
+OFR-2025285;Docker;Data Engineer;Pays de la Loire
+OFR-2025285;Cloud (AWS/Azure/GCP);Data Engineer;Pays de la Loire
+OFR-2025285;Python;Data Engineer;Pays de la Loire
+OFR-2025285;ETL;Data Engineer;Pays de la Loire
+OFR-2025285;Airflow;Data Engineer;Pays de la Loire
+OFR-2025286;Power BI;Data Analyst;Île-de-France
+OFR-2025286;DAX;Data Analyst;Île-de-France
+OFR-2025286;Excel;Data Analyst;Île-de-France
+OFR-2025286;SQL;Data Analyst;Île-de-France
+OFR-2025286;Power Query;Data Analyst;Île-de-France
+OFR-2025287;Python;Data Scientist;Hauts-de-France
+OFR-2025287;Power BI;Data Scientist;Hauts-de-France
+OFR-2025287;Machine Learning;Data Scientist;Hauts-de-France
+OFR-2025287;Scikit-learn;Data Scientist;Hauts-de-France
+OFR-2025287;Pandas;Data Scientist;Hauts-de-France
+OFR-2025288;ETL;Data Engineer;Île-de-France
+OFR-2025288;Python;Data Engineer;Île-de-France
+OFR-2025288;SQL;Data Engineer;Île-de-France
+OFR-2025288;Docker;Data Engineer;Île-de-France
+OFR-2025289;SQL;Data Analyst;Pays de la Loire
+OFR-2025289;Python;Data Analyst;Pays de la Loire
+OFR-2025289;DAX;Data Analyst;Pays de la Loire
+OFR-2025290;Power BI;BI Analyst / Développeur Power BI;PACA
+OFR-2025290;DAX;BI Analyst / Développeur Power BI;PACA
+OFR-2025290;SQL;BI Analyst / Développeur Power BI;PACA
+OFR-2025290;KPI;BI Analyst / Développeur Power BI;PACA
+OFR-2025291;Spark;Data Engineer;Nouvelle-Aquitaine
+OFR-2025291;Docker;Data Engineer;Nouvelle-Aquitaine
+OFR-2025291;Cloud (AWS/Azure/GCP);Data Engineer;Nouvelle-Aquitaine
+OFR-2025292;SQL;Data Analyst;Bretagne
+OFR-2025292;Excel;Data Analyst;Bretagne
+OFR-2025292;Tableau;Data Analyst;Bretagne
+OFR-2025292;Power BI;Data Analyst;Bretagne
+OFR-2025293;Docker;Data Engineer;PACA
+OFR-2025293;Cloud (AWS/Azure/GCP);Data Engineer;PACA
+OFR-2025293;Airflow;Data Engineer;PACA
+OFR-2025293;SQL;Data Engineer;PACA
+OFR-2025293;Python;Data Engineer;PACA
+OFR-2025294;Power Query;Data Analyst;Pays de la Loire
+OFR-2025294;Power BI;Data Analyst;Pays de la Loire
+OFR-2025294;Tableau;Data Analyst;Pays de la Loire
+OFR-2025294;DAX;Data Analyst;Pays de la Loire
+OFR-2025294;Excel;Data Analyst;Pays de la Loire
+OFR-2025295;Docker;ML Engineer;Nouvelle-Aquitaine
+OFR-2025295;Git/CI-CD;ML Engineer;Nouvelle-Aquitaine
+OFR-2025295;Cloud (AWS/Azure/GCP);ML Engineer;Nouvelle-Aquitaine
+OFR-2025295;Python;ML Engineer;Nouvelle-Aquitaine
+OFR-2025296;Excel;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025296;DAX;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025296;KPI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025296;Power Query;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025297;TensorFlow/PyTorch;ML Engineer;PACA
+OFR-2025297;Docker;ML Engineer;PACA
+OFR-2025297;Cloud (AWS/Azure/GCP);ML Engineer;PACA
+OFR-2025297;Python;ML Engineer;PACA
+OFR-2025297;Git/CI-CD;ML Engineer;PACA
+OFR-2025298;MLOps;ML Engineer;Île-de-France
+OFR-2025298;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025298;Python;ML Engineer;Île-de-France
+OFR-2025298;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025299;Power Query;BI Analyst / Développeur Power BI;PACA
+OFR-2025299;Power BI;BI Analyst / Développeur Power BI;PACA
+OFR-2025299;SQL;BI Analyst / Développeur Power BI;PACA
+OFR-2025299;DAX;BI Analyst / Développeur Power BI;PACA
+OFR-2025299;Excel;BI Analyst / Développeur Power BI;PACA
+OFR-2025300;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025300;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025300;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025300;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025300;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025301;Power BI;Data Analyst;Centre-Val de Loire
+OFR-2025301;Power Query;Data Analyst;Centre-Val de Loire
+OFR-2025301;Tableau;Data Analyst;Centre-Val de Loire
+OFR-2025301;Excel;Data Analyst;Centre-Val de Loire
+OFR-2025302;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025302;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025302;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025302;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025302;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025303;SQL;Data Engineer;Centre-Val de Loire
+OFR-2025303;Spark;Data Engineer;Centre-Val de Loire
+OFR-2025303;Python;Data Engineer;Centre-Val de Loire
+OFR-2025303;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025304;Python;Data Scientist;Normandie
+OFR-2025304;Deep Learning;Data Scientist;Normandie
+OFR-2025304;SQL;Data Scientist;Normandie
+OFR-2025305;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025305;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025305;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025306;LangChain;AI Engineer;Occitanie
+OFR-2025306;Hugging Face;AI Engineer;Occitanie
+OFR-2025306;Python;AI Engineer;Occitanie
+OFR-2025307;Airflow;Data Engineer;Île-de-France
+OFR-2025307;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025307;ETL;Data Engineer;Île-de-France
+OFR-2025308;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025308;Python;ML Engineer;Île-de-France
+OFR-2025308;MLOps;ML Engineer;Île-de-France
+OFR-2025308;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025309;Python;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025309;Deep Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025309;Pandas;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025309;Power BI;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025309;SQL;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025310;Python;Data Analyst;PACA
+OFR-2025310;Power Query;Data Analyst;PACA
+OFR-2025310;SQL;Data Analyst;PACA
+OFR-2025310;DAX;Data Analyst;PACA
+OFR-2025311;Cloud (AWS/Azure/GCP);AI Engineer;PACA
+OFR-2025311;RAG;AI Engineer;PACA
+OFR-2025311;LangChain;AI Engineer;PACA
+OFR-2025311;Python;AI Engineer;PACA
+OFR-2025311;Hugging Face;AI Engineer;PACA
+OFR-2025312;DAX;Data Analyst;Occitanie
+OFR-2025312;Power Query;Data Analyst;Occitanie
+OFR-2025312;Excel;Data Analyst;Occitanie
+OFR-2025313;Power Query;Data Analyst;Île-de-France
+OFR-2025313;SQL;Data Analyst;Île-de-France
+OFR-2025313;Tableau;Data Analyst;Île-de-France
+OFR-2025313;Python;Data Analyst;Île-de-France
+OFR-2025313;Excel;Data Analyst;Île-de-France
+OFR-2025314;SQL;Data Analyst;Île-de-France
+OFR-2025314;Excel;Data Analyst;Île-de-France
+OFR-2025314;Tableau;Data Analyst;Île-de-France
+OFR-2025315;ETL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025315;Python;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025315;SQL;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025315;Spark;Data Engineer;Auvergne-Rhône-Alpes
+OFR-2025316;LangChain;AI Engineer;Pays de la Loire
+OFR-2025316;Cloud (AWS/Azure/GCP);AI Engineer;Pays de la Loire
+OFR-2025316;NLP;AI Engineer;Pays de la Loire
+OFR-2025316;Python;AI Engineer;Pays de la Loire
+OFR-2025317;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025317;Excel;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025317;KPI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025317;Power Query;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025317;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025318;NLP;AI Engineer;Île-de-France
+OFR-2025318;RAG;AI Engineer;Île-de-France
+OFR-2025318;LLM;AI Engineer;Île-de-France
+OFR-2025318;LangChain;AI Engineer;Île-de-France
+OFR-2025318;Hugging Face;AI Engineer;Île-de-France
+OFR-2025319;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025319;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025319;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025320;SQL;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025320;KPI;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025320;Power BI;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025321;KPI;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025321;Power Query;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025321;Excel;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025321;SQL;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025321;Power BI;BI Analyst / Développeur Power BI;Auvergne-Rhône-Alpes
+OFR-2025322;Airflow;Data Engineer;Bretagne
+OFR-2025322;ETL;Data Engineer;Bretagne
+OFR-2025322;Spark;Data Engineer;Bretagne
+OFR-2025323;RAG;AI Engineer;Bretagne
+OFR-2025323;LangChain;AI Engineer;Bretagne
+OFR-2025323;LLM;AI Engineer;Bretagne
+OFR-2025323;Hugging Face;AI Engineer;Bretagne
+OFR-2025323;Python;AI Engineer;Bretagne
+OFR-2025324;KPI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025324;DAX;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025324;SQL;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025325;Airflow;Data Engineer;Île-de-France
+OFR-2025325;ETL;Data Engineer;Île-de-France
+OFR-2025325;Docker;Data Engineer;Île-de-France
+OFR-2025326;SQL;BI Analyst / Développeur Power BI;PACA
+OFR-2025326;DAX;BI Analyst / Développeur Power BI;PACA
+OFR-2025326;KPI;BI Analyst / Développeur Power BI;PACA
+OFR-2025326;Excel;BI Analyst / Développeur Power BI;PACA
+OFR-2025327;Python;AI Engineer;Nouvelle-Aquitaine
+OFR-2025327;LLM;AI Engineer;Nouvelle-Aquitaine
+OFR-2025327;NLP;AI Engineer;Nouvelle-Aquitaine
+OFR-2025327;Hugging Face;AI Engineer;Nouvelle-Aquitaine
+OFR-2025327;Cloud (AWS/Azure/GCP);AI Engineer;Nouvelle-Aquitaine
+OFR-2025328;KPI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025328;Power BI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025328;Excel;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025328;DAX;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025328;SQL;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025329;Tableau;Data Analyst;Normandie
+OFR-2025329;Python;Data Analyst;Normandie
+OFR-2025329;Power BI;Data Analyst;Normandie
+OFR-2025329;DAX;Data Analyst;Normandie
+OFR-2025329;Power Query;Data Analyst;Normandie
+OFR-2025330;Power BI;Data Analyst;Île-de-France
+OFR-2025330;SQL;Data Analyst;Île-de-France
+OFR-2025330;DAX;Data Analyst;Île-de-France
+OFR-2025330;Tableau;Data Analyst;Île-de-France
+OFR-2025331;Excel;Data Analyst;Grand Est
+OFR-2025331;Power Query;Data Analyst;Grand Est
+OFR-2025331;Tableau;Data Analyst;Grand Est
+OFR-2025331;Python;Data Analyst;Grand Est
+OFR-2025331;DAX;Data Analyst;Grand Est
+OFR-2025332;SQL;Data Scientist;Île-de-France
+OFR-2025332;Pandas;Data Scientist;Île-de-France
+OFR-2025332;Power BI;Data Scientist;Île-de-France
+OFR-2025332;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025333;Cloud (AWS/Azure/GCP);AI Engineer;Pays de la Loire
+OFR-2025333;Hugging Face;AI Engineer;Pays de la Loire
+OFR-2025333;RAG;AI Engineer;Pays de la Loire
+OFR-2025333;Python;AI Engineer;Pays de la Loire
+OFR-2025334;Power Query;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025334;Power BI;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025334;KPI;BI Analyst / Développeur Power BI;Grand Est
+OFR-2025335;Docker;ML Engineer;Île-de-France
+OFR-2025335;MLOps;ML Engineer;Île-de-France
+OFR-2025335;Python;ML Engineer;Île-de-France
+OFR-2025335;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025335;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025336;Deep Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025336;Scikit-learn;Data Scientist;Nouvelle-Aquitaine
+OFR-2025336;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025336;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025337;DAX;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025337;SQL;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025337;KPI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025337;Power Query;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025337;Power BI;BI Analyst / Développeur Power BI;Occitanie
+OFR-2025338;Excel;Data Analyst;Île-de-France
+OFR-2025338;DAX;Data Analyst;Île-de-France
+OFR-2025338;Python;Data Analyst;Île-de-France
+OFR-2025338;Tableau;Data Analyst;Île-de-France
+OFR-2025338;Power Query;Data Analyst;Île-de-France
+OFR-2025339;Python;Data Scientist;PACA
+OFR-2025339;Scikit-learn;Data Scientist;PACA
+OFR-2025339;Machine Learning;Data Scientist;PACA
+OFR-2025339;Pandas;Data Scientist;PACA
+OFR-2025340;Docker;Data Engineer;Île-de-France
+OFR-2025340;Spark;Data Engineer;Île-de-France
+OFR-2025340;SQL;Data Engineer;Île-de-France
+OFR-2025340;Python;Data Engineer;Île-de-France
+OFR-2025340;ETL;Data Engineer;Île-de-France
+OFR-2025341;Machine Learning;Data Scientist;Normandie
+OFR-2025341;Power BI;Data Scientist;Normandie
+OFR-2025341;Deep Learning;Data Scientist;Normandie
+OFR-2025342;LangChain;AI Engineer;Île-de-France
+OFR-2025342;Hugging Face;AI Engineer;Île-de-France
+OFR-2025342;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025342;NLP;AI Engineer;Île-de-France
+OFR-2025343;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025343;ETL;Data Engineer;Centre-Val de Loire
+OFR-2025343;Cloud (AWS/Azure/GCP);Data Engineer;Centre-Val de Loire
+OFR-2025344;SQL;Data Scientist;Bretagne
+OFR-2025344;Deep Learning;Data Scientist;Bretagne
+OFR-2025344;Python;Data Scientist;Bretagne
+OFR-2025344;Pandas;Data Scientist;Bretagne
+OFR-2025345;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025345;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025345;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025345;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025346;Git/CI-CD;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025346;MLOps;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025346;Python;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025346;Docker;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025346;TensorFlow/PyTorch;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025347;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025347;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025347;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025347;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025348;SQL;Data Analyst;Île-de-France
+OFR-2025348;Python;Data Analyst;Île-de-France
+OFR-2025348;Excel;Data Analyst;Île-de-France
+OFR-2025348;Tableau;Data Analyst;Île-de-France
+OFR-2025348;Power BI;Data Analyst;Île-de-France
+OFR-2025349;Pandas;Data Scientist;Île-de-France
+OFR-2025349;Power BI;Data Scientist;Île-de-France
+OFR-2025349;Deep Learning;Data Scientist;Île-de-France
+OFR-2025350;Machine Learning;Data Scientist;Occitanie
+OFR-2025350;Power BI;Data Scientist;Occitanie
+OFR-2025350;SQL;Data Scientist;Occitanie
+OFR-2025350;Scikit-learn;Data Scientist;Occitanie
+OFR-2025350;Pandas;Data Scientist;Occitanie
+OFR-2025351;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025351;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025351;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025351;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025352;SQL;Data Analyst;Île-de-France
+OFR-2025352;Python;Data Analyst;Île-de-France
+OFR-2025352;Tableau;Data Analyst;Île-de-France
+OFR-2025353;LangChain;AI Engineer;Île-de-France
+OFR-2025353;LLM;AI Engineer;Île-de-France
+OFR-2025353;RAG;AI Engineer;Île-de-France
+OFR-2025353;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025354;ETL;Data Engineer;Île-de-France
+OFR-2025354;Airflow;Data Engineer;Île-de-France
+OFR-2025354;Spark;Data Engineer;Île-de-France
+OFR-2025354;Docker;Data Engineer;Île-de-France
+OFR-2025355;Power BI;Data Analyst;Nouvelle-Aquitaine
+OFR-2025355;SQL;Data Analyst;Nouvelle-Aquitaine
+OFR-2025355;Python;Data Analyst;Nouvelle-Aquitaine
+OFR-2025355;Excel;Data Analyst;Nouvelle-Aquitaine
+OFR-2025355;Power Query;Data Analyst;Nouvelle-Aquitaine
+OFR-2025356;Python;Data Analyst;Occitanie
+OFR-2025356;Power Query;Data Analyst;Occitanie
+OFR-2025356;Excel;Data Analyst;Occitanie
+OFR-2025356;SQL;Data Analyst;Occitanie
+OFR-2025356;Power BI;Data Analyst;Occitanie
+OFR-2025357;RAG;AI Engineer;Occitanie
+OFR-2025357;Cloud (AWS/Azure/GCP);AI Engineer;Occitanie
+OFR-2025357;NLP;AI Engineer;Occitanie
+OFR-2025357;Hugging Face;AI Engineer;Occitanie
+OFR-2025357;Python;AI Engineer;Occitanie
+OFR-2025358;Scikit-learn;Data Scientist;PACA
+OFR-2025358;Machine Learning;Data Scientist;PACA
+OFR-2025358;Python;Data Scientist;PACA
+OFR-2025358;Deep Learning;Data Scientist;PACA
+OFR-2025359;SQL;Data Engineer;Pays de la Loire
+OFR-2025359;Airflow;Data Engineer;Pays de la Loire
+OFR-2025359;Docker;Data Engineer;Pays de la Loire
+OFR-2025360;SQL;Data Scientist;Hauts-de-France
+OFR-2025360;Scikit-learn;Data Scientist;Hauts-de-France
+OFR-2025360;Power BI;Data Scientist;Hauts-de-France
+OFR-2025361;Spark;Data Engineer;PACA
+OFR-2025361;ETL;Data Engineer;PACA
+OFR-2025361;SQL;Data Engineer;PACA
+OFR-2025362;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025362;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025362;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025363;Spark;Data Engineer;PACA
+OFR-2025363;Python;Data Engineer;PACA
+OFR-2025363;SQL;Data Engineer;PACA
+OFR-2025363;Airflow;Data Engineer;PACA
+OFR-2025364;Power BI;Data Analyst;Bretagne
+OFR-2025364;Excel;Data Analyst;Bretagne
+OFR-2025364;Tableau;Data Analyst;Bretagne
+OFR-2025365;Power BI;Chef de Projet Data/IA;Occitanie
+OFR-2025365;Agile/Scrum;Chef de Projet Data/IA;Occitanie
+OFR-2025365;Gestion de projet;Chef de Projet Data/IA;Occitanie
+OFR-2025366;Docker;ML Engineer;Île-de-France
+OFR-2025366;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025366;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025367;Python;Data Analyst;Hauts-de-France
+OFR-2025367;Tableau;Data Analyst;Hauts-de-France
+OFR-2025367;Excel;Data Analyst;Hauts-de-France
+OFR-2025367;Power Query;Data Analyst;Hauts-de-France
+OFR-2025367;SQL;Data Analyst;Hauts-de-France
+OFR-2025368;SQL;Data Scientist;Pays de la Loire
+OFR-2025368;Power BI;Data Scientist;Pays de la Loire
+OFR-2025368;Pandas;Data Scientist;Pays de la Loire
+OFR-2025368;Deep Learning;Data Scientist;Pays de la Loire
+OFR-2025369;SQL;Data Scientist;Île-de-France
+OFR-2025369;Deep Learning;Data Scientist;Île-de-France
+OFR-2025369;Python;Data Scientist;Île-de-France
+OFR-2025370;Deep Learning;Data Scientist;Occitanie
+OFR-2025370;SQL;Data Scientist;Occitanie
+OFR-2025370;Python;Data Scientist;Occitanie
+OFR-2025370;Pandas;Data Scientist;Occitanie
+OFR-2025371;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025371;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025371;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025372;Scikit-learn;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025372;Python;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025372;Power BI;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025372;Deep Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025372;Machine Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025373;Python;Data Scientist;Hauts-de-France
+OFR-2025373;Machine Learning;Data Scientist;Hauts-de-France
+OFR-2025373;Pandas;Data Scientist;Hauts-de-France
+OFR-2025373;Power BI;Data Scientist;Hauts-de-France
+OFR-2025374;Python;Data Scientist;Île-de-France
+OFR-2025374;Deep Learning;Data Scientist;Île-de-France
+OFR-2025374;Pandas;Data Scientist;Île-de-France
+OFR-2025374;SQL;Data Scientist;Île-de-France
+OFR-2025374;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025375;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025375;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025375;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025376;Python;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025376;KPI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025376;Power BI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025377;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025377;Python;Data Scientist;Centre-Val de Loire
+OFR-2025377;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025377;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025378;Pandas;Data Scientist;Île-de-France
+OFR-2025378;Power BI;Data Scientist;Île-de-France
+OFR-2025378;Deep Learning;Data Scientist;Île-de-France
+OFR-2025378;Machine Learning;Data Scientist;Île-de-France
+OFR-2025379;Python;Data Analyst;Île-de-France
+OFR-2025379;Tableau;Data Analyst;Île-de-France
+OFR-2025379;Power BI;Data Analyst;Île-de-France
+OFR-2025379;SQL;Data Analyst;Île-de-France
+OFR-2025379;Excel;Data Analyst;Île-de-France
+OFR-2025380;Docker;Data Engineer;Bretagne
+OFR-2025380;SQL;Data Engineer;Bretagne
+OFR-2025380;Spark;Data Engineer;Bretagne
+OFR-2025381;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025381;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025381;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025381;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025382;Docker;ML Engineer;Île-de-France
+OFR-2025382;Cloud (AWS/Azure/GCP);ML Engineer;Île-de-France
+OFR-2025382;MLOps;ML Engineer;Île-de-France
+OFR-2025382;Python;ML Engineer;Île-de-France
+OFR-2025383;LLM;AI Engineer;Occitanie
+OFR-2025383;Cloud (AWS/Azure/GCP);AI Engineer;Occitanie
+OFR-2025383;NLP;AI Engineer;Occitanie
+OFR-2025383;RAG;AI Engineer;Occitanie
+OFR-2025383;Hugging Face;AI Engineer;Occitanie
+OFR-2025384;Cloud (AWS/Azure/GCP);Data Engineer;Centre-Val de Loire
+OFR-2025384;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025384;SQL;Data Engineer;Centre-Val de Loire
+OFR-2025384;Docker;Data Engineer;Centre-Val de Loire
+OFR-2025385;Pandas;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025385;Machine Learning;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025385;Scikit-learn;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025385;Python;Data Scientist;Auvergne-Rhône-Alpes
+OFR-2025386;Docker;ML Engineer;Île-de-France
+OFR-2025386;Python;ML Engineer;Île-de-France
+OFR-2025386;Git/CI-CD;ML Engineer;Île-de-France
+OFR-2025387;Tableau;Data Analyst;Occitanie
+OFR-2025387;DAX;Data Analyst;Occitanie
+OFR-2025387;Power BI;Data Analyst;Occitanie
+OFR-2025387;SQL;Data Analyst;Occitanie
+OFR-2025388;Python;Data Analyst;Île-de-France
+OFR-2025388;DAX;Data Analyst;Île-de-France
+OFR-2025388;SQL;Data Analyst;Île-de-France
+OFR-2025389;Cloud (AWS/Azure/GCP);ML Engineer;Normandie
+OFR-2025389;MLOps;ML Engineer;Normandie
+OFR-2025389;Git/CI-CD;ML Engineer;Normandie
+OFR-2025389;Docker;ML Engineer;Normandie
+OFR-2025389;Python;ML Engineer;Normandie
+OFR-2025390;Spark;Data Engineer;Île-de-France
+OFR-2025390;ETL;Data Engineer;Île-de-France
+OFR-2025390;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025390;Python;Data Engineer;Île-de-France
+OFR-2025391;Machine Learning;Data Scientist;Île-de-France
+OFR-2025391;Power BI;Data Scientist;Île-de-France
+OFR-2025391;SQL;Data Scientist;Île-de-France
+OFR-2025391;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025392;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025392;SQL;Data Scientist;Centre-Val de Loire
+OFR-2025392;Scikit-learn;Data Scientist;Centre-Val de Loire
+OFR-2025392;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025393;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025393;Airflow;Data Engineer;Grand Est
+OFR-2025393;Python;Data Engineer;Grand Est
+OFR-2025394;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025394;SQL;Chef de Projet Data/IA;Île-de-France
+OFR-2025394;Power BI;Chef de Projet Data/IA;Île-de-France
+OFR-2025394;Gestion de projet;Chef de Projet Data/IA;Île-de-France
+OFR-2025395;Python;AI Engineer;Nouvelle-Aquitaine
+OFR-2025395;LangChain;AI Engineer;Nouvelle-Aquitaine
+OFR-2025395;Cloud (AWS/Azure/GCP);AI Engineer;Nouvelle-Aquitaine
+OFR-2025395;NLP;AI Engineer;Nouvelle-Aquitaine
+OFR-2025395;Hugging Face;AI Engineer;Nouvelle-Aquitaine
+OFR-2025396;Python;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025396;Cloud (AWS/Azure/GCP);ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025396;Git/CI-CD;ML Engineer;Auvergne-Rhône-Alpes
+OFR-2025397;Cloud (AWS/Azure/GCP);AI Engineer;Centre-Val de Loire
+OFR-2025397;Hugging Face;AI Engineer;Centre-Val de Loire
+OFR-2025397;NLP;AI Engineer;Centre-Val de Loire
+OFR-2025397;LangChain;AI Engineer;Centre-Val de Loire
+OFR-2025398;Pandas;Data Scientist;Île-de-France
+OFR-2025398;Power BI;Data Scientist;Île-de-France
+OFR-2025398;Deep Learning;Data Scientist;Île-de-France
+OFR-2025398;Python;Data Scientist;Île-de-France
+OFR-2025398;SQL;Data Scientist;Île-de-France
+OFR-2025399;KPI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025399;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025399;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025400;Excel;BI Analyst / Développeur Power BI;PACA
+OFR-2025400;KPI;BI Analyst / Développeur Power BI;PACA
+OFR-2025400;DAX;BI Analyst / Développeur Power BI;PACA
+OFR-2025401;Excel;Data Analyst;Pays de la Loire
+OFR-2025401;Python;Data Analyst;Pays de la Loire
+OFR-2025401;SQL;Data Analyst;Pays de la Loire
+OFR-2025401;Power BI;Data Analyst;Pays de la Loire
+OFR-2025402;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025402;Excel;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025402;SQL;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025402;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025403;Power BI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025403;KPI;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025403;Python;Chef de Projet Data/IA;Auvergne-Rhône-Alpes
+OFR-2025404;Pandas;Data Scientist;PACA
+OFR-2025404;SQL;Data Scientist;PACA
+OFR-2025404;Python;Data Scientist;PACA
+OFR-2025405;SQL;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025405;Excel;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025405;Power BI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025405;Power Query;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025406;Python;Data Scientist;Nouvelle-Aquitaine
+OFR-2025406;Machine Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025406;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025406;SQL;Data Scientist;Nouvelle-Aquitaine
+OFR-2025407;Python;Data Analyst;Centre-Val de Loire
+OFR-2025407;DAX;Data Analyst;Centre-Val de Loire
+OFR-2025407;Tableau;Data Analyst;Centre-Val de Loire
+OFR-2025408;LLM;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025408;Python;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025408;LangChain;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025408;Hugging Face;AI Engineer;Auvergne-Rhône-Alpes
+OFR-2025409;Git/CI-CD;ML Engineer;Nouvelle-Aquitaine
+OFR-2025409;TensorFlow/PyTorch;ML Engineer;Nouvelle-Aquitaine
+OFR-2025409;Docker;ML Engineer;Nouvelle-Aquitaine
+OFR-2025409;MLOps;ML Engineer;Nouvelle-Aquitaine
+OFR-2025409;Cloud (AWS/Azure/GCP);ML Engineer;Nouvelle-Aquitaine
+OFR-2025410;Deep Learning;Data Scientist;Île-de-France
+OFR-2025410;SQL;Data Scientist;Île-de-France
+OFR-2025410;Machine Learning;Data Scientist;Île-de-France
+OFR-2025411;Docker;ML Engineer;Île-de-France
+OFR-2025411;TensorFlow/PyTorch;ML Engineer;Île-de-France
+OFR-2025411;MLOps;ML Engineer;Île-de-France
+OFR-2025411;Python;ML Engineer;Île-de-France
+OFR-2025412;Deep Learning;Data Scientist;Île-de-France
+OFR-2025412;SQL;Data Scientist;Île-de-France
+OFR-2025412;Power BI;Data Scientist;Île-de-France
+OFR-2025413;Agile/Scrum;Chef de Projet Data/IA;Grand Est
+OFR-2025413;Gestion de projet;Chef de Projet Data/IA;Grand Est
+OFR-2025413;Power BI;Chef de Projet Data/IA;Grand Est
+OFR-2025413;KPI;Chef de Projet Data/IA;Grand Est
+OFR-2025414;Excel;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025414;Power Query;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025414;Power BI;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025414;SQL;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025414;DAX;BI Analyst / Développeur Power BI;Pays de la Loire
+OFR-2025415;Python;Chef de Projet Data/IA;Île-de-France
+OFR-2025415;KPI;Chef de Projet Data/IA;Île-de-France
+OFR-2025415;Agile/Scrum;Chef de Projet Data/IA;Île-de-France
+OFR-2025416;LangChain;AI Engineer;Hauts-de-France
+OFR-2025416;NLP;AI Engineer;Hauts-de-France
+OFR-2025416;Cloud (AWS/Azure/GCP);AI Engineer;Hauts-de-France
+OFR-2025417;Tableau;Data Analyst;PACA
+OFR-2025417;Power BI;Data Analyst;PACA
+OFR-2025417;DAX;Data Analyst;PACA
+OFR-2025417;Excel;Data Analyst;PACA
+OFR-2025418;RAG;AI Engineer;Île-de-France
+OFR-2025418;Hugging Face;AI Engineer;Île-de-France
+OFR-2025418;Python;AI Engineer;Île-de-France
+OFR-2025418;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025419;Power Query;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025419;DAX;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025419;Excel;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025419;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025419;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025420;Hugging Face;AI Engineer;Hauts-de-France
+OFR-2025420;Cloud (AWS/Azure/GCP);AI Engineer;Hauts-de-France
+OFR-2025420;Python;AI Engineer;Hauts-de-France
+OFR-2025420;LLM;AI Engineer;Hauts-de-France
+OFR-2025420;LangChain;AI Engineer;Hauts-de-France
+OFR-2025421;Excel;Data Analyst;Hauts-de-France
+OFR-2025421;Tableau;Data Analyst;Hauts-de-France
+OFR-2025421;Python;Data Analyst;Hauts-de-France
+OFR-2025421;SQL;Data Analyst;Hauts-de-France
+OFR-2025421;DAX;Data Analyst;Hauts-de-France
+OFR-2025422;DAX;Data Analyst;Île-de-France
+OFR-2025422;Power Query;Data Analyst;Île-de-France
+OFR-2025422;Python;Data Analyst;Île-de-France
+OFR-2025422;Excel;Data Analyst;Île-de-France
+OFR-2025422;Power BI;Data Analyst;Île-de-France
+OFR-2025423;LangChain;AI Engineer;Grand Est
+OFR-2025423;RAG;AI Engineer;Grand Est
+OFR-2025423;NLP;AI Engineer;Grand Est
+OFR-2025423;Hugging Face;AI Engineer;Grand Est
+OFR-2025424;Power Query;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025424;SQL;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025424;KPI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025424;Power BI;BI Analyst / Développeur Power BI;Nouvelle-Aquitaine
+OFR-2025425;Docker;Data Engineer;Grand Est
+OFR-2025425;SQL;Data Engineer;Grand Est
+OFR-2025425;Spark;Data Engineer;Grand Est
+OFR-2025425;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025425;Python;Data Engineer;Grand Est
+OFR-2025426;Pandas;Data Scientist;Nouvelle-Aquitaine
+OFR-2025426;Scikit-learn;Data Scientist;Nouvelle-Aquitaine
+OFR-2025426;Deep Learning;Data Scientist;Nouvelle-Aquitaine
+OFR-2025426;SQL;Data Scientist;Nouvelle-Aquitaine
+OFR-2025426;Power BI;Data Scientist;Nouvelle-Aquitaine
+OFR-2025427;Cloud (AWS/Azure/GCP);ML Engineer;PACA
+OFR-2025427;Docker;ML Engineer;PACA
+OFR-2025427;Python;ML Engineer;PACA
+OFR-2025427;MLOps;ML Engineer;PACA
+OFR-2025427;Git/CI-CD;ML Engineer;PACA
+OFR-2025428;Python;Data Engineer;Hauts-de-France
+OFR-2025428;Docker;Data Engineer;Hauts-de-France
+OFR-2025428;Airflow;Data Engineer;Hauts-de-France
+OFR-2025429;Python;Data Analyst;Île-de-France
+OFR-2025429;Power BI;Data Analyst;Île-de-France
+OFR-2025429;DAX;Data Analyst;Île-de-France
+OFR-2025429;Excel;Data Analyst;Île-de-France
+OFR-2025429;Tableau;Data Analyst;Île-de-France
+OFR-2025430;Power Query;BI Analyst / Développeur Power BI;Normandie
+OFR-2025430;Power BI;BI Analyst / Développeur Power BI;Normandie
+OFR-2025430;Excel;BI Analyst / Développeur Power BI;Normandie
+OFR-2025431;Cloud (AWS/Azure/GCP);ML Engineer;Grand Est
+OFR-2025431;TensorFlow/PyTorch;ML Engineer;Grand Est
+OFR-2025431;Git/CI-CD;ML Engineer;Grand Est
+OFR-2025432;Power BI;Data Scientist;Occitanie
+OFR-2025432;Scikit-learn;Data Scientist;Occitanie
+OFR-2025432;Machine Learning;Data Scientist;Occitanie
+OFR-2025432;SQL;Data Scientist;Occitanie
+OFR-2025433;Power BI;Data Analyst;Île-de-France
+OFR-2025433;DAX;Data Analyst;Île-de-France
+OFR-2025433;Python;Data Analyst;Île-de-France
+OFR-2025434;SQL;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025434;Power BI;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025434;Python;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025434;Agile/Scrum;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025435;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025435;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025435;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025435;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025435;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025436;Python;AI Engineer;Occitanie
+OFR-2025436;LLM;AI Engineer;Occitanie
+OFR-2025436;NLP;AI Engineer;Occitanie
+OFR-2025436;Cloud (AWS/Azure/GCP);AI Engineer;Occitanie
+OFR-2025436;LangChain;AI Engineer;Occitanie
+OFR-2025437;Cloud (AWS/Azure/GCP);Data Engineer;Bretagne
+OFR-2025437;Spark;Data Engineer;Bretagne
+OFR-2025437;ETL;Data Engineer;Bretagne
+OFR-2025437;Docker;Data Engineer;Bretagne
+OFR-2025437;Python;Data Engineer;Bretagne
+OFR-2025438;Power BI;Chef de Projet Data/IA;PACA
+OFR-2025438;Python;Chef de Projet Data/IA;PACA
+OFR-2025438;Gestion de projet;Chef de Projet Data/IA;PACA
+OFR-2025438;SQL;Chef de Projet Data/IA;PACA
+OFR-2025438;KPI;Chef de Projet Data/IA;PACA
+OFR-2025439;Power BI;Data Scientist;Île-de-France
+OFR-2025439;SQL;Data Scientist;Île-de-France
+OFR-2025439;Python;Data Scientist;Île-de-France
+OFR-2025439;Pandas;Data Scientist;Île-de-France
+OFR-2025440;Power Query;Data Analyst;Pays de la Loire
+OFR-2025440;Tableau;Data Analyst;Pays de la Loire
+OFR-2025440;SQL;Data Analyst;Pays de la Loire
+OFR-2025441;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025441;Docker;Data Engineer;Grand Est
+OFR-2025441;Python;Data Engineer;Grand Est
+OFR-2025441;Airflow;Data Engineer;Grand Est
+OFR-2025442;Cloud (AWS/Azure/GCP);ML Engineer;PACA
+OFR-2025442;TensorFlow/PyTorch;ML Engineer;PACA
+OFR-2025442;MLOps;ML Engineer;PACA
+OFR-2025442;Git/CI-CD;ML Engineer;PACA
+OFR-2025443;Deep Learning;Data Scientist;Occitanie
+OFR-2025443;SQL;Data Scientist;Occitanie
+OFR-2025443;Pandas;Data Scientist;Occitanie
+OFR-2025443;Python;Data Scientist;Occitanie
+OFR-2025444;SQL;Data Scientist;Grand Est
+OFR-2025444;Deep Learning;Data Scientist;Grand Est
+OFR-2025444;Pandas;Data Scientist;Grand Est
+OFR-2025445;SQL;Data Scientist;Hauts-de-France
+OFR-2025445;Pandas;Data Scientist;Hauts-de-France
+OFR-2025445;Python;Data Scientist;Hauts-de-France
+OFR-2025446;Python;Data Scientist;Occitanie
+OFR-2025446;Power BI;Data Scientist;Occitanie
+OFR-2025446;Pandas;Data Scientist;Occitanie
+OFR-2025447;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025447;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025447;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025447;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025448;Docker;Data Engineer;Normandie
+OFR-2025448;SQL;Data Engineer;Normandie
+OFR-2025448;Spark;Data Engineer;Normandie
+OFR-2025449;Pandas;Data Scientist;Île-de-France
+OFR-2025449;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025449;Machine Learning;Data Scientist;Île-de-France
+OFR-2025450;SQL;Data Engineer;Pays de la Loire
+OFR-2025450;Airflow;Data Engineer;Pays de la Loire
+OFR-2025450;Spark;Data Engineer;Pays de la Loire
+OFR-2025451;Tableau;Data Analyst;Nouvelle-Aquitaine
+OFR-2025451;SQL;Data Analyst;Nouvelle-Aquitaine
+OFR-2025451;Power Query;Data Analyst;Nouvelle-Aquitaine
+OFR-2025451;Python;Data Analyst;Nouvelle-Aquitaine
+OFR-2025452;Python;AI Engineer;PACA
+OFR-2025452;Hugging Face;AI Engineer;PACA
+OFR-2025452;RAG;AI Engineer;PACA
+OFR-2025452;LangChain;AI Engineer;PACA
+OFR-2025453;Power Query;Data Analyst;Centre-Val de Loire
+OFR-2025453;Python;Data Analyst;Centre-Val de Loire
+OFR-2025453;Excel;Data Analyst;Centre-Val de Loire
+OFR-2025454;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025454;Python;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025454;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025455;Cloud (AWS/Azure/GCP);ML Engineer;Nouvelle-Aquitaine
+OFR-2025455;TensorFlow/PyTorch;ML Engineer;Nouvelle-Aquitaine
+OFR-2025455;Git/CI-CD;ML Engineer;Nouvelle-Aquitaine
+OFR-2025455;Python;ML Engineer;Nouvelle-Aquitaine
+OFR-2025456;RAG;AI Engineer;Île-de-France
+OFR-2025456;Hugging Face;AI Engineer;Île-de-France
+OFR-2025456;LLM;AI Engineer;Île-de-France
+OFR-2025456;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025457;SQL;Data Analyst;Nouvelle-Aquitaine
+OFR-2025457;Power BI;Data Analyst;Nouvelle-Aquitaine
+OFR-2025457;Power Query;Data Analyst;Nouvelle-Aquitaine
+OFR-2025458;Python;Data Engineer;Grand Est
+OFR-2025458;SQL;Data Engineer;Grand Est
+OFR-2025458;Docker;Data Engineer;Grand Est
+OFR-2025458;ETL;Data Engineer;Grand Est
+OFR-2025458;Airflow;Data Engineer;Grand Est
+OFR-2025459;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025459;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025459;SQL;Data Scientist;Centre-Val de Loire
+OFR-2025460;Python;AI Engineer;Île-de-France
+OFR-2025460;LLM;AI Engineer;Île-de-France
+OFR-2025460;Cloud (AWS/Azure/GCP);AI Engineer;Île-de-France
+OFR-2025460;NLP;AI Engineer;Île-de-France
+OFR-2025460;Hugging Face;AI Engineer;Île-de-France
+OFR-2025461;Power BI;Data Analyst;Île-de-France
+OFR-2025461;Power Query;Data Analyst;Île-de-France
+OFR-2025461;Excel;Data Analyst;Île-de-France
+OFR-2025462;KPI;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025462;SQL;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025462;Python;Chef de Projet Data/IA;Nouvelle-Aquitaine
+OFR-2025463;Tableau;Data Analyst;Centre-Val de Loire
+OFR-2025463;Power BI;Data Analyst;Centre-Val de Loire
+OFR-2025463;Python;Data Analyst;Centre-Val de Loire
+OFR-2025463;DAX;Data Analyst;Centre-Val de Loire
+OFR-2025463;Power Query;Data Analyst;Centre-Val de Loire
+OFR-2025464;SQL;Data Analyst;Grand Est
+OFR-2025464;DAX;Data Analyst;Grand Est
+OFR-2025464;Excel;Data Analyst;Grand Est
+OFR-2025465;Machine Learning;Data Scientist;Grand Est
+OFR-2025465;Power BI;Data Scientist;Grand Est
+OFR-2025465;Python;Data Scientist;Grand Est
+OFR-2025465;Scikit-learn;Data Scientist;Grand Est
+OFR-2025465;SQL;Data Scientist;Grand Est
+OFR-2025466;Spark;Data Engineer;Occitanie
+OFR-2025466;Python;Data Engineer;Occitanie
+OFR-2025466;SQL;Data Engineer;Occitanie
+OFR-2025467;Machine Learning;Data Scientist;Île-de-France
+OFR-2025467;Pandas;Data Scientist;Île-de-France
+OFR-2025467;Scikit-learn;Data Scientist;Île-de-France
+OFR-2025468;Airflow;Data Engineer;Île-de-France
+OFR-2025468;SQL;Data Engineer;Île-de-France
+OFR-2025468;Spark;Data Engineer;Île-de-France
+OFR-2025468;Python;Data Engineer;Île-de-France
+OFR-2025468;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025469;Power BI;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025469;Tableau;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025469;DAX;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025469;Power Query;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025469;SQL;Data Analyst;Auvergne-Rhône-Alpes
+OFR-2025470;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025470;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025470;Power Query;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025470;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025470;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025471;Power BI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025471;SQL;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025471;KPI;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025471;DAX;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025471;Excel;BI Analyst / Développeur Power BI;Bretagne
+OFR-2025472;SQL;Data Engineer;Île-de-France
+OFR-2025472;Docker;Data Engineer;Île-de-France
+OFR-2025472;ETL;Data Engineer;Île-de-France
+OFR-2025472;Spark;Data Engineer;Île-de-France
+OFR-2025472;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025473;Cloud (AWS/Azure/GCP);Data Engineer;Centre-Val de Loire
+OFR-2025473;Docker;Data Engineer;Centre-Val de Loire
+OFR-2025473;SQL;Data Engineer;Centre-Val de Loire
+OFR-2025473;Airflow;Data Engineer;Centre-Val de Loire
+OFR-2025474;SQL;Data Engineer;Île-de-France
+OFR-2025474;Airflow;Data Engineer;Île-de-France
+OFR-2025474;Spark;Data Engineer;Île-de-France
+OFR-2025474;Docker;Data Engineer;Île-de-France
+OFR-2025474;Cloud (AWS/Azure/GCP);Data Engineer;Île-de-France
+OFR-2025475;Excel;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025475;Power BI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025475;DAX;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025475;KPI;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025475;SQL;BI Analyst / Développeur Power BI;Île-de-France
+OFR-2025476;Cloud (AWS/Azure/GCP);Data Engineer;Normandie
+OFR-2025476;ETL;Data Engineer;Normandie
+OFR-2025476;Spark;Data Engineer;Normandie
+OFR-2025476;SQL;Data Engineer;Normandie
+OFR-2025476;Docker;Data Engineer;Normandie
+OFR-2025477;Spark;Data Engineer;Grand Est
+OFR-2025477;Cloud (AWS/Azure/GCP);Data Engineer;Grand Est
+OFR-2025477;SQL;Data Engineer;Grand Est
+OFR-2025477;Python;Data Engineer;Grand Est
+OFR-2025477;ETL;Data Engineer;Grand Est
+OFR-2025478;Machine Learning;Data Scientist;Centre-Val de Loire
+OFR-2025478;Power BI;Data Scientist;Centre-Val de Loire
+OFR-2025478;Pandas;Data Scientist;Centre-Val de Loire
+OFR-2025478;Python;Data Scientist;Centre-Val de Loire
+OFR-2025479;Power BI;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025479;Python;Chef de Projet Data/IA;Pays de la Loire
+OFR-2025479;SQL;Chef de Projet Data/IA;Pays de la Loire

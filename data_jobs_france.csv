@@ -1,0 +1,481 @@
+id_offre;date_publication;mois_publication;intitule_poste;secteur_activite;region;ville;type_contrat;niveau_experience;salaire_min_eur;salaire_max_eur;salaire_moyen_eur;teletravail;competence_1;competence_2;competence_3;competence_4;competence_5;delai_pourvoi_jours
+OFR-2025000;2025-08-17;2025-08;ML Engineer;Conseil / ESN;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Git/CI-CD;TensorFlow/PyTorch;Python;Docker;MLOps;25
+OFR-2025001;2025-09-18;2025-09;Data Scientist;Secteur public;Nouvelle-Aquitaine;Bordeaux;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Power BI;Python;Machine Learning;Scikit-learn;;25
+OFR-2025002;2026-01-10;2026-01;Chef de Projet Data/IA;Santé;Auvergne-Rhône-Alpes;Lyon;CDI;Senior (5+ ans);62500;93500;78000;Full remote;SQL;Gestion de projet;Agile/Scrum;KPI;Python;17
+OFR-2025003;2025-08-21;2025-08;Data Engineer;Retail / E-commerce;Grand Est;Nancy;Alternance;Confirmé (3-5 ans);850;1119;984;Full remote;Docker;Spark;SQL;;;36
+OFR-2025004;2025-11-03;2025-11;Data Scientist;Tech / Scale-up;Nouvelle-Aquitaine;Poitiers;CDI;Junior (0-2 ans);34500;46000;40250;Hybride;Deep Learning;Power BI;Python;Machine Learning;;22
+OFR-2025005;2025-08-03;2025-08;Data Engineer;Retail / E-commerce;Île-de-France;Boulogne-Billancourt;CDD;Senior (5+ ans);71000;106000;88500;Hybride;Docker;SQL;Spark;;;25
+OFR-2025006;2026-04-25;2026-04;BI Analyst / Développeur Power BI;Conseil / ESN;Occitanie;Montpellier;Alternance;Confirmé (3-5 ans);1270;1406;1338;Sur site;DAX;Excel;Power Query;SQL;;37
+OFR-2025007;2026-02-02;2026-02;Data Scientist;Secteur public;Centre-Val de Loire;Tours;CDI;Confirmé (3-5 ans);43500;60500;52000;Sur site;Machine Learning;Deep Learning;Power BI;;;50
+OFR-2025008;2026-04-01;2026-04;Data Analyst;Secteur public;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Sur site;DAX;Power Query;SQL;;;60
+OFR-2025009;2026-05-17;2026-05;Data Scientist;Énergie;Nouvelle-Aquitaine;Bordeaux;CDI;Confirmé (3-5 ans);46000;63500;54750;Full remote;Deep Learning;SQL;Pandas;Machine Learning;Power BI;31
+OFR-2025010;2026-01-02;2026-01;BI Analyst / Développeur Power BI;Tech / Scale-up;Pays de la Loire;Nantes;CDI;Junior (0-2 ans);34000;45500;39750;Hybride;Power BI;KPI;Power Query;DAX;Excel;65
+OFR-2025011;2026-05-07;2026-05;BI Analyst / Développeur Power BI;Télécoms;Île-de-France;Boulogne-Billancourt;Stage;Junior (0-2 ans);1300;1417;1358;Hybride;DAX;Excel;SQL;Power Query;Power BI;39
+OFR-2025012;2025-08-02;2025-08;Chef de Projet Data/IA;Énergie;Normandie;Rouen;CDI;Confirmé (3-5 ans);44000;61000;52500;Hybride;Agile/Scrum;Python;KPI;Gestion de projet;;33
+OFR-2025013;2025-10-30;2025-10;Data Analyst;Banque / Assurance;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Hybride;SQL;Power Query;Excel;;;29
+OFR-2025014;2026-01-27;2026-01;ML Engineer;Télécoms;Île-de-France;Boulogne-Billancourt;Alternance;Junior (0-2 ans);1280;1484;1382;Hybride;Python;Git/CI-CD;Cloud (AWS/Azure/GCP);;;41
+OFR-2025015;2025-09-10;2025-09;BI Analyst / Développeur Power BI;Banque / Assurance;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;DAX;Excel;KPI;;;39
+OFR-2025016;2025-08-17;2025-08;Data Analyst;Transport / Logistique;Pays de la Loire;Nantes;CDD;Senior (5+ ans);58000;87500;72750;Sur site;SQL;DAX;Tableau;;;60
+OFR-2025017;2025-11-13;2025-11;BI Analyst / Développeur Power BI;Transport / Logistique;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Full remote;DAX;SQL;Power BI;;;62
+OFR-2025018;2025-12-08;2025-12;AI Engineer;Tech / Scale-up;Île-de-France;Nanterre;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Hugging Face;RAG;Cloud (AWS/Azure/GCP);;;15
+OFR-2025019;2025-10-29;2025-10;Data Analyst;Tech / Scale-up;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Sur site;SQL;Tableau;Power Query;;;37
+OFR-2025020;2025-12-08;2025-12;Data Analyst;Télécoms;Bretagne;Rennes;Alternance;Confirmé (3-5 ans);1230;1498;1364;Sur site;Tableau;Power Query;Excel;DAX;SQL;27
+OFR-2025021;2025-08-21;2025-08;Data Scientist;Transport / Logistique;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Full remote;Python;Scikit-learn;Pandas;;;16
+OFR-2025022;2026-05-31;2026-05;Data Engineer;Retail / E-commerce;Pays de la Loire;Nantes;Stage;Senior (5+ ans);1180;1352;1266;Sur site;ETL;Airflow;Spark;;;45
+OFR-2025023;2025-12-23;2025-12;Data Analyst;Industrie;Grand Est;Reims;Stage;Junior (0-2 ans);920;1047;984;Hybride;Tableau;Power BI;Excel;Power Query;Python;25
+OFR-2025024;2025-12-18;2025-12;ML Engineer;Transport / Logistique;Grand Est;Nancy;CDI;Senior (5+ ans);57500;86500;72000;Hybride;Python;Cloud (AWS/Azure/GCP);Docker;;;61
+OFR-2025025;2026-01-06;2026-01;Data Analyst;Transport / Logistique;Centre-Val de Loire;Tours;Alternance;Confirmé (3-5 ans);810;938;874;Hybride;DAX;Power BI;Tableau;;;49
+OFR-2025026;2025-12-29;2025-12;Data Engineer;Énergie;Pays de la Loire;Nantes;CDI;Senior (5+ ans);58000;87500;72750;Sur site;Spark;Python;Cloud (AWS/Azure/GCP);;;61
+OFR-2025027;2025-12-18;2025-12;Data Engineer;Conseil / ESN;Bretagne;Rennes;CDD;Senior (5+ ans);57500;86500;72000;Sur site;ETL;SQL;Python;;;62
+OFR-2025028;2026-02-21;2026-02;Chef de Projet Data/IA;Conseil / ESN;Grand Est;Nancy;CDI;Senior (5+ ans);57500;86500;72000;Hybride;Agile/Scrum;Gestion de projet;KPI;;;34
+OFR-2025029;2026-01-21;2026-01;Data Scientist;Conseil / ESN;PACA;Marseille;CDI;Junior (0-2 ans);35500;48000;41750;Sur site;SQL;Python;Power BI;Pandas;;55
+OFR-2025030;2025-12-08;2025-12;Chef de Projet Data/IA;Industrie;Occitanie;Toulouse;Stage;Junior (0-2 ans);1390;1557;1474;Hybride;Gestion de projet;Python;Agile/Scrum;;;39
+OFR-2025031;2025-08-05;2025-08;Data Engineer;Télécoms;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;SQL;Airflow;Cloud (AWS/Azure/GCP);Python;;54
+OFR-2025032;2026-01-11;2026-01;Chef de Projet Data/IA;Énergie;Nouvelle-Aquitaine;Bordeaux;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Agile/Scrum;SQL;Power BI;Gestion de projet;;55
+OFR-2025033;2026-02-12;2026-02;AI Engineer;Santé;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;LLM;NLP;Hugging Face;LangChain;;55
+OFR-2025034;2025-09-14;2025-09;Data Analyst;Tech / Scale-up;Pays de la Loire;Le Mans;Alternance;Junior (0-2 ans);1140;1263;1202;Sur site;DAX;Excel;Power BI;;;13
+OFR-2025035;2025-11-02;2025-11;Data Analyst;Transport / Logistique;Centre-Val de Loire;Tours;CDI;Confirmé (3-5 ans);43500;60500;52000;Hybride;DAX;Power Query;Python;;;21
+OFR-2025036;2025-09-01;2025-09;ML Engineer;Santé;Île-de-France;Paris;CDI;Senior (5+ ans);71000;106000;88500;Full remote;TensorFlow/PyTorch;Cloud (AWS/Azure/GCP);Python;Docker;Git/CI-CD;41
+OFR-2025037;2026-03-01;2026-03;Data Analyst;Secteur public;Pays de la Loire;Le Mans;Alternance;Senior (5+ ans);1250;1506;1378;Sur site;Tableau;Python;Power Query;DAX;SQL;40
+OFR-2025038;2025-12-11;2025-12;Data Scientist;Secteur public;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Python;Deep Learning;SQL;Machine Learning;;46
+OFR-2025039;2026-04-26;2026-04;Data Analyst;Tech / Scale-up;Île-de-France;Nanterre;Alternance;Junior (0-2 ans);1220;1404;1312;Hybride;Python;Power Query;SQL;Power BI;DAX;56
+OFR-2025040;2025-11-17;2025-11;Data Analyst;Transport / Logistique;Bretagne;Brest;CDI;Junior (0-2 ans);33500;45000;39250;Hybride;Power Query;Python;Tableau;Power BI;;39
+OFR-2025041;2025-09-08;2025-09;Data Engineer;Santé;Auvergne-Rhône-Alpes;Annecy;Alternance;Senior (5+ ans);930;1189;1060;Sur site;SQL;ETL;Airflow;Docker;Cloud (AWS/Azure/GCP);41
+OFR-2025042;2026-04-03;2026-04;Data Analyst;Conseil / ESN;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Excel;Python;Power Query;SQL;;15
+OFR-2025043;2025-10-31;2025-10;Chef de Projet Data/IA;Industrie;Auvergne-Rhône-Alpes;Annecy;CDD;Confirmé (3-5 ans);49000;67500;58250;Sur site;Power BI;KPI;Gestion de projet;;;20
+OFR-2025044;2025-07-14;2025-07;Data Engineer;Transport / Logistique;Île-de-France;Boulogne-Billancourt;Alternance;Senior (5+ ans);970;1225;1098;Hybride;Cloud (AWS/Azure/GCP);Docker;SQL;Python;ETL;31
+OFR-2025045;2025-12-25;2025-12;Data Engineer;Santé;Bretagne;Brest;Stage;Junior (0-2 ans);1050;1176;1113;Sur site;Docker;Spark;Airflow;SQL;Cloud (AWS/Azure/GCP);46
+OFR-2025046;2026-02-08;2026-02;Data Engineer;Retail / E-commerce;Auvergne-Rhône-Alpes;Annecy;CDI;Confirmé (3-5 ans);49000;67500;58250;Sur site;SQL;ETL;Spark;Cloud (AWS/Azure/GCP);;23
+OFR-2025047;2025-11-03;2025-11;AI Engineer;Télécoms;Centre-Val de Loire;Orléans;CDD;Confirmé (3-5 ans);43500;60500;52000;Hybride;NLP;Cloud (AWS/Azure/GCP);Hugging Face;LangChain;;65
+OFR-2025048;2025-12-29;2025-12;Chef de Projet Data/IA;Conseil / ESN;Île-de-France;Nanterre;Alternance;Confirmé (3-5 ans);1190;1376;1283;Hybride;Agile/Scrum;SQL;Power BI;;;63
+OFR-2025049;2025-11-01;2025-11;Data Scientist;Secteur public;Île-de-France;Saint-Denis;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Machine Learning;Deep Learning;Scikit-learn;;;56
+OFR-2025050;2025-12-24;2025-12;Data Engineer;Banque / Assurance;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Sur site;Python;Spark;Airflow;Cloud (AWS/Azure/GCP);Docker;39
+OFR-2025051;2026-04-01;2026-04;Chef de Projet Data/IA;Transport / Logistique;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;KPI;Power BI;SQL;;;60
+OFR-2025052;2025-12-02;2025-12;ML Engineer;Énergie;Île-de-France;Nanterre;Alternance;Senior (5+ ans);1340;1592;1466;Hybride;Python;MLOps;Docker;Git/CI-CD;;12
+OFR-2025053;2025-12-22;2025-12;ML Engineer;Banque / Assurance;Île-de-France;Paris;Alternance;Confirmé (3-5 ans);930;1193;1062;Hybride;Python;Git/CI-CD;Docker;MLOps;;23
+OFR-2025054;2026-04-15;2026-04;Chef de Projet Data/IA;Industrie;Île-de-France;Nanterre;CDD;Confirmé (3-5 ans);55500;76500;66000;Hybride;Python;Gestion de projet;Power BI;;;31
+OFR-2025055;2026-05-14;2026-05;Data Analyst;Télécoms;Île-de-France;Nanterre;Alternance;Confirmé (3-5 ans);1340;1537;1438;Hybride;Python;Excel;Tableau;Power Query;;15
+OFR-2025056;2026-01-26;2026-01;Data Engineer;Conseil / ESN;PACA;Marseille;CDI;Junior (0-2 ans);35500;48000;41750;Hybride;Python;Airflow;SQL;;;40
+OFR-2025057;2025-10-10;2025-10;ML Engineer;Conseil / ESN;Pays de la Loire;Nantes;CDI;Junior (0-2 ans);34000;45500;39750;Sur site;Python;MLOps;Docker;Cloud (AWS/Azure/GCP);;39
+OFR-2025058;2026-04-18;2026-04;Data Analyst;Énergie;Île-de-France;Boulogne-Billancourt;CDD;Junior (0-2 ans);41500;55500;48500;Sur site;Power Query;Excel;Tableau;;;30
+OFR-2025059;2026-05-06;2026-05;Data Engineer;Santé;Pays de la Loire;Angers;Stage;Confirmé (3-5 ans);1300;1512;1406;Sur site;Airflow;SQL;ETL;;;28
+OFR-2025060;2026-03-09;2026-03;Data Analyst;Énergie;Île-de-France;Paris;Alternance;Senior (5+ ans);980;1200;1090;Hybride;DAX;Python;Excel;Power BI;Tableau;17
+OFR-2025061;2025-11-07;2025-11;Data Engineer;Industrie;Auvergne-Rhône-Alpes;Grenoble;CDD;Junior (0-2 ans);36500;49000;42750;Hybride;ETL;Spark;Docker;SQL;Python;32
+OFR-2025062;2026-05-17;2026-05;Data Analyst;Banque / Assurance;PACA;Aix-en-Provence;Alternance;Confirmé (3-5 ans);1220;1333;1276;Sur site;Tableau;Excel;Power Query;;;40
+OFR-2025063;2025-09-20;2025-09;AI Engineer;Énergie;Île-de-France;Boulogne-Billancourt;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Python;RAG;Hugging Face;;;31
+OFR-2025064;2025-11-27;2025-11;Data Engineer;Conseil / ESN;Occitanie;Toulouse;Freelance;Senior (5+ ans);60000;90000;75000;Full remote;SQL;Cloud (AWS/Azure/GCP);Python;ETL;;44
+OFR-2025065;2026-01-29;2026-01;ML Engineer;Transport / Logistique;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Hybride;MLOps;TensorFlow/PyTorch;Git/CI-CD;Python;;33
+OFR-2025066;2026-04-05;2026-04;Chef de Projet Data/IA;Énergie;Pays de la Loire;Nantes;Alternance;Senior (5+ ans);1390;1658;1524;Hybride;Power BI;Agile/Scrum;Python;KPI;;36
+OFR-2025067;2026-05-30;2026-05;Data Engineer;Conseil / ESN;Auvergne-Rhône-Alpes;Lyon;Alternance;Junior (0-2 ans);1220;1331;1276;Full remote;Cloud (AWS/Azure/GCP);ETL;Docker;Airflow;;21
+OFR-2025068;2025-09-18;2025-09;Data Engineer;Industrie;Île-de-France;Saint-Denis;Stage;Confirmé (3-5 ans);1340;1556;1448;Full remote;Cloud (AWS/Azure/GCP);Python;ETL;;;16
+OFR-2025069;2026-05-20;2026-05;Data Engineer;Télécoms;Centre-Val de Loire;Orléans;Alternance;Confirmé (3-5 ans);1140;1412;1276;Hybride;ETL;Spark;Docker;SQL;Cloud (AWS/Azure/GCP);55
+OFR-2025070;2025-07-24;2025-07;Chef de Projet Data/IA;Santé;Centre-Val de Loire;Tours;Freelance;Senior (5+ ans);56000;83500;69750;Full remote;Gestion de projet;Agile/Scrum;Power BI;SQL;Python;32
+OFR-2025071;2026-01-12;2026-01;AI Engineer;Santé;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;RAG;LLM;Cloud (AWS/Azure/GCP);Hugging Face;Python;51
+OFR-2025072;2025-09-19;2025-09;ML Engineer;Tech / Scale-up;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Sur site;Docker;Python;Cloud (AWS/Azure/GCP);MLOps;;16
+OFR-2025073;2026-04-19;2026-04;Data Engineer;Énergie;Auvergne-Rhône-Alpes;Annecy;Alternance;Confirmé (3-5 ans);1060;1276;1168;Hybride;Python;ETL;Cloud (AWS/Azure/GCP);SQL;;34
+OFR-2025074;2025-11-24;2025-11;Data Engineer;Banque / Assurance;Centre-Val de Loire;Orléans;Freelance;Confirmé (3-5 ans);43500;60500;52000;Sur site;SQL;Airflow;Docker;ETL;;61
+OFR-2025075;2026-02-11;2026-02;AI Engineer;Conseil / ESN;Nouvelle-Aquitaine;Poitiers;Alternance;Confirmé (3-5 ans);940;1200;1070;Hybride;RAG;Cloud (AWS/Azure/GCP);Python;;;14
+OFR-2025076;2025-11-17;2025-11;Data Engineer;Énergie;PACA;Marseille;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;Python;Airflow;Spark;;;65
+OFR-2025077;2026-04-12;2026-04;Data Analyst;Énergie;Normandie;Caen;Alternance;Junior (0-2 ans);920;1139;1030;Full remote;Power BI;Power Query;Python;;;35
+OFR-2025078;2025-08-25;2025-08;Data Analyst;Secteur public;Auvergne-Rhône-Alpes;Grenoble;CDI;Junior (0-2 ans);36500;49000;42750;Full remote;DAX;Excel;Tableau;Python;Power Query;55
+OFR-2025079;2025-07-20;2025-07;Data Scientist;Télécoms;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Deep Learning;SQL;Scikit-learn;Python;;31
+OFR-2025080;2026-06-01;2026-06;Chef de Projet Data/IA;Secteur public;Île-de-France;Boulogne-Billancourt;CDI;Confirmé (3-5 ans);55500;76500;66000;Full remote;KPI;Python;Agile/Scrum;SQL;Gestion de projet;18
+OFR-2025081;2025-10-06;2025-10;BI Analyst / Développeur Power BI;Banque / Assurance;Nouvelle-Aquitaine;Poitiers;Alternance;Junior (0-2 ans);1260;1420;1340;Hybride;Power BI;Power Query;KPI;Excel;;19
+OFR-2025082;2026-04-10;2026-04;Chef de Projet Data/IA;Conseil / ESN;Grand Est;Strasbourg;Alternance;Confirmé (3-5 ans);820;932;876;Sur site;Power BI;KPI;Python;Gestion de projet;;25
+OFR-2025083;2025-09-28;2025-09;Data Engineer;Retail / E-commerce;Grand Est;Strasbourg;CDD;Senior (5+ ans);57500;86500;72000;Hybride;SQL;Spark;Python;Airflow;Cloud (AWS/Azure/GCP);19
+OFR-2025084;2026-02-01;2026-02;ML Engineer;Retail / E-commerce;Île-de-France;Paris;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;Python;MLOps;Docker;Git/CI-CD;;45
+OFR-2025085;2025-07-16;2025-07;Data Analyst;Retail / E-commerce;Île-de-France;Nanterre;CDI;Junior (0-2 ans);41500;55500;48500;Sur site;Power BI;Tableau;SQL;Excel;Power Query;15
+OFR-2025086;2025-11-18;2025-11;Chef de Projet Data/IA;Industrie;Grand Est;Reims;CDI;Senior (5+ ans);57500;86500;72000;Hybride;Gestion de projet;SQL;Power BI;;;51
+OFR-2025087;2025-08-28;2025-08;ML Engineer;Santé;Occitanie;Montpellier;Freelance;Confirmé (3-5 ans);47000;65000;56000;Sur site;TensorFlow/PyTorch;Git/CI-CD;Cloud (AWS/Azure/GCP);Python;;53
+OFR-2025088;2025-12-08;2025-12;ML Engineer;Conseil / ESN;PACA;Aix-en-Provence;CDI;Senior (5+ ans);61000;92000;76500;Sur site;Docker;Cloud (AWS/Azure/GCP);TensorFlow/PyTorch;MLOps;;39
+OFR-2025089;2026-04-11;2026-04;Data Scientist;Transport / Logistique;Île-de-France;Boulogne-Billancourt;CDI;Senior (5+ ans);71000;106000;88500;Sur site;Scikit-learn;Python;SQL;;;15
+OFR-2025090;2025-12-28;2025-12;Data Engineer;Industrie;Occitanie;Montpellier;CDI;Senior (5+ ans);60000;90000;75000;Sur site;Docker;Cloud (AWS/Azure/GCP);SQL;Spark;;18
+OFR-2025091;2026-05-15;2026-05;Data Engineer;Conseil / ESN;Île-de-France;Nanterre;CDD;Junior (0-2 ans);41500;55500;48500;Sur site;Spark;SQL;Docker;Python;ETL;51
+OFR-2025092;2026-04-16;2026-04;ML Engineer;Banque / Assurance;Occitanie;Montpellier;CDI;Confirmé (3-5 ans);47000;65000;56000;Full remote;Docker;Git/CI-CD;Python;Cloud (AWS/Azure/GCP);;54
+OFR-2025093;2026-04-17;2026-04;Data Scientist;Industrie;Île-de-France;Paris;Alternance;Junior (0-2 ans);1230;1446;1338;Sur site;Machine Learning;SQL;Deep Learning;Pandas;;50
+OFR-2025094;2025-10-19;2025-10;Data Analyst;Télécoms;Île-de-France;Boulogne-Billancourt;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;DAX;Python;Power Query;Tableau;;60
+OFR-2025095;2025-12-02;2025-12;Data Engineer;Énergie;Auvergne-Rhône-Alpes;Lyon;Alternance;Confirmé (3-5 ans);1340;1610;1475;Hybride;SQL;Python;ETL;Docker;;25
+OFR-2025096;2026-06-08;2026-06;AI Engineer;Retail / E-commerce;PACA;Nice;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;LLM;Cloud (AWS/Azure/GCP);NLP;RAG;;63
+OFR-2025097;2026-01-24;2026-01;Data Scientist;Banque / Assurance;Auvergne-Rhône-Alpes;Annecy;CDI;Confirmé (3-5 ans);49000;67500;58250;Hybride;Power BI;SQL;Pandas;;;57
+OFR-2025098;2026-04-28;2026-04;ML Engineer;Banque / Assurance;Île-de-France;Nanterre;Freelance;Junior (0-2 ans);41500;55500;48500;Hybride;Cloud (AWS/Azure/GCP);Docker;Python;MLOps;Git/CI-CD;37
+OFR-2025099;2025-10-08;2025-10;Data Engineer;Retail / E-commerce;Auvergne-Rhône-Alpes;Grenoble;CDI;Senior (5+ ans);62500;93500;78000;Hybride;Airflow;Cloud (AWS/Azure/GCP);SQL;;;61
+OFR-2025100;2026-06-01;2026-06;Data Scientist;Tech / Scale-up;PACA;Aix-en-Provence;CDI;Junior (0-2 ans);35500;48000;41750;Sur site;Machine Learning;Pandas;Power BI;;;16
+OFR-2025101;2026-02-11;2026-02;Data Analyst;Transport / Logistique;PACA;Nice;Alternance;Confirmé (3-5 ans);1260;1534;1397;Hybride;DAX;Power Query;Tableau;Excel;Python;16
+OFR-2025102;2025-11-24;2025-11;Data Engineer;Télécoms;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;ETL;Docker;SQL;Airflow;;16
+OFR-2025103;2025-08-01;2025-08;ML Engineer;Télécoms;Centre-Val de Loire;Tours;Alternance;Confirmé (3-5 ans);1390;1631;1510;Hybride;Python;Cloud (AWS/Azure/GCP);MLOps;TensorFlow/PyTorch;Docker;40
+OFR-2025104;2026-05-09;2026-05;Data Analyst;Industrie;Bretagne;Brest;CDI;Junior (0-2 ans);33500;45000;39250;Hybride;DAX;Python;Power Query;;;22
+OFR-2025105;2025-08-18;2025-08;Data Scientist;Santé;Normandie;Caen;CDD;Confirmé (3-5 ans);44000;61000;52500;Hybride;Power BI;Deep Learning;SQL;;;47
+OFR-2025106;2025-08-13;2025-08;ML Engineer;Retail / E-commerce;Île-de-France;Boulogne-Billancourt;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Docker;Cloud (AWS/Azure/GCP);MLOps;Git/CI-CD;;31
+OFR-2025107;2025-10-01;2025-10;Data Engineer;Tech / Scale-up;Nouvelle-Aquitaine;Poitiers;Alternance;Senior (5+ ans);1340;1463;1402;Hybride;Cloud (AWS/Azure/GCP);ETL;Airflow;Spark;SQL;25
+OFR-2025108;2026-05-13;2026-05;Data Scientist;Conseil / ESN;PACA;Marseille;Freelance;Junior (0-2 ans);35500;48000;41750;Sur site;Power BI;Python;Pandas;Deep Learning;;20
+OFR-2025109;2026-05-09;2026-05;Data Engineer;Télécoms;Île-de-France;Boulogne-Billancourt;CDD;Junior (0-2 ans);41500;55500;48500;Full remote;SQL;ETL;Spark;Python;;30
+OFR-2025110;2025-11-22;2025-11;AI Engineer;Secteur public;PACA;Marseille;CDI;Senior (5+ ans);61000;92000;76500;Hybride;Cloud (AWS/Azure/GCP);LLM;LangChain;NLP;;61
+OFR-2025111;2025-08-22;2025-08;Data Scientist;Conseil / ESN;Occitanie;Toulouse;CDD;Junior (0-2 ans);35000;47000;41000;Sur site;Python;Deep Learning;Scikit-learn;SQL;;57
+OFR-2025112;2026-01-29;2026-01;BI Analyst / Développeur Power BI;Industrie;Grand Est;Reims;Alternance;Junior (0-2 ans);1320;1457;1388;Full remote;Power BI;DAX;SQL;KPI;;15
+OFR-2025113;2025-09-09;2025-09;Data Scientist;Industrie;Auvergne-Rhône-Alpes;Grenoble;CDI;Junior (0-2 ans);36500;49000;42750;Sur site;Power BI;Deep Learning;SQL;;;14
+OFR-2025114;2026-05-08;2026-05;Data Scientist;Tech / Scale-up;Grand Est;Nancy;Alternance;Confirmé (3-5 ans);800;920;860;Hybride;SQL;Machine Learning;Deep Learning;;;45
+OFR-2025115;2026-03-13;2026-03;Data Engineer;Énergie;PACA;Marseille;CDI;Junior (0-2 ans);35500;48000;41750;Sur site;Docker;Airflow;ETL;SQL;Cloud (AWS/Azure/GCP);50
+OFR-2025116;2025-08-13;2025-08;Data Engineer;Tech / Scale-up;Nouvelle-Aquitaine;Bordeaux;CDI;Junior (0-2 ans);34500;46000;40250;Sur site;Python;Airflow;ETL;Docker;;45
+OFR-2025117;2026-06-02;2026-06;Chef de Projet Data/IA;Santé;Île-de-France;Paris;Stage;Junior (0-2 ans);1200;1395;1298;Hybride;KPI;Gestion de projet;SQL;Python;;52
+OFR-2025118;2025-09-08;2025-09;Data Analyst;Tech / Scale-up;Occitanie;Montpellier;CDI;Confirmé (3-5 ans);47000;65000;56000;Hybride;Power BI;DAX;Python;Tableau;Excel;16
+OFR-2025119;2026-04-05;2026-04;ML Engineer;Énergie;Normandie;Rouen;CDI;Senior (5+ ans);56500;84500;70500;Full remote;Docker;Git/CI-CD;Cloud (AWS/Azure/GCP);;;42
+OFR-2025120;2026-02-11;2026-02;Data Scientist;Énergie;PACA;Marseille;CDI;Senior (5+ ans);61000;92000;76500;Full remote;SQL;Power BI;Python;Deep Learning;Machine Learning;36
+OFR-2025121;2025-12-12;2025-12;Data Scientist;Retail / E-commerce;Île-de-France;Nanterre;Stage;Confirmé (3-5 ans);880;1166;1023;Hybride;Python;Scikit-learn;Pandas;Machine Learning;;18
+OFR-2025122;2025-07-30;2025-07;Data Analyst;Transport / Logistique;Nouvelle-Aquitaine;Poitiers;Alternance;Confirmé (3-5 ans);1250;1439;1344;Hybride;SQL;DAX;Excel;Python;;16
+OFR-2025123;2026-05-27;2026-05;ML Engineer;Tech / Scale-up;Auvergne-Rhône-Alpes;Annecy;Freelance;Junior (0-2 ans);36500;49000;42750;Hybride;Git/CI-CD;Cloud (AWS/Azure/GCP);Python;TensorFlow/PyTorch;Docker;35
+OFR-2025124;2026-01-20;2026-01;Data Scientist;Télécoms;Normandie;Rouen;CDI;Confirmé (3-5 ans);44000;61000;52500;Hybride;SQL;Scikit-learn;Python;Machine Learning;;32
+OFR-2025125;2026-05-10;2026-05;ML Engineer;Banque / Assurance;Île-de-France;Paris;Alternance;Confirmé (3-5 ans);1200;1443;1322;Hybride;Docker;Git/CI-CD;Cloud (AWS/Azure/GCP);;;30
+OFR-2025126;2025-12-11;2025-12;ML Engineer;Industrie;Centre-Val de Loire;Tours;CDI;Junior (0-2 ans);32500;43500;38000;Sur site;Git/CI-CD;Cloud (AWS/Azure/GCP);Python;;;54
+OFR-2025127;2025-09-10;2025-09;Data Scientist;Énergie;Île-de-France;Saint-Denis;CDD;Confirmé (3-5 ans);55500;76500;66000;Full remote;Deep Learning;Machine Learning;SQL;Power BI;Python;27
+OFR-2025128;2026-03-27;2026-03;AI Engineer;Transport / Logistique;Île-de-France;Saint-Denis;CDD;Confirmé (3-5 ans);55500;76500;66000;Sur site;Python;Cloud (AWS/Azure/GCP);LangChain;NLP;Hugging Face;38
+OFR-2025129;2026-04-09;2026-04;AI Engineer;Tech / Scale-up;Grand Est;Strasbourg;Freelance;Confirmé (3-5 ans);45000;62500;53750;Hybride;NLP;RAG;Hugging Face;LangChain;;52
+OFR-2025130;2025-12-13;2025-12;Data Engineer;Santé;PACA;Marseille;CDI;Senior (5+ ans);61000;92000;76500;Hybride;Airflow;Python;Spark;;;57
+OFR-2025131;2026-04-30;2026-04;Data Scientist;Industrie;Normandie;Caen;CDI;Confirmé (3-5 ans);44000;61000;52500;Sur site;SQL;Machine Learning;Power BI;Python;Pandas;49
+OFR-2025132;2025-10-16;2025-10;Data Analyst;Télécoms;Nouvelle-Aquitaine;Poitiers;CDI;Senior (5+ ans);59000;88000;73500;Hybride;SQL;DAX;Tableau;;;61
+OFR-2025133;2025-08-07;2025-08;Data Engineer;Transport / Logistique;Nouvelle-Aquitaine;Bordeaux;Stage;Confirmé (3-5 ans);1110;1333;1222;Hybride;Docker;Cloud (AWS/Azure/GCP);ETL;;;56
+OFR-2025134;2025-09-05;2025-09;Data Analyst;Transport / Logistique;Pays de la Loire;Angers;CDI;Confirmé (3-5 ans);45500;63000;54250;Full remote;Power Query;DAX;Excel;Tableau;;60
+OFR-2025135;2026-01-13;2026-01;Data Scientist;Conseil / ESN;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Machine Learning;Python;Deep Learning;;;51
+OFR-2025136;2025-12-05;2025-12;Data Scientist;Retail / E-commerce;Centre-Val de Loire;Tours;Stage;Confirmé (3-5 ans);990;1285;1138;Hybride;Scikit-learn;Pandas;Power BI;;;43
+OFR-2025137;2026-05-31;2026-05;Data Analyst;Conseil / ESN;Normandie;Caen;CDI;Junior (0-2 ans);33000;44000;38500;Full remote;Excel;Python;Tableau;;;55
+OFR-2025138;2026-04-18;2026-04;Data Engineer;Santé;Occitanie;Toulouse;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Docker;ETL;Spark;SQL;;47
+OFR-2025139;2025-08-19;2025-08;Data Analyst;Santé;Occitanie;Toulouse;CDI;Senior (5+ ans);60000;90000;75000;Hybride;Power Query;Tableau;DAX;SQL;;37
+OFR-2025140;2026-02-28;2026-02;Data Scientist;Tech / Scale-up;Centre-Val de Loire;Orléans;CDI;Confirmé (3-5 ans);43500;60500;52000;Hybride;Python;Power BI;Deep Learning;Machine Learning;SQL;45
+OFR-2025141;2026-03-30;2026-03;Data Engineer;Retail / E-commerce;Nouvelle-Aquitaine;Bordeaux;Stage;Junior (0-2 ans);1200;1457;1328;Sur site;Docker;Spark;Airflow;Cloud (AWS/Azure/GCP);ETL;43
+OFR-2025142;2026-06-01;2026-06;ML Engineer;Retail / E-commerce;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;TensorFlow/PyTorch;Docker;Python;Git/CI-CD;;62
+OFR-2025143;2026-01-31;2026-01;Chef de Projet Data/IA;Banque / Assurance;Occitanie;Toulouse;Alternance;Junior (0-2 ans);1190;1327;1258;Hybride;Power BI;Gestion de projet;Python;Agile/Scrum;SQL;21
+OFR-2025144;2026-03-30;2026-03;Data Scientist;Banque / Assurance;Île-de-France;Nanterre;Alternance;Confirmé (3-5 ans);1370;1553;1462;Hybride;Scikit-learn;Pandas;Power BI;SQL;Python;33
+OFR-2025145;2026-06-26;2026-06;Data Engineer;Télécoms;Hauts-de-France;Amiens;CDI;Senior (5+ ans);57000;85500;71250;Sur site;Airflow;Spark;Python;Cloud (AWS/Azure/GCP);;25
+OFR-2025146;2026-01-19;2026-01;ML Engineer;Retail / E-commerce;Pays de la Loire;Angers;Alternance;Senior (5+ ans);1080;1253;1166;Full remote;TensorFlow/PyTorch;Git/CI-CD;Cloud (AWS/Azure/GCP);;;64
+OFR-2025147;2025-10-18;2025-10;Data Scientist;Énergie;PACA;Marseille;CDI;Senior (5+ ans);61000;92000;76500;Sur site;SQL;Scikit-learn;Power BI;;;24
+OFR-2025148;2025-07-27;2025-07;BI Analyst / Développeur Power BI;Tech / Scale-up;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;DAX;Power BI;Excel;;;18
+OFR-2025149;2025-10-11;2025-10;Data Scientist;Tech / Scale-up;Hauts-de-France;Lille;CDI;Confirmé (3-5 ans);44500;62000;53250;Hybride;Scikit-learn;Deep Learning;Power BI;;;60
+OFR-2025150;2025-07-19;2025-07;Chef de Projet Data/IA;Banque / Assurance;Auvergne-Rhône-Alpes;Annecy;Stage;Junior (0-2 ans);1390;1549;1470;Full remote;KPI;Gestion de projet;Power BI;Agile/Scrum;Python;65
+OFR-2025151;2026-04-05;2026-04;Data Scientist;Énergie;Pays de la Loire;Le Mans;Stage;Junior (0-2 ans);1380;1634;1507;Full remote;SQL;Power BI;Scikit-learn;;;45
+OFR-2025152;2025-07-08;2025-07;Data Engineer;Énergie;Normandie;Caen;CDI;Junior (0-2 ans);33000;44000;38500;Sur site;Cloud (AWS/Azure/GCP);ETL;Spark;;;59
+OFR-2025153;2026-03-02;2026-03;Data Scientist;Tech / Scale-up;Île-de-France;Boulogne-Billancourt;Alternance;Confirmé (3-5 ans);1220;1429;1324;Full remote;SQL;Python;Scikit-learn;Deep Learning;Pandas;32
+OFR-2025154;2026-06-20;2026-06;Chef de Projet Data/IA;Conseil / ESN;Île-de-France;Nanterre;CDI;Junior (0-2 ans);41500;55500;48500;Sur site;SQL;Python;Gestion de projet;Power BI;;27
+OFR-2025155;2025-10-21;2025-10;Data Analyst;Tech / Scale-up;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Power Query;Excel;SQL;DAX;Power BI;20
+OFR-2025156;2026-05-02;2026-05;Data Engineer;Retail / E-commerce;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Sur site;Docker;Airflow;Python;Cloud (AWS/Azure/GCP);;62
+OFR-2025157;2026-04-01;2026-04;Data Analyst;Retail / E-commerce;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Hybride;Power Query;Tableau;DAX;;;21
+OFR-2025158;2026-04-15;2026-04;Data Analyst;Industrie;Grand Est;Reims;Alternance;Confirmé (3-5 ans);1300;1423;1362;Hybride;Python;SQL;Power Query;Power BI;Excel;15
+OFR-2025159;2025-08-02;2025-08;Data Engineer;Banque / Assurance;Hauts-de-France;Amiens;CDI;Senior (5+ ans);57000;85500;71250;Hybride;Python;Airflow;SQL;Cloud (AWS/Azure/GCP);Docker;46
+OFR-2025160;2026-01-12;2026-01;Chef de Projet Data/IA;Transport / Logistique;Normandie;Rouen;CDI;Confirmé (3-5 ans);44000;61000;52500;Full remote;KPI;Agile/Scrum;SQL;;;40
+OFR-2025161;2025-10-23;2025-10;BI Analyst / Développeur Power BI;Industrie;Bretagne;Brest;Alternance;Confirmé (3-5 ans);1350;1484;1417;Hybride;Power Query;Power BI;DAX;Excel;SQL;65
+OFR-2025162;2025-10-05;2025-10;Data Analyst;Transport / Logistique;Île-de-France;Saint-Denis;Alternance;Confirmé (3-5 ans);1340;1537;1438;Hybride;Power BI;Python;Excel;;;58
+OFR-2025163;2026-05-03;2026-05;AI Engineer;Télécoms;Île-de-France;Nanterre;Alternance;Senior (5+ ans);820;981;900;Hybride;Python;Cloud (AWS/Azure/GCP);Hugging Face;;;55
+OFR-2025164;2026-04-21;2026-04;ML Engineer;Santé;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;MLOps;TensorFlow/PyTorch;Docker;;;32
+OFR-2025165;2026-04-29;2026-04;Data Engineer;Conseil / ESN;PACA;Nice;CDI;Junior (0-2 ans);35500;48000;41750;Hybride;Airflow;Python;ETL;Spark;Cloud (AWS/Azure/GCP);59
+OFR-2025166;2025-12-01;2025-12;BI Analyst / Développeur Power BI;Secteur public;Nouvelle-Aquitaine;Poitiers;CDI;Senior (5+ ans);59000;88000;73500;Hybride;Excel;SQL;Power Query;KPI;DAX;36
+OFR-2025167;2025-09-07;2025-09;Data Analyst;Conseil / ESN;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Sur site;SQL;Tableau;Python;DAX;;36
+OFR-2025168;2026-05-05;2026-05;Data Scientist;Transport / Logistique;Île-de-France;Paris;CDD;Junior (0-2 ans);41500;55500;48500;Sur site;Power BI;Machine Learning;Python;SQL;Deep Learning;14
+OFR-2025169;2026-03-03;2026-03;BI Analyst / Développeur Power BI;Transport / Logistique;Île-de-France;Boulogne-Billancourt;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Power BI;DAX;KPI;Power Query;;27
+OFR-2025170;2026-03-12;2026-03;ML Engineer;Conseil / ESN;Hauts-de-France;Amiens;Alternance;Senior (5+ ans);1190;1409;1300;Hybride;Git/CI-CD;Docker;TensorFlow/PyTorch;MLOps;Cloud (AWS/Azure/GCP);41
+OFR-2025171;2026-04-26;2026-04;Data Analyst;Retail / E-commerce;Centre-Val de Loire;Orléans;Stage;Junior (0-2 ans);1220;1331;1276;Sur site;Power Query;Power BI;DAX;SQL;Tableau;49
+OFR-2025172;2026-03-08;2026-03;AI Engineer;Retail / E-commerce;Île-de-France;Boulogne-Billancourt;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;NLP;Hugging Face;LangChain;;;58
+OFR-2025173;2025-08-08;2025-08;ML Engineer;Retail / E-commerce;Pays de la Loire;Nantes;CDI;Confirmé (3-5 ans);45500;63000;54250;Hybride;MLOps;TensorFlow/PyTorch;Python;Docker;;64
+OFR-2025174;2026-05-13;2026-05;ML Engineer;Tech / Scale-up;PACA;Nice;CDD;Junior (0-2 ans);35500;48000;41750;Hybride;MLOps;Python;Git/CI-CD;Docker;Cloud (AWS/Azure/GCP);52
+OFR-2025175;2025-07-09;2025-07;ML Engineer;Transport / Logistique;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Full remote;Python;Git/CI-CD;Docker;Cloud (AWS/Azure/GCP);;44
+OFR-2025176;2026-01-24;2026-01;BI Analyst / Développeur Power BI;Industrie;Hauts-de-France;Lille;Stage;Confirmé (3-5 ans);1050;1199;1124;Hybride;KPI;Power Query;Excel;DAX;SQL;41
+OFR-2025177;2025-07-05;2025-07;Data Engineer;Énergie;Centre-Val de Loire;Tours;Alternance;Senior (5+ ans);830;953;892;Hybride;ETL;Docker;Airflow;Cloud (AWS/Azure/GCP);;56
+OFR-2025178;2025-07-24;2025-07;Data Analyst;Retail / E-commerce;Pays de la Loire;Angers;Alternance;Senior (5+ ans);900;1135;1018;Hybride;Power BI;Power Query;Tableau;;;16
+OFR-2025179;2026-04-15;2026-04;ML Engineer;Tech / Scale-up;Île-de-France;Paris;Stage;Junior (0-2 ans);1010;1260;1135;Hybride;Git/CI-CD;Cloud (AWS/Azure/GCP);Python;;;27
+OFR-2025180;2025-12-25;2025-12;Data Engineer;Secteur public;Grand Est;Nancy;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;Docker;Cloud (AWS/Azure/GCP);SQL;;;15
+OFR-2025181;2025-12-30;2025-12;Data Analyst;Retail / E-commerce;Île-de-France;Paris;Alternance;Confirmé (3-5 ans);1210;1508;1359;Hybride;SQL;DAX;Excel;Python;;47
+OFR-2025182;2026-05-21;2026-05;Chef de Projet Data/IA;Télécoms;Pays de la Loire;Le Mans;Alternance;Junior (0-2 ans);1100;1263;1182;Sur site;Gestion de projet;KPI;SQL;Python;Power BI;21
+OFR-2025183;2026-02-06;2026-02;AI Engineer;Industrie;Auvergne-Rhône-Alpes;Lyon;CDI;Junior (0-2 ans);36500;49000;42750;Hybride;Cloud (AWS/Azure/GCP);LangChain;Python;LLM;;40
+OFR-2025184;2025-08-13;2025-08;Data Engineer;Banque / Assurance;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Hybride;Airflow;Spark;ETL;SQL;Python;58
+OFR-2025185;2025-09-13;2025-09;BI Analyst / Développeur Power BI;Télécoms;Bretagne;Rennes;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;DAX;Power Query;KPI;;;16
+OFR-2025186;2025-10-09;2025-10;Data Analyst;Transport / Logistique;Île-de-France;Saint-Denis;CDD;Junior (0-2 ans);41500;55500;48500;Sur site;DAX;Power Query;Python;;;41
+OFR-2025187;2026-05-05;2026-05;Data Analyst;Retail / E-commerce;Île-de-France;Nanterre;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;Python;Excel;Power Query;Power BI;;56
+OFR-2025188;2026-01-18;2026-01;Data Analyst;Retail / E-commerce;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Hybride;Tableau;Power BI;Excel;Python;;35
+OFR-2025189;2025-09-10;2025-09;Data Analyst;Secteur public;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Sur site;Power BI;Python;Excel;SQL;Power Query;52
+OFR-2025190;2026-01-01;2026-01;Data Scientist;Santé;Île-de-France;Boulogne-Billancourt;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;Scikit-learn;Pandas;Power BI;Deep Learning;SQL;56
+OFR-2025191;2025-08-20;2025-08;BI Analyst / Développeur Power BI;Industrie;Occitanie;Toulouse;Alternance;Confirmé (3-5 ans);1160;1302;1231;Hybride;KPI;Power BI;SQL;DAX;Power Query;28
+OFR-2025192;2025-07-13;2025-07;Data Scientist;Télécoms;PACA;Aix-en-Provence;Alternance;Junior (0-2 ans);1180;1380;1280;Hybride;Power BI;Deep Learning;Pandas;Machine Learning;;42
+OFR-2025193;2025-12-26;2025-12;Data Analyst;Industrie;Auvergne-Rhône-Alpes;Lyon;CDD;Confirmé (3-5 ans);49000;67500;58250;Hybride;Excel;Power Query;Python;Power BI;;42
+OFR-2025194;2025-11-02;2025-11;Data Analyst;Retail / E-commerce;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Sur site;SQL;Power Query;Excel;DAX;Tableau;45
+OFR-2025195;2026-05-11;2026-05;Data Analyst;Transport / Logistique;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Power BI;DAX;Python;;;24
+OFR-2025196;2025-12-14;2025-12;Data Engineer;Conseil / ESN;Pays de la Loire;Nantes;CDI;Confirmé (3-5 ans);45500;63000;54250;Hybride;Airflow;SQL;Docker;;;24
+OFR-2025197;2026-02-20;2026-02;Data Engineer;Secteur public;Île-de-France;Nanterre;Freelance;Junior (0-2 ans);41500;55500;48500;Hybride;Airflow;ETL;Docker;SQL;;51
+OFR-2025198;2025-09-11;2025-09;Data Analyst;Télécoms;Hauts-de-France;Amiens;Alternance;Confirmé (3-5 ans);1120;1250;1185;Hybride;Excel;SQL;Power BI;;;44
+OFR-2025199;2025-10-04;2025-10;Data Scientist;Santé;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Deep Learning;Machine Learning;Pandas;Power BI;Scikit-learn;32
+OFR-2025200;2026-01-29;2026-01;BI Analyst / Développeur Power BI;Banque / Assurance;Nouvelle-Aquitaine;Poitiers;CDI;Junior (0-2 ans);34500;46000;40250;Sur site;KPI;Excel;SQL;DAX;;57
+OFR-2025201;2026-02-20;2026-02;BI Analyst / Développeur Power BI;Télécoms;Pays de la Loire;Nantes;CDI;Senior (5+ ans);58000;87500;72750;Hybride;Power BI;Power Query;DAX;KPI;;48
+OFR-2025202;2025-10-20;2025-10;AI Engineer;Secteur public;PACA;Aix-en-Provence;CDI;Junior (0-2 ans);35500;48000;41750;Hybride;Cloud (AWS/Azure/GCP);LangChain;Hugging Face;Python;RAG;39
+OFR-2025203;2026-04-28;2026-04;Data Analyst;Énergie;Grand Est;Strasbourg;Stage;Junior (0-2 ans);1070;1259;1164;Hybride;Python;SQL;Power BI;;;56
+OFR-2025204;2025-11-27;2025-11;Data Scientist;Tech / Scale-up;Hauts-de-France;Amiens;Alternance;Senior (5+ ans);1010;1125;1068;Full remote;SQL;Pandas;Power BI;Machine Learning;Scikit-learn;30
+OFR-2025205;2025-09-06;2025-09;Data Engineer;Tech / Scale-up;Normandie;Rouen;Freelance;Senior (5+ ans);56500;84500;70500;Sur site;Spark;Cloud (AWS/Azure/GCP);Python;;;27
+OFR-2025206;2025-08-17;2025-08;Data Analyst;Santé;Auvergne-Rhône-Alpes;Lyon;CDI;Confirmé (3-5 ans);49000;67500;58250;Hybride;DAX;Python;Power Query;Tableau;;37
+OFR-2025207;2026-02-20;2026-02;Data Engineer;Transport / Logistique;Île-de-France;Saint-Denis;Freelance;Junior (0-2 ans);41500;55500;48500;Sur site;Docker;Cloud (AWS/Azure/GCP);SQL;;;52
+OFR-2025208;2025-12-20;2025-12;ML Engineer;Secteur public;Auvergne-Rhône-Alpes;Lyon;CDI;Senior (5+ ans);62500;93500;78000;Sur site;Cloud (AWS/Azure/GCP);Docker;TensorFlow/PyTorch;;;47
+OFR-2025209;2025-07-01;2025-07;Data Engineer;Retail / E-commerce;Occitanie;Montpellier;Stage;Senior (5+ ans);850;975;912;Hybride;Docker;ETL;SQL;Airflow;Cloud (AWS/Azure/GCP);39
+OFR-2025210;2026-06-06;2026-06;Data Analyst;Énergie;Hauts-de-France;Lille;CDI;Senior (5+ ans);57000;85500;71250;Hybride;SQL;DAX;Excel;Tableau;;53
+OFR-2025211;2026-04-30;2026-04;Data Analyst;Conseil / ESN;Auvergne-Rhône-Alpes;Grenoble;CDI;Junior (0-2 ans);36500;49000;42750;Hybride;SQL;Power BI;Python;;;26
+OFR-2025212;2025-08-15;2025-08;Data Engineer;Retail / E-commerce;Pays de la Loire;Nantes;CDD;Senior (5+ ans);58000;87500;72750;Hybride;Cloud (AWS/Azure/GCP);Python;ETL;SQL;;58
+OFR-2025213;2025-07-05;2025-07;BI Analyst / Développeur Power BI;Énergie;Île-de-France;Saint-Denis;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Excel;DAX;Power BI;;;51
+OFR-2025214;2026-04-28;2026-04;ML Engineer;Conseil / ESN;Pays de la Loire;Le Mans;Alternance;Junior (0-2 ans);1220;1477;1348;Sur site;Cloud (AWS/Azure/GCP);MLOps;Python;Git/CI-CD;Docker;58
+OFR-2025215;2025-11-23;2025-11;Data Scientist;Tech / Scale-up;Centre-Val de Loire;Orléans;CDI;Confirmé (3-5 ans);43500;60500;52000;Sur site;Pandas;Power BI;Deep Learning;;;61
+OFR-2025216;2025-11-01;2025-11;Chef de Projet Data/IA;Conseil / ESN;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Agile/Scrum;SQL;Gestion de projet;KPI;Power BI;43
+OFR-2025217;2025-08-04;2025-08;ML Engineer;Retail / E-commerce;Île-de-France;Paris;Stage;Junior (0-2 ans);1380;1587;1484;Hybride;TensorFlow/PyTorch;MLOps;Cloud (AWS/Azure/GCP);Python;;12
+OFR-2025218;2026-04-02;2026-04;Data Scientist;Santé;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Power BI;Scikit-learn;Deep Learning;Pandas;Python;51
+OFR-2025219;2025-10-31;2025-10;Data Analyst;Secteur public;Île-de-France;Paris;Stage;Senior (5+ ans);960;1197;1078;Sur site;Python;Tableau;SQL;Excel;;15
+OFR-2025220;2025-12-25;2025-12;Data Scientist;Transport / Logistique;Normandie;Rouen;Alternance;Junior (0-2 ans);980;1110;1045;Hybride;Deep Learning;Machine Learning;Python;;;45
+OFR-2025221;2025-11-17;2025-11;Data Engineer;Tech / Scale-up;Grand Est;Reims;CDI;Confirmé (3-5 ans);45000;62500;53750;Sur site;Cloud (AWS/Azure/GCP);SQL;Docker;Spark;;45
+OFR-2025222;2025-08-22;2025-08;Data Analyst;Transport / Logistique;Hauts-de-France;Lille;CDI;Junior (0-2 ans);33000;44500;38750;Hybride;Power Query;Tableau;Power BI;Excel;;48
+OFR-2025223;2025-09-30;2025-09;ML Engineer;Banque / Assurance;Île-de-France;Paris;CDD;Junior (0-2 ans);41500;55500;48500;Full remote;Cloud (AWS/Azure/GCP);Docker;Git/CI-CD;;;14
+OFR-2025224;2025-07-27;2025-07;Data Engineer;Conseil / ESN;Normandie;Caen;CDI;Confirmé (3-5 ans);44000;61000;52500;Hybride;Spark;Docker;SQL;Cloud (AWS/Azure/GCP);Airflow;23
+OFR-2025225;2025-07-05;2025-07;Data Scientist;Santé;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Sur site;Power BI;SQL;Deep Learning;Python;;35
+OFR-2025226;2026-01-26;2026-01;Data Analyst;Télécoms;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Power Query;Power BI;Tableau;DAX;;13
+OFR-2025227;2025-10-30;2025-10;Data Scientist;Banque / Assurance;Auvergne-Rhône-Alpes;Annecy;Freelance;Junior (0-2 ans);36500;49000;42750;Hybride;Scikit-learn;Deep Learning;SQL;Python;Power BI;38
+OFR-2025228;2025-08-18;2025-08;Data Engineer;Énergie;Île-de-France;Boulogne-Billancourt;CDI;Senior (5+ ans);71000;106000;88500;Hybride;ETL;Cloud (AWS/Azure/GCP);Spark;Docker;Airflow;44
+OFR-2025229;2025-11-17;2025-11;Data Analyst;Télécoms;Grand Est;Strasbourg;Alternance;Confirmé (3-5 ans);930;1090;1010;Hybride;Excel;Power Query;Python;DAX;;26
+OFR-2025230;2025-10-15;2025-10;Data Analyst;Tech / Scale-up;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Full remote;Python;SQL;Tableau;Excel;;40
+OFR-2025231;2025-11-05;2025-11;Data Scientist;Industrie;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Deep Learning;Pandas;Python;Machine Learning;Scikit-learn;34
+OFR-2025232;2025-08-22;2025-08;Data Scientist;Énergie;Île-de-France;Saint-Denis;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;Power BI;Scikit-learn;Pandas;Machine Learning;;63
+OFR-2025233;2025-08-08;2025-08;AI Engineer;Conseil / ESN;Île-de-France;Paris;CDI;Senior (5+ ans);71000;106000;88500;Full remote;RAG;Cloud (AWS/Azure/GCP);Python;LangChain;;13
+OFR-2025234;2026-04-20;2026-04;Chef de Projet Data/IA;Tech / Scale-up;Île-de-France;Nanterre;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Gestion de projet;KPI;Agile/Scrum;Python;;39
+OFR-2025235;2026-05-12;2026-05;BI Analyst / Développeur Power BI;Santé;Auvergne-Rhône-Alpes;Lyon;Alternance;Junior (0-2 ans);1020;1167;1094;Sur site;Power Query;SQL;DAX;Power BI;;27
+OFR-2025236;2026-04-05;2026-04;ML Engineer;Transport / Logistique;Pays de la Loire;Le Mans;CDI;Junior (0-2 ans);34000;45500;39750;Sur site;Cloud (AWS/Azure/GCP);MLOps;TensorFlow/PyTorch;;;62
+OFR-2025237;2025-07-14;2025-07;Data Analyst;Retail / E-commerce;Auvergne-Rhône-Alpes;Annecy;CDI;Senior (5+ ans);62500;93500;78000;Hybride;Tableau;Power Query;Excel;Python;;32
+OFR-2025238;2026-06-02;2026-06;Data Engineer;Banque / Assurance;Île-de-France;Saint-Denis;CDD;Confirmé (3-5 ans);55500;76500;66000;Hybride;Docker;Airflow;Python;Cloud (AWS/Azure/GCP);;27
+OFR-2025239;2026-06-23;2026-06;Data Scientist;Banque / Assurance;Grand Est;Nancy;Alternance;Senior (5+ ans);1390;1589;1490;Sur site;Power BI;Machine Learning;Deep Learning;Pandas;;34
+OFR-2025240;2026-05-05;2026-05;BI Analyst / Développeur Power BI;Télécoms;Île-de-France;Saint-Denis;Alternance;Confirmé (3-5 ans);990;1216;1103;Hybride;Power Query;DAX;SQL;Power BI;Excel;26
+OFR-2025241;2025-09-11;2025-09;Data Analyst;Télécoms;Pays de la Loire;Angers;CDI;Junior (0-2 ans);34000;45500;39750;Sur site;Power BI;Excel;SQL;Tableau;Python;61
+OFR-2025242;2025-09-19;2025-09;Data Analyst;Industrie;Occitanie;Montpellier;CDI;Senior (5+ ans);60000;90000;75000;Hybride;Tableau;SQL;Excel;Power Query;;58
+OFR-2025243;2026-06-18;2026-06;Chef de Projet Data/IA;Retail / E-commerce;PACA;Nice;CDI;Senior (5+ ans);61000;92000;76500;Hybride;Python;SQL;Power BI;KPI;Gestion de projet;30
+OFR-2025244;2026-04-16;2026-04;Data Analyst;Télécoms;PACA;Aix-en-Provence;CDI;Senior (5+ ans);61000;92000;76500;Hybride;SQL;Power BI;Tableau;Excel;Python;18
+OFR-2025245;2026-06-20;2026-06;Chef de Projet Data/IA;Conseil / ESN;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Gestion de projet;SQL;Agile/Scrum;KPI;Power BI;16
+OFR-2025246;2026-01-09;2026-01;Data Scientist;Banque / Assurance;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;Machine Learning;Scikit-learn;Deep Learning;Pandas;;18
+OFR-2025247;2025-08-23;2025-08;BI Analyst / Développeur Power BI;Conseil / ESN;PACA;Aix-en-Provence;CDI;Junior (0-2 ans);35500;48000;41750;Hybride;Power Query;Power BI;Excel;;;16
+OFR-2025248;2026-06-26;2026-06;Data Scientist;Industrie;Bretagne;Rennes;CDI;Senior (5+ ans);57500;86500;72000;Full remote;SQL;Pandas;Deep Learning;;;13
+OFR-2025249;2026-04-03;2026-04;Data Engineer;Tech / Scale-up;Nouvelle-Aquitaine;Poitiers;CDI;Junior (0-2 ans);34500;46000;40250;Sur site;ETL;Cloud (AWS/Azure/GCP);Airflow;;;28
+OFR-2025250;2025-11-28;2025-11;ML Engineer;Banque / Assurance;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;MLOps;Python;Docker;TensorFlow/PyTorch;;64
+OFR-2025251;2026-02-27;2026-02;ML Engineer;Industrie;Nouvelle-Aquitaine;Bordeaux;CDI;Junior (0-2 ans);34500;46000;40250;Sur site;Python;Cloud (AWS/Azure/GCP);Git/CI-CD;MLOps;;43
+OFR-2025252;2025-11-12;2025-11;BI Analyst / Développeur Power BI;Tech / Scale-up;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;SQL;Power BI;Power Query;;;26
+OFR-2025253;2026-03-25;2026-03;BI Analyst / Développeur Power BI;Industrie;Occitanie;Toulouse;CDI;Junior (0-2 ans);35000;47000;41000;Sur site;SQL;KPI;DAX;Power Query;Power BI;38
+OFR-2025254;2025-09-24;2025-09;Chef de Projet Data/IA;Télécoms;Hauts-de-France;Amiens;Stage;Confirmé (3-5 ans);880;1081;980;Hybride;Gestion de projet;Python;Power BI;KPI;Agile/Scrum;25
+OFR-2025255;2026-04-11;2026-04;BI Analyst / Développeur Power BI;Industrie;Île-de-France;Nanterre;Freelance;Confirmé (3-5 ans);55500;76500;66000;Hybride;DAX;KPI;Power Query;Excel;Power BI;37
+OFR-2025256;2026-04-28;2026-04;Data Engineer;Banque / Assurance;Bretagne;Brest;CDD;Confirmé (3-5 ans);45000;62500;53750;Hybride;Docker;ETL;SQL;Cloud (AWS/Azure/GCP);Airflow;49
+OFR-2025257;2026-05-08;2026-05;AI Engineer;Télécoms;Normandie;Rouen;CDD;Senior (5+ ans);56500;84500;70500;Hybride;LangChain;NLP;Cloud (AWS/Azure/GCP);RAG;Hugging Face;42
+OFR-2025258;2026-01-07;2026-01;Data Analyst;Télécoms;Île-de-France;Boulogne-Billancourt;Alternance;Confirmé (3-5 ans);840;1041;940;Full remote;DAX;Power BI;SQL;Python;;13
+OFR-2025259;2025-12-12;2025-12;Data Scientist;Énergie;PACA;Nice;CDD;Senior (5+ ans);61000;92000;76500;Hybride;Python;Machine Learning;Deep Learning;SQL;Scikit-learn;29
+OFR-2025260;2026-03-21;2026-03;AI Engineer;Conseil / ESN;Nouvelle-Aquitaine;Bordeaux;CDI;Senior (5+ ans);59000;88000;73500;Sur site;RAG;NLP;Hugging Face;LangChain;;62
+OFR-2025261;2026-02-19;2026-02;Data Analyst;Santé;Auvergne-Rhône-Alpes;Annecy;CDI;Senior (5+ ans);62500;93500;78000;Hybride;SQL;Power BI;DAX;Tableau;Power Query;15
+OFR-2025262;2025-09-29;2025-09;BI Analyst / Développeur Power BI;Retail / E-commerce;Hauts-de-France;Amiens;CDD;Confirmé (3-5 ans);44500;62000;53250;Sur site;Power BI;Excel;DAX;SQL;Power Query;42
+OFR-2025263;2026-05-28;2026-05;Data Engineer;Énergie;Auvergne-Rhône-Alpes;Lyon;Alternance;Confirmé (3-5 ans);1090;1197;1144;Full remote;SQL;Python;Airflow;Cloud (AWS/Azure/GCP);;26
+OFR-2025264;2025-07-05;2025-07;ML Engineer;Secteur public;Île-de-France;Nanterre;CDI;Senior (5+ ans);71000;106000;88500;Sur site;Python;Cloud (AWS/Azure/GCP);MLOps;Docker;Git/CI-CD;26
+OFR-2025265;2026-03-24;2026-03;Data Scientist;Énergie;Grand Est;Reims;CDI;Junior (0-2 ans);33500;45000;39250;Hybride;Scikit-learn;SQL;Machine Learning;Power BI;;64
+OFR-2025266;2026-03-04;2026-03;ML Engineer;Secteur public;Occitanie;Toulouse;Freelance;Senior (5+ ans);60000;90000;75000;Sur site;TensorFlow/PyTorch;Git/CI-CD;Docker;MLOps;;16
+OFR-2025267;2026-05-04;2026-05;Data Scientist;Énergie;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;SQL;Machine Learning;Deep Learning;Pandas;Python;37
+OFR-2025268;2026-04-19;2026-04;ML Engineer;Transport / Logistique;Hauts-de-France;Lille;Freelance;Junior (0-2 ans);33000;44500;38750;Sur site;Cloud (AWS/Azure/GCP);Git/CI-CD;Python;Docker;;64
+OFR-2025269;2026-02-27;2026-02;Data Analyst;Secteur public;Hauts-de-France;Lille;Alternance;Confirmé (3-5 ans);1170;1399;1284;Hybride;Power Query;Power BI;Tableau;DAX;;20
+OFR-2025270;2026-02-23;2026-02;AI Engineer;Retail / E-commerce;Hauts-de-France;Lille;Alternance;Junior (0-2 ans);1030;1320;1175;Sur site;NLP;LangChain;RAG;Hugging Face;;19
+OFR-2025271;2025-12-23;2025-12;Data Engineer;Transport / Logistique;Bretagne;Rennes;Stage;Confirmé (3-5 ans);1190;1425;1308;Full remote;ETL;SQL;Python;Airflow;;38
+OFR-2025272;2025-07-30;2025-07;Chef de Projet Data/IA;Tech / Scale-up;Bretagne;Brest;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;Agile/Scrum;SQL;Power BI;;;12
+OFR-2025273;2026-01-13;2026-01;Data Engineer;Télécoms;Île-de-France;Boulogne-Billancourt;Alternance;Confirmé (3-5 ans);890;1023;956;Full remote;ETL;Cloud (AWS/Azure/GCP);Docker;Airflow;Python;12
+OFR-2025274;2025-12-24;2025-12;Data Analyst;Banque / Assurance;Île-de-France;Saint-Denis;Stage;Confirmé (3-5 ans);1340;1488;1414;Hybride;DAX;SQL;Power BI;;;31
+OFR-2025275;2026-06-17;2026-06;Data Analyst;Énergie;Auvergne-Rhône-Alpes;Annecy;CDI;Senior (5+ ans);62500;93500;78000;Hybride;Excel;Python;Tableau;Power Query;;20
+OFR-2025276;2025-07-12;2025-07;Data Scientist;Conseil / ESN;Bretagne;Brest;CDI;Senior (5+ ans);57500;86500;72000;Hybride;Python;Machine Learning;Deep Learning;Pandas;;49
+OFR-2025277;2025-07-11;2025-07;Data Engineer;Santé;Île-de-France;Paris;Stage;Junior (0-2 ans);1350;1609;1480;Sur site;Airflow;SQL;Cloud (AWS/Azure/GCP);;;15
+OFR-2025278;2025-08-21;2025-08;ML Engineer;Industrie;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Hybride;MLOps;Python;Docker;;;54
+OFR-2025279;2026-05-08;2026-05;Data Engineer;Santé;Nouvelle-Aquitaine;Bordeaux;CDD;Junior (0-2 ans);34500;46000;40250;Hybride;Airflow;SQL;Spark;Cloud (AWS/Azure/GCP);ETL;24
+OFR-2025280;2025-07-07;2025-07;AI Engineer;Retail / E-commerce;Grand Est;Strasbourg;Alternance;Junior (0-2 ans);840;1080;960;Hybride;LLM;RAG;NLP;LangChain;;54
+OFR-2025281;2025-07-26;2025-07;Data Analyst;Tech / Scale-up;Île-de-France;Nanterre;Stage;Senior (5+ ans);880;1165;1022;Hybride;SQL;Excel;Power BI;Python;Tableau;18
+OFR-2025282;2025-09-26;2025-09;BI Analyst / Développeur Power BI;Retail / E-commerce;Bretagne;Brest;CDD;Junior (0-2 ans);33500;45000;39250;Sur site;Power BI;Excel;KPI;SQL;Power Query;33
+OFR-2025283;2026-01-14;2026-01;Data Scientist;Énergie;Pays de la Loire;Le Mans;Stage;Junior (0-2 ans);1150;1296;1223;Hybride;Scikit-learn;Power BI;Deep Learning;;;56
+OFR-2025284;2026-03-05;2026-03;BI Analyst / Développeur Power BI;Tech / Scale-up;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Full remote;DAX;Power BI;SQL;;;63
+OFR-2025285;2026-01-27;2026-01;Data Engineer;Santé;Pays de la Loire;Le Mans;CDD;Confirmé (3-5 ans);45500;63000;54250;Hybride;Docker;Cloud (AWS/Azure/GCP);Python;ETL;Airflow;40
+OFR-2025286;2025-11-05;2025-11;Data Analyst;Banque / Assurance;Île-de-France;Saint-Denis;Alternance;Confirmé (3-5 ans);1390;1675;1532;Sur site;Power BI;DAX;Excel;SQL;Power Query;42
+OFR-2025287;2025-08-08;2025-08;Data Scientist;Tech / Scale-up;Hauts-de-France;Amiens;CDD;Confirmé (3-5 ans);44500;62000;53250;Full remote;Python;Power BI;Machine Learning;Scikit-learn;Pandas;60
+OFR-2025288;2026-04-20;2026-04;Data Engineer;Banque / Assurance;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;ETL;Python;SQL;Docker;;40
+OFR-2025289;2026-04-08;2026-04;Data Analyst;Industrie;Pays de la Loire;Angers;Freelance;Confirmé (3-5 ans);45500;63000;54250;Hybride;SQL;Python;DAX;;;12
+OFR-2025290;2026-05-14;2026-05;BI Analyst / Développeur Power BI;Énergie;PACA;Aix-en-Provence;Stage;Confirmé (3-5 ans);1270;1457;1364;Sur site;Power BI;DAX;SQL;KPI;;50
+OFR-2025291;2026-01-08;2026-01;Data Engineer;Industrie;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Spark;Docker;Cloud (AWS/Azure/GCP);;;56
+OFR-2025292;2026-01-18;2026-01;Data Analyst;Tech / Scale-up;Bretagne;Brest;CDD;Confirmé (3-5 ans);45000;62500;53750;Hybride;SQL;Excel;Tableau;Power BI;;25
+OFR-2025293;2026-04-28;2026-04;Data Engineer;Retail / E-commerce;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;Docker;Cloud (AWS/Azure/GCP);Airflow;SQL;Python;44
+OFR-2025294;2025-08-23;2025-08;Data Analyst;Banque / Assurance;Pays de la Loire;Le Mans;Alternance;Confirmé (3-5 ans);1400;1623;1512;Sur site;Power Query;Power BI;Tableau;DAX;Excel;36
+OFR-2025295;2026-05-05;2026-05;ML Engineer;Secteur public;Nouvelle-Aquitaine;Poitiers;Stage;Confirmé (3-5 ans);1050;1220;1135;Hybride;Docker;Git/CI-CD;Cloud (AWS/Azure/GCP);Python;;56
+OFR-2025296;2026-05-23;2026-05;BI Analyst / Développeur Power BI;Secteur public;Occitanie;Montpellier;Alternance;Junior (0-2 ans);1100;1375;1238;Hybride;Excel;DAX;KPI;Power Query;;32
+OFR-2025297;2025-09-13;2025-09;ML Engineer;Transport / Logistique;PACA;Aix-en-Provence;Alternance;Senior (5+ ans);1230;1502;1366;Hybride;TensorFlow/PyTorch;Docker;Cloud (AWS/Azure/GCP);Python;Git/CI-CD;15
+OFR-2025298;2025-08-22;2025-08;ML Engineer;Énergie;Île-de-France;Boulogne-Billancourt;Alternance;Junior (0-2 ans);860;1136;998;Sur site;MLOps;TensorFlow/PyTorch;Python;Git/CI-CD;;51
+OFR-2025299;2026-06-16;2026-06;BI Analyst / Développeur Power BI;Secteur public;PACA;Marseille;CDI;Confirmé (3-5 ans);48000;66500;57250;Full remote;Power Query;Power BI;SQL;DAX;Excel;32
+OFR-2025300;2025-09-29;2025-09;Chef de Projet Data/IA;Conseil / ESN;Île-de-France;Saint-Denis;Alternance;Senior (5+ ans);1250;1407;1328;Hybride;KPI;SQL;Power BI;Python;Gestion de projet;55
+OFR-2025301;2026-02-24;2026-02;Data Analyst;Santé;Centre-Val de Loire;Tours;CDI;Junior (0-2 ans);32500;43500;38000;Hybride;Power BI;Power Query;Tableau;Excel;;57
+OFR-2025302;2026-06-28;2026-06;Chef de Projet Data/IA;Télécoms;Île-de-France;Saint-Denis;CDI;Senior (5+ ans);71000;106000;88500;Hybride;KPI;SQL;Agile/Scrum;Python;Power BI;32
+OFR-2025303;2025-12-17;2025-12;Data Engineer;Secteur public;Centre-Val de Loire;Tours;CDI;Confirmé (3-5 ans);43500;60500;52000;Sur site;SQL;Spark;Python;Airflow;;35
+OFR-2025304;2026-05-25;2026-05;Data Scientist;Secteur public;Normandie;Caen;CDD;Senior (5+ ans);56500;84500;70500;Hybride;Python;Deep Learning;SQL;;;51
+OFR-2025305;2026-03-22;2026-03;BI Analyst / Développeur Power BI;Retail / E-commerce;Île-de-France;Paris;CDI;Senior (5+ ans);71000;106000;88500;Hybride;SQL;Power Query;KPI;;;64
+OFR-2025306;2025-09-24;2025-09;AI Engineer;Transport / Logistique;Occitanie;Montpellier;CDI;Senior (5+ ans);60000;90000;75000;Full remote;LangChain;Hugging Face;Python;;;61
+OFR-2025307;2025-08-06;2025-08;Data Engineer;Conseil / ESN;Île-de-France;Paris;Alternance;Senior (5+ ans);1230;1356;1293;Sur site;Airflow;Cloud (AWS/Azure/GCP);ETL;;;59
+OFR-2025308;2026-02-16;2026-02;ML Engineer;Banque / Assurance;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;TensorFlow/PyTorch;Python;MLOps;Cloud (AWS/Azure/GCP);;52
+OFR-2025309;2025-12-31;2025-12;Data Scientist;Industrie;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Sur site;Python;Deep Learning;Pandas;Power BI;SQL;44
+OFR-2025310;2025-10-21;2025-10;Data Analyst;Télécoms;PACA;Nice;CDI;Senior (5+ ans);61000;92000;76500;Hybride;Python;Power Query;SQL;DAX;;20
+OFR-2025311;2025-09-11;2025-09;AI Engineer;Énergie;PACA;Aix-en-Provence;Freelance;Junior (0-2 ans);35500;48000;41750;Full remote;Cloud (AWS/Azure/GCP);RAG;LangChain;Python;Hugging Face;19
+OFR-2025312;2026-05-27;2026-05;Data Analyst;Secteur public;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;DAX;Power Query;Excel;;;44
+OFR-2025313;2025-11-26;2025-11;Data Analyst;Conseil / ESN;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Power Query;SQL;Tableau;Python;Excel;54
+OFR-2025314;2025-10-08;2025-10;Data Analyst;Retail / E-commerce;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;SQL;Excel;Tableau;;;32
+OFR-2025315;2025-10-22;2025-10;Data Engineer;Énergie;Auvergne-Rhône-Alpes;Annecy;Alternance;Junior (0-2 ans);1380;1573;1476;Hybride;ETL;Python;SQL;Spark;;57
+OFR-2025316;2026-05-07;2026-05;AI Engineer;Tech / Scale-up;Pays de la Loire;Angers;Alternance;Junior (0-2 ans);1290;1508;1399;Hybride;LangChain;Cloud (AWS/Azure/GCP);NLP;Python;;17
+OFR-2025317;2026-04-23;2026-04;BI Analyst / Développeur Power BI;Secteur public;Bretagne;Rennes;CDI;Confirmé (3-5 ans);45000;62500;53750;Sur site;Power BI;Excel;KPI;Power Query;SQL;37
+OFR-2025318;2026-04-28;2026-04;AI Engineer;Secteur public;Île-de-France;Paris;CDI;Senior (5+ ans);71000;106000;88500;Hybride;NLP;RAG;LLM;LangChain;Hugging Face;58
+OFR-2025319;2025-09-30;2025-09;BI Analyst / Développeur Power BI;Santé;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;KPI;DAX;Excel;;;48
+OFR-2025320;2025-10-14;2025-10;Chef de Projet Data/IA;Transport / Logistique;Nouvelle-Aquitaine;Bordeaux;Stage;Junior (0-2 ans);1300;1459;1380;Hybride;SQL;KPI;Power BI;;;45
+OFR-2025321;2026-01-10;2026-01;BI Analyst / Développeur Power BI;Transport / Logistique;Auvergne-Rhône-Alpes;Grenoble;Stage;Junior (0-2 ans);1130;1256;1193;Hybride;KPI;Power Query;Excel;SQL;Power BI;35
+OFR-2025322;2025-12-24;2025-12;Data Engineer;Secteur public;Bretagne;Rennes;CDI;Senior (5+ ans);57500;86500;72000;Sur site;Airflow;ETL;Spark;;;43
+OFR-2025323;2026-05-05;2026-05;AI Engineer;Secteur public;Bretagne;Rennes;Stage;Confirmé (3-5 ans);1040;1159;1100;Hybride;RAG;LangChain;LLM;Hugging Face;Python;57
+OFR-2025324;2025-07-23;2025-07;BI Analyst / Développeur Power BI;Retail / E-commerce;Nouvelle-Aquitaine;Poitiers;Alternance;Confirmé (3-5 ans);1290;1512;1401;Hybride;KPI;DAX;SQL;;;20
+OFR-2025325;2026-05-23;2026-05;Data Engineer;Télécoms;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Full remote;Airflow;ETL;Docker;;;13
+OFR-2025326;2026-04-25;2026-04;BI Analyst / Développeur Power BI;Industrie;PACA;Nice;CDI;Confirmé (3-5 ans);48000;66500;57250;Sur site;SQL;DAX;KPI;Excel;;64
+OFR-2025327;2025-10-12;2025-10;AI Engineer;Tech / Scale-up;Nouvelle-Aquitaine;Poitiers;Alternance;Junior (0-2 ans);1260;1512;1386;Hybride;Python;LLM;NLP;Hugging Face;Cloud (AWS/Azure/GCP);45
+OFR-2025328;2026-04-03;2026-04;BI Analyst / Développeur Power BI;Tech / Scale-up;Pays de la Loire;Angers;Alternance;Junior (0-2 ans);840;1140;990;Full remote;KPI;Power BI;Excel;DAX;SQL;64
+OFR-2025329;2026-06-22;2026-06;Data Analyst;Secteur public;Normandie;Caen;CDI;Senior (5+ ans);56500;84500;70500;Hybride;Tableau;Python;Power BI;DAX;Power Query;48
+OFR-2025330;2026-01-09;2026-01;Data Analyst;Conseil / ESN;Île-de-France;Nanterre;Stage;Junior (0-2 ans);1360;1564;1462;Hybride;Power BI;SQL;DAX;Tableau;;53
+OFR-2025331;2025-11-19;2025-11;Data Analyst;Retail / E-commerce;Grand Est;Reims;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;Excel;Power Query;Tableau;Python;DAX;55
+OFR-2025332;2026-06-03;2026-06;Data Scientist;Tech / Scale-up;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;SQL;Pandas;Power BI;Scikit-learn;;19
+OFR-2025333;2026-05-22;2026-05;AI Engineer;Tech / Scale-up;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Hybride;Cloud (AWS/Azure/GCP);Hugging Face;RAG;Python;;12
+OFR-2025334;2026-01-22;2026-01;BI Analyst / Développeur Power BI;Télécoms;Grand Est;Reims;CDI;Junior (0-2 ans);33500;45000;39250;Sur site;Power Query;Power BI;KPI;;;51
+OFR-2025335;2026-06-11;2026-06;ML Engineer;Tech / Scale-up;Île-de-France;Paris;Alternance;Confirmé (3-5 ans);1010;1278;1144;Sur site;Docker;MLOps;Python;Git/CI-CD;Cloud (AWS/Azure/GCP);14
+OFR-2025336;2026-06-26;2026-06;Data Scientist;Industrie;Nouvelle-Aquitaine;Bordeaux;Freelance;Senior (5+ ans);59000;88000;73500;Hybride;Deep Learning;Scikit-learn;Power BI;Machine Learning;;16
+OFR-2025337;2026-01-25;2026-01;BI Analyst / Développeur Power BI;Retail / E-commerce;Occitanie;Montpellier;Freelance;Junior (0-2 ans);35000;47000;41000;Hybride;DAX;SQL;KPI;Power Query;Power BI;44
+OFR-2025338;2025-11-02;2025-11;Data Analyst;Retail / E-commerce;Île-de-France;Saint-Denis;Stage;Senior (5+ ans);1060;1297;1178;Hybride;Excel;DAX;Python;Tableau;Power Query;60
+OFR-2025339;2026-01-28;2026-01;Data Scientist;Transport / Logistique;PACA;Aix-en-Provence;Stage;Senior (5+ ans);1290;1419;1354;Sur site;Python;Scikit-learn;Machine Learning;Pandas;;34
+OFR-2025340;2025-10-20;2025-10;Data Engineer;Conseil / ESN;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;Docker;Spark;SQL;Python;ETL;48
+OFR-2025341;2025-12-30;2025-12;Data Scientist;Transport / Logistique;Normandie;Rouen;Alternance;Junior (0-2 ans);1050;1217;1134;Sur site;Machine Learning;Power BI;Deep Learning;;;21
+OFR-2025342;2026-04-21;2026-04;AI Engineer;Transport / Logistique;Île-de-France;Paris;Alternance;Senior (5+ ans);1350;1460;1405;Full remote;LangChain;Hugging Face;Cloud (AWS/Azure/GCP);NLP;;29
+OFR-2025343;2025-07-17;2025-07;Data Engineer;Santé;Centre-Val de Loire;Orléans;CDI;Confirmé (3-5 ans);43500;60500;52000;Full remote;Airflow;ETL;Cloud (AWS/Azure/GCP);;;44
+OFR-2025344;2026-01-11;2026-01;Data Scientist;Transport / Logistique;Bretagne;Rennes;Freelance;Confirmé (3-5 ans);45000;62500;53750;Sur site;SQL;Deep Learning;Python;Pandas;;49
+OFR-2025345;2025-10-16;2025-10;Data Analyst;Tech / Scale-up;Auvergne-Rhône-Alpes;Grenoble;CDI;Junior (0-2 ans);36500;49000;42750;Hybride;Tableau;Excel;DAX;Power BI;;38
+OFR-2025346;2026-04-11;2026-04;ML Engineer;Énergie;Auvergne-Rhône-Alpes;Grenoble;CDI;Confirmé (3-5 ans);49000;67500;58250;Sur site;Git/CI-CD;MLOps;Python;Docker;TensorFlow/PyTorch;39
+OFR-2025347;2026-04-14;2026-04;BI Analyst / Développeur Power BI;Transport / Logistique;Île-de-France;Boulogne-Billancourt;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;DAX;KPI;Power Query;Excel;;48
+OFR-2025348;2026-04-12;2026-04;Data Analyst;Banque / Assurance;Île-de-France;Boulogne-Billancourt;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;SQL;Python;Excel;Tableau;Power BI;63
+OFR-2025349;2025-11-23;2025-11;Data Scientist;Retail / E-commerce;Île-de-France;Paris;CDD;Senior (5+ ans);71000;106000;88500;Hybride;Pandas;Power BI;Deep Learning;;;34
+OFR-2025350;2026-01-24;2026-01;Data Scientist;Industrie;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Sur site;Machine Learning;Power BI;SQL;Scikit-learn;Pandas;16
+OFR-2025351;2025-10-03;2025-10;Data Analyst;Retail / E-commerce;Auvergne-Rhône-Alpes;Grenoble;Alternance;Confirmé (3-5 ans);1200;1369;1284;Hybride;Power Query;Excel;Tableau;Python;;13
+OFR-2025352;2026-01-20;2026-01;Data Analyst;Industrie;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;SQL;Python;Tableau;;;45
+OFR-2025353;2025-09-03;2025-09;AI Engineer;Télécoms;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;LangChain;LLM;RAG;Cloud (AWS/Azure/GCP);;20
+OFR-2025354;2026-06-23;2026-06;Data Engineer;Retail / E-commerce;Île-de-France;Paris;CDD;Junior (0-2 ans);41500;55500;48500;Hybride;ETL;Airflow;Spark;Docker;;46
+OFR-2025355;2025-09-18;2025-09;Data Analyst;Secteur public;Nouvelle-Aquitaine;Poitiers;Alternance;Confirmé (3-5 ans);1160;1383;1272;Hybride;Power BI;SQL;Python;Excel;Power Query;31
+OFR-2025356;2026-05-02;2026-05;Data Analyst;Retail / E-commerce;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Sur site;Python;Power Query;Excel;SQL;Power BI;26
+OFR-2025357;2026-02-02;2026-02;AI Engineer;Santé;Occitanie;Toulouse;Stage;Confirmé (3-5 ans);1060;1201;1130;Hybride;RAG;Cloud (AWS/Azure/GCP);NLP;Hugging Face;Python;52
+OFR-2025358;2025-08-26;2025-08;Data Scientist;Énergie;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;Scikit-learn;Machine Learning;Python;Deep Learning;;52
+OFR-2025359;2025-08-22;2025-08;Data Engineer;Télécoms;Pays de la Loire;Le Mans;CDI;Junior (0-2 ans);34000;45500;39750;Hybride;SQL;Airflow;Docker;;;30
+OFR-2025360;2026-03-13;2026-03;Data Scientist;Conseil / ESN;Hauts-de-France;Lille;CDI;Junior (0-2 ans);33000;44500;38750;Sur site;SQL;Scikit-learn;Power BI;;;35
+OFR-2025361;2025-10-01;2025-10;Data Engineer;Industrie;PACA;Nice;CDD;Senior (5+ ans);61000;92000;76500;Hybride;Spark;ETL;SQL;;;24
+OFR-2025362;2025-07-18;2025-07;BI Analyst / Développeur Power BI;Banque / Assurance;Île-de-France;Nanterre;CDI;Senior (5+ ans);71000;106000;88500;Sur site;SQL;Excel;DAX;;;24
+OFR-2025363;2026-05-23;2026-05;Data Engineer;Conseil / ESN;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Hybride;Spark;Python;SQL;Airflow;;31
+OFR-2025364;2025-11-02;2025-11;Data Analyst;Industrie;Bretagne;Rennes;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;Power BI;Excel;Tableau;;;12
+OFR-2025365;2025-12-21;2025-12;Chef de Projet Data/IA;Télécoms;Occitanie;Montpellier;CDI;Senior (5+ ans);60000;90000;75000;Sur site;Power BI;Agile/Scrum;Gestion de projet;;;60
+OFR-2025366;2026-02-10;2026-02;ML Engineer;Secteur public;Île-de-France;Boulogne-Billancourt;CDD;Junior (0-2 ans);41500;55500;48500;Sur site;Docker;TensorFlow/PyTorch;Git/CI-CD;;;58
+OFR-2025367;2026-04-05;2026-04;Data Analyst;Tech / Scale-up;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Sur site;Python;Tableau;Excel;Power Query;SQL;34
+OFR-2025368;2026-05-23;2026-05;Data Scientist;Secteur public;Pays de la Loire;Le Mans;CDI;Confirmé (3-5 ans);45500;63000;54250;Hybride;SQL;Power BI;Pandas;Deep Learning;;44
+OFR-2025369;2026-04-02;2026-04;Data Scientist;Télécoms;Île-de-France;Paris;CDD;Senior (5+ ans);71000;106000;88500;Sur site;SQL;Deep Learning;Python;;;64
+OFR-2025370;2025-08-04;2025-08;Data Scientist;Secteur public;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Deep Learning;SQL;Python;Pandas;;14
+OFR-2025371;2026-06-25;2026-06;BI Analyst / Développeur Power BI;Conseil / ESN;Île-de-France;Paris;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;KPI;SQL;Excel;;;49
+OFR-2025372;2026-01-29;2026-01;Data Scientist;Industrie;Auvergne-Rhône-Alpes;Annecy;CDI;Senior (5+ ans);62500;93500;78000;Sur site;Scikit-learn;Python;Power BI;Deep Learning;Machine Learning;64
+OFR-2025373;2025-10-27;2025-10;Data Scientist;Secteur public;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Hybride;Python;Machine Learning;Pandas;Power BI;;46
+OFR-2025374;2026-06-06;2026-06;Data Scientist;Télécoms;Île-de-France;Boulogne-Billancourt;Alternance;Junior (0-2 ans);1370;1576;1473;Hybride;Python;Deep Learning;Pandas;SQL;Scikit-learn;39
+OFR-2025375;2025-12-09;2025-12;BI Analyst / Développeur Power BI;Secteur public;Île-de-France;Boulogne-Billancourt;CDI;Junior (0-2 ans);41500;55500;48500;Full remote;KPI;Excel;SQL;;;47
+OFR-2025376;2026-04-08;2026-04;Chef de Projet Data/IA;Santé;Auvergne-Rhône-Alpes;Grenoble;Alternance;Confirmé (3-5 ans);1130;1385;1258;Hybride;Python;KPI;Power BI;;;59
+OFR-2025377;2025-12-02;2025-12;Data Scientist;Santé;Centre-Val de Loire;Orléans;CDI;Junior (0-2 ans);32500;43500;38000;Full remote;Pandas;Python;Power BI;Machine Learning;;12
+OFR-2025378;2026-02-21;2026-02;Data Scientist;Banque / Assurance;Île-de-France;Saint-Denis;CDD;Senior (5+ ans);71000;106000;88500;Hybride;Pandas;Power BI;Deep Learning;Machine Learning;;34
+OFR-2025379;2026-03-05;2026-03;Data Analyst;Conseil / ESN;Île-de-France;Boulogne-Billancourt;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Python;Tableau;Power BI;SQL;Excel;23
+OFR-2025380;2026-02-08;2026-02;Data Engineer;Télécoms;Bretagne;Rennes;Alternance;Junior (0-2 ans);1390;1587;1488;Hybride;Docker;SQL;Spark;;;38
+OFR-2025381;2025-12-15;2025-12;Chef de Projet Data/IA;Télécoms;Île-de-France;Boulogne-Billancourt;Stage;Confirmé (3-5 ans);1190;1303;1246;Sur site;Python;Gestion de projet;SQL;Agile/Scrum;;44
+OFR-2025382;2026-03-01;2026-03;ML Engineer;Transport / Logistique;Île-de-France;Nanterre;Alternance;Confirmé (3-5 ans);890;1046;968;Hybride;Docker;Cloud (AWS/Azure/GCP);MLOps;Python;;48
+OFR-2025383;2026-04-19;2026-04;AI Engineer;Industrie;Occitanie;Montpellier;CDI;Confirmé (3-5 ans);47000;65000;56000;Hybride;LLM;Cloud (AWS/Azure/GCP);NLP;RAG;Hugging Face;24
+OFR-2025384;2026-02-02;2026-02;Data Engineer;Conseil / ESN;Centre-Val de Loire;Tours;CDI;Senior (5+ ans);56000;83500;69750;Sur site;Cloud (AWS/Azure/GCP);Airflow;SQL;Docker;;35
+OFR-2025385;2025-10-28;2025-10;Data Scientist;Banque / Assurance;Auvergne-Rhône-Alpes;Annecy;Alternance;Junior (0-2 ans);1160;1417;1288;Full remote;Pandas;Machine Learning;Scikit-learn;Python;;24
+OFR-2025386;2025-07-12;2025-07;ML Engineer;Industrie;Île-de-France;Paris;Alternance;Junior (0-2 ans);950;1123;1036;Hybride;Docker;Python;Git/CI-CD;;;33
+OFR-2025387;2026-06-05;2026-06;Data Analyst;Secteur public;Occitanie;Toulouse;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Tableau;DAX;Power BI;SQL;;45
+OFR-2025388;2026-06-04;2026-06;Data Analyst;Conseil / ESN;Île-de-France;Saint-Denis;CDD;Confirmé (3-5 ans);55500;76500;66000;Hybride;Python;DAX;SQL;;;29
+OFR-2025389;2026-03-06;2026-03;ML Engineer;Industrie;Normandie;Caen;CDI;Senior (5+ ans);56500;84500;70500;Full remote;Cloud (AWS/Azure/GCP);MLOps;Git/CI-CD;Docker;Python;50
+OFR-2025390;2026-06-16;2026-06;Data Engineer;Secteur public;Île-de-France;Nanterre;Stage;Junior (0-2 ans);1050;1285;1168;Hybride;Spark;ETL;Cloud (AWS/Azure/GCP);Python;;34
+OFR-2025391;2025-08-14;2025-08;Data Scientist;Banque / Assurance;Île-de-France;Saint-Denis;Alternance;Senior (5+ ans);830;1072;951;Sur site;Machine Learning;Power BI;SQL;Scikit-learn;;58
+OFR-2025392;2025-09-09;2025-09;Data Scientist;Santé;Centre-Val de Loire;Tours;CDI;Junior (0-2 ans);32500;43500;38000;Hybride;Pandas;SQL;Scikit-learn;Machine Learning;;49
+OFR-2025393;2026-04-12;2026-04;Data Engineer;Énergie;Grand Est;Strasbourg;Alternance;Senior (5+ ans);940;1150;1045;Hybride;Cloud (AWS/Azure/GCP);Airflow;Python;;;46
+OFR-2025394;2025-10-03;2025-10;Chef de Projet Data/IA;Tech / Scale-up;Île-de-France;Saint-Denis;Alternance;Senior (5+ ans);1220;1425;1322;Hybride;Agile/Scrum;SQL;Power BI;Gestion de projet;;13
+OFR-2025395;2026-05-06;2026-05;AI Engineer;Télécoms;Nouvelle-Aquitaine;Poitiers;Alternance;Junior (0-2 ans);1040;1199;1120;Hybride;Python;LangChain;Cloud (AWS/Azure/GCP);NLP;Hugging Face;42
+OFR-2025396;2026-01-28;2026-01;ML Engineer;Transport / Logistique;Auvergne-Rhône-Alpes;Grenoble;CDI;Junior (0-2 ans);36500;49000;42750;Full remote;Python;Cloud (AWS/Azure/GCP);Git/CI-CD;;;26
+OFR-2025397;2025-11-04;2025-11;AI Engineer;Industrie;Centre-Val de Loire;Tours;CDI;Senior (5+ ans);56000;83500;69750;Full remote;Cloud (AWS/Azure/GCP);Hugging Face;NLP;LangChain;;39
+OFR-2025398;2026-02-19;2026-02;Data Scientist;Retail / E-commerce;Île-de-France;Nanterre;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Pandas;Power BI;Deep Learning;Python;SQL;64
+OFR-2025399;2026-02-11;2026-02;BI Analyst / Développeur Power BI;Secteur public;Bretagne;Rennes;CDI;Senior (5+ ans);57500;86500;72000;Hybride;KPI;SQL;Power BI;;;37
+OFR-2025400;2026-05-27;2026-05;BI Analyst / Développeur Power BI;Transport / Logistique;PACA;Nice;CDI;Junior (0-2 ans);35500;48000;41750;Hybride;Excel;KPI;DAX;;;40
+OFR-2025401;2025-10-12;2025-10;Data Analyst;Télécoms;Pays de la Loire;Nantes;Stage;Confirmé (3-5 ans);940;1140;1040;Hybride;Excel;Python;SQL;Power BI;;41
+OFR-2025402;2026-03-19;2026-03;Data Analyst;Tech / Scale-up;Auvergne-Rhône-Alpes;Annecy;Alternance;Junior (0-2 ans);920;1200;1060;Sur site;DAX;Excel;SQL;Python;;51
+OFR-2025403;2025-07-27;2025-07;Chef de Projet Data/IA;Banque / Assurance;Auvergne-Rhône-Alpes;Grenoble;Alternance;Senior (5+ ans);1380;1648;1514;Sur site;Power BI;KPI;Python;;;38
+OFR-2025404;2026-03-13;2026-03;Data Scientist;Énergie;PACA;Nice;Alternance;Junior (0-2 ans);930;1081;1006;Hybride;Pandas;SQL;Python;;;46
+OFR-2025405;2025-11-03;2025-11;BI Analyst / Développeur Power BI;Conseil / ESN;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Sur site;SQL;Excel;Power BI;Power Query;;47
+OFR-2025406;2025-08-14;2025-08;Data Scientist;Banque / Assurance;Nouvelle-Aquitaine;Bordeaux;CDI;Junior (0-2 ans);34500;46000;40250;Hybride;Python;Machine Learning;Power BI;SQL;;15
+OFR-2025407;2025-07-19;2025-07;Data Analyst;Énergie;Centre-Val de Loire;Tours;Alternance;Confirmé (3-5 ans);1390;1633;1512;Hybride;Python;DAX;Tableau;;;17
+OFR-2025408;2026-03-26;2026-03;AI Engineer;Industrie;Auvergne-Rhône-Alpes;Grenoble;Alternance;Senior (5+ ans);870;1044;957;Hybride;LLM;Python;LangChain;Hugging Face;;25
+OFR-2025409;2026-04-21;2026-04;ML Engineer;Télécoms;Nouvelle-Aquitaine;Bordeaux;Alternance;Confirmé (3-5 ans);890;1113;1002;Hybride;Git/CI-CD;TensorFlow/PyTorch;Docker;MLOps;Cloud (AWS/Azure/GCP);51
+OFR-2025410;2025-07-13;2025-07;Data Scientist;Secteur public;Île-de-France;Nanterre;Alternance;Confirmé (3-5 ans);980;1236;1108;Hybride;Deep Learning;SQL;Machine Learning;;;41
+OFR-2025411;2026-06-19;2026-06;ML Engineer;Télécoms;Île-de-France;Boulogne-Billancourt;Freelance;Confirmé (3-5 ans);55500;76500;66000;Sur site;Docker;TensorFlow/PyTorch;MLOps;Python;;30
+OFR-2025412;2026-04-18;2026-04;Data Scientist;Secteur public;Île-de-France;Saint-Denis;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Deep Learning;SQL;Power BI;;;51
+OFR-2025413;2026-02-21;2026-02;Chef de Projet Data/IA;Retail / E-commerce;Grand Est;Strasbourg;CDD;Senior (5+ ans);57500;86500;72000;Hybride;Agile/Scrum;Gestion de projet;Power BI;KPI;;46
+OFR-2025414;2025-12-29;2025-12;BI Analyst / Développeur Power BI;Banque / Assurance;Pays de la Loire;Angers;CDD;Junior (0-2 ans);34000;45500;39750;Sur site;Excel;Power Query;Power BI;SQL;DAX;16
+OFR-2025415;2025-08-29;2025-08;Chef de Projet Data/IA;Retail / E-commerce;Île-de-France;Paris;Freelance;Confirmé (3-5 ans);55500;76500;66000;Hybride;Python;KPI;Agile/Scrum;;;62
+OFR-2025416;2025-12-02;2025-12;AI Engineer;Banque / Assurance;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Hybride;LangChain;NLP;Cloud (AWS/Azure/GCP);;;23
+OFR-2025417;2026-03-26;2026-03;Data Analyst;Industrie;PACA;Marseille;CDI;Junior (0-2 ans);35500;48000;41750;Full remote;Tableau;Power BI;DAX;Excel;;31
+OFR-2025418;2025-07-23;2025-07;AI Engineer;Secteur public;Île-de-France;Paris;Alternance;Junior (0-2 ans);840;1057;948;Hybride;RAG;Hugging Face;Python;Cloud (AWS/Azure/GCP);;55
+OFR-2025419;2026-03-30;2026-03;BI Analyst / Développeur Power BI;Transport / Logistique;Bretagne;Brest;Stage;Junior (0-2 ans);1120;1225;1172;Hybride;Power Query;DAX;Excel;Power BI;SQL;32
+OFR-2025420;2025-12-11;2025-12;AI Engineer;Tech / Scale-up;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Hybride;Hugging Face;Cloud (AWS/Azure/GCP);Python;LLM;LangChain;29
+OFR-2025421;2026-06-11;2026-06;Data Analyst;Télécoms;Hauts-de-France;Amiens;CDI;Junior (0-2 ans);33000;44500;38750;Hybride;Excel;Tableau;Python;SQL;DAX;15
+OFR-2025422;2025-10-10;2025-10;Data Analyst;Santé;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Hybride;DAX;Power Query;Python;Excel;Power BI;57
+OFR-2025423;2025-10-23;2025-10;AI Engineer;Transport / Logistique;Grand Est;Strasbourg;Alternance;Junior (0-2 ans);1280;1404;1342;Hybride;LangChain;RAG;NLP;Hugging Face;;21
+OFR-2025424;2025-08-27;2025-08;BI Analyst / Développeur Power BI;Santé;Nouvelle-Aquitaine;Poitiers;CDI;Senior (5+ ans);59000;88000;73500;Hybride;Power Query;SQL;KPI;Power BI;;34
+OFR-2025425;2026-01-22;2026-01;Data Engineer;Retail / E-commerce;Grand Est;Reims;Alternance;Junior (0-2 ans);900;1103;1002;Hybride;Docker;SQL;Spark;Cloud (AWS/Azure/GCP);Python;49
+OFR-2025426;2025-09-27;2025-09;Data Scientist;Transport / Logistique;Nouvelle-Aquitaine;Bordeaux;CDI;Junior (0-2 ans);34500;46000;40250;Sur site;Pandas;Scikit-learn;Deep Learning;SQL;Power BI;54
+OFR-2025427;2026-01-24;2026-01;ML Engineer;Télécoms;PACA;Aix-en-Provence;CDD;Junior (0-2 ans);35500;48000;41750;Hybride;Cloud (AWS/Azure/GCP);Docker;Python;MLOps;Git/CI-CD;16
+OFR-2025428;2026-05-22;2026-05;Data Engineer;Retail / E-commerce;Hauts-de-France;Amiens;CDI;Confirmé (3-5 ans);44500;62000;53250;Full remote;Python;Docker;Airflow;;;63
+OFR-2025429;2026-06-13;2026-06;Data Analyst;Transport / Logistique;Île-de-France;Boulogne-Billancourt;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Python;Power BI;DAX;Excel;Tableau;31
+OFR-2025430;2025-07-28;2025-07;BI Analyst / Développeur Power BI;Industrie;Normandie;Caen;Alternance;Confirmé (3-5 ans);1320;1523;1422;Full remote;Power Query;Power BI;Excel;;;12
+OFR-2025431;2026-01-12;2026-01;ML Engineer;Industrie;Grand Est;Reims;CDD;Senior (5+ ans);57500;86500;72000;Sur site;Cloud (AWS/Azure/GCP);TensorFlow/PyTorch;Git/CI-CD;;;37
+OFR-2025432;2026-06-09;2026-06;Data Scientist;Transport / Logistique;Occitanie;Toulouse;CDI;Confirmé (3-5 ans);47000;65000;56000;Full remote;Power BI;Scikit-learn;Machine Learning;SQL;;20
+OFR-2025433;2026-06-22;2026-06;Data Analyst;Tech / Scale-up;Île-de-France;Paris;Alternance;Confirmé (3-5 ans);1250;1384;1317;Full remote;Power BI;DAX;Python;;;50
+OFR-2025434;2026-04-22;2026-04;Chef de Projet Data/IA;Secteur public;Nouvelle-Aquitaine;Poitiers;CDI;Senior (5+ ans);59000;88000;73500;Sur site;SQL;Power BI;Python;Agile/Scrum;;43
+OFR-2025435;2025-08-10;2025-08;BI Analyst / Développeur Power BI;Santé;Île-de-France;Saint-Denis;Stage;Confirmé (3-5 ans);830;939;884;Full remote;SQL;Power Query;Power BI;KPI;DAX;21
+OFR-2025436;2026-04-23;2026-04;AI Engineer;Transport / Logistique;Occitanie;Montpellier;CDI;Confirmé (3-5 ans);47000;65000;56000;Sur site;Python;LLM;NLP;Cloud (AWS/Azure/GCP);LangChain;31
+OFR-2025437;2025-07-19;2025-07;Data Engineer;Transport / Logistique;Bretagne;Rennes;CDI;Senior (5+ ans);57500;86500;72000;Hybride;Cloud (AWS/Azure/GCP);Spark;ETL;Docker;Python;56
+OFR-2025438;2026-05-16;2026-05;Chef de Projet Data/IA;Télécoms;PACA;Aix-en-Provence;CDI;Confirmé (3-5 ans);48000;66500;57250;Sur site;Power BI;Python;Gestion de projet;SQL;KPI;13
+OFR-2025439;2026-04-29;2026-04;Data Scientist;Énergie;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Power BI;SQL;Python;Pandas;;59
+OFR-2025440;2025-08-13;2025-08;Data Analyst;Énergie;Pays de la Loire;Nantes;CDD;Junior (0-2 ans);34000;45500;39750;Hybride;Power Query;Tableau;SQL;;;21
+OFR-2025441;2025-12-24;2025-12;Data Engineer;Santé;Grand Est;Reims;CDD;Junior (0-2 ans);33500;45000;39250;Sur site;Cloud (AWS/Azure/GCP);Docker;Python;Airflow;;15
+OFR-2025442;2026-01-16;2026-01;ML Engineer;Banque / Assurance;PACA;Marseille;CDI;Confirmé (3-5 ans);48000;66500;57250;Sur site;Cloud (AWS/Azure/GCP);TensorFlow/PyTorch;MLOps;Git/CI-CD;;42
+OFR-2025443;2026-03-30;2026-03;Data Scientist;Banque / Assurance;Occitanie;Montpellier;CDI;Senior (5+ ans);60000;90000;75000;Hybride;Deep Learning;SQL;Pandas;Python;;52
+OFR-2025444;2026-06-11;2026-06;Data Scientist;Énergie;Grand Est;Nancy;CDI;Junior (0-2 ans);33500;45000;39250;Hybride;SQL;Deep Learning;Pandas;;;59
+OFR-2025445;2025-08-04;2025-08;Data Scientist;Secteur public;Hauts-de-France;Lille;CDI;Confirmé (3-5 ans);44500;62000;53250;Sur site;SQL;Pandas;Python;;;12
+OFR-2025446;2026-05-01;2026-05;Data Scientist;Retail / E-commerce;Occitanie;Montpellier;CDI;Junior (0-2 ans);35000;47000;41000;Hybride;Python;Power BI;Pandas;;;54
+OFR-2025447;2025-11-07;2025-11;BI Analyst / Développeur Power BI;Industrie;Île-de-France;Paris;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Excel;KPI;DAX;Power BI;;30
+OFR-2025448;2026-01-12;2026-01;Data Engineer;Énergie;Normandie;Caen;Alternance;Confirmé (3-5 ans);1130;1295;1212;Sur site;Docker;SQL;Spark;;;36
+OFR-2025449;2025-08-25;2025-08;Data Scientist;Tech / Scale-up;Île-de-France;Saint-Denis;CDI;Confirmé (3-5 ans);55500;76500;66000;Sur site;Pandas;Scikit-learn;Machine Learning;;;21
+OFR-2025450;2025-07-10;2025-07;Data Engineer;Industrie;Pays de la Loire;Le Mans;Stage;Confirmé (3-5 ans);900;1008;954;Sur site;SQL;Airflow;Spark;;;43
+OFR-2025451;2026-01-23;2026-01;Data Analyst;Santé;Nouvelle-Aquitaine;Bordeaux;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Tableau;SQL;Power Query;Python;;58
+OFR-2025452;2025-12-03;2025-12;AI Engineer;Conseil / ESN;PACA;Aix-en-Provence;CDI;Senior (5+ ans);61000;92000;76500;Hybride;Python;Hugging Face;RAG;LangChain;;37
+OFR-2025453;2025-09-29;2025-09;Data Analyst;Retail / E-commerce;Centre-Val de Loire;Tours;CDI;Senior (5+ ans);56000;83500;69750;Sur site;Power Query;Python;Excel;;;47
+OFR-2025454;2025-10-07;2025-10;Data Analyst;Énergie;Auvergne-Rhône-Alpes;Lyon;Alternance;Senior (5+ ans);1170;1394;1282;Hybride;DAX;Python;Power BI;;;13
+OFR-2025455;2025-07-29;2025-07;ML Engineer;Santé;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;Cloud (AWS/Azure/GCP);TensorFlow/PyTorch;Git/CI-CD;Python;;33
+OFR-2025456;2025-07-19;2025-07;AI Engineer;Conseil / ESN;Île-de-France;Paris;CDD;Confirmé (3-5 ans);55500;76500;66000;Full remote;RAG;Hugging Face;LLM;Cloud (AWS/Azure/GCP);;59
+OFR-2025457;2025-08-19;2025-08;Data Analyst;Télécoms;Nouvelle-Aquitaine;Poitiers;CDI;Confirmé (3-5 ans);46000;63500;54750;Full remote;SQL;Power BI;Power Query;;;41
+OFR-2025458;2026-06-13;2026-06;Data Engineer;Industrie;Grand Est;Strasbourg;CDI;Confirmé (3-5 ans);45000;62500;53750;Sur site;Python;SQL;Docker;ETL;Airflow;37
+OFR-2025459;2025-11-18;2025-11;Data Scientist;Retail / E-commerce;Centre-Val de Loire;Tours;CDD;Senior (5+ ans);56000;83500;69750;Hybride;Pandas;Machine Learning;SQL;;;21
+OFR-2025460;2026-03-07;2026-03;AI Engineer;Secteur public;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Hybride;Python;LLM;Cloud (AWS/Azure/GCP);NLP;Hugging Face;17
+OFR-2025461;2026-01-27;2026-01;Data Analyst;Télécoms;Île-de-France;Paris;Stage;Confirmé (3-5 ans);1290;1567;1428;Hybride;Power BI;Power Query;Excel;;;27
+OFR-2025462;2026-04-12;2026-04;Chef de Projet Data/IA;Télécoms;Nouvelle-Aquitaine;Bordeaux;CDI;Confirmé (3-5 ans);46000;63500;54750;Hybride;KPI;SQL;Python;;;27
+OFR-2025463;2025-08-27;2025-08;Data Analyst;Télécoms;Centre-Val de Loire;Tours;CDI;Senior (5+ ans);56000;83500;69750;Hybride;Tableau;Power BI;Python;DAX;Power Query;62
+OFR-2025464;2026-02-08;2026-02;Data Analyst;Transport / Logistique;Grand Est;Reims;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;SQL;DAX;Excel;;;28
+OFR-2025465;2025-10-29;2025-10;Data Scientist;Banque / Assurance;Grand Est;Reims;CDI;Junior (0-2 ans);33500;45000;39250;Hybride;Machine Learning;Power BI;Python;Scikit-learn;SQL;58
+OFR-2025466;2026-01-28;2026-01;Data Engineer;Conseil / ESN;Occitanie;Montpellier;Alternance;Senior (5+ ans);1040;1339;1190;Hybride;Spark;Python;SQL;;;24
+OFR-2025467;2026-01-08;2026-01;Data Scientist;Télécoms;Île-de-France;Nanterre;CDI;Senior (5+ ans);71000;106000;88500;Hybride;Machine Learning;Pandas;Scikit-learn;;;20
+OFR-2025468;2026-02-20;2026-02;Data Engineer;Énergie;Île-de-France;Saint-Denis;CDI;Junior (0-2 ans);41500;55500;48500;Full remote;Airflow;SQL;Spark;Python;Cloud (AWS/Azure/GCP);38
+OFR-2025469;2026-03-25;2026-03;Data Analyst;Télécoms;Auvergne-Rhône-Alpes;Grenoble;CDI;Senior (5+ ans);62500;93500;78000;Hybride;Power BI;Tableau;DAX;Power Query;SQL;43
+OFR-2025470;2026-04-29;2026-04;BI Analyst / Développeur Power BI;Transport / Logistique;Île-de-France;Nanterre;CDI;Confirmé (3-5 ans);55500;76500;66000;Full remote;DAX;Excel;Power Query;KPI;Power BI;21
+OFR-2025471;2025-11-01;2025-11;BI Analyst / Développeur Power BI;Banque / Assurance;Bretagne;Brest;CDI;Confirmé (3-5 ans);45000;62500;53750;Hybride;Power BI;SQL;KPI;DAX;Excel;17
+OFR-2025472;2026-04-19;2026-04;Data Engineer;Conseil / ESN;Île-de-France;Nanterre;CDI;Junior (0-2 ans);41500;55500;48500;Sur site;SQL;Docker;ETL;Spark;Cloud (AWS/Azure/GCP);59
+OFR-2025473;2026-06-19;2026-06;Data Engineer;Tech / Scale-up;Centre-Val de Loire;Orléans;Stage;Confirmé (3-5 ans);1180;1440;1310;Hybride;Cloud (AWS/Azure/GCP);Docker;SQL;Airflow;;33
+OFR-2025474;2026-06-11;2026-06;Data Engineer;Télécoms;Île-de-France;Saint-Denis;CDI;Senior (5+ ans);71000;106000;88500;Full remote;SQL;Airflow;Spark;Docker;Cloud (AWS/Azure/GCP);35
+OFR-2025475;2025-08-28;2025-08;BI Analyst / Développeur Power BI;Transport / Logistique;Île-de-France;Saint-Denis;Alternance;Junior (0-2 ans);980;1245;1112;Hybride;Excel;Power BI;DAX;KPI;SQL;53
+OFR-2025476;2026-02-17;2026-02;Data Engineer;Conseil / ESN;Normandie;Rouen;CDI;Senior (5+ ans);56500;84500;70500;Hybride;Cloud (AWS/Azure/GCP);ETL;Spark;SQL;Docker;43
+OFR-2025477;2026-01-17;2026-01;Data Engineer;Secteur public;Grand Est;Reims;Alternance;Confirmé (3-5 ans);1100;1315;1208;Hybride;Spark;Cloud (AWS/Azure/GCP);SQL;Python;ETL;23
+OFR-2025478;2026-06-15;2026-06;Data Scientist;Tech / Scale-up;Centre-Val de Loire;Tours;CDI;Confirmé (3-5 ans);43500;60500;52000;Hybride;Machine Learning;Power BI;Pandas;Python;;46
+OFR-2025479;2025-12-23;2025-12;Chef de Projet Data/IA;Transport / Logistique;Pays de la Loire;Angers;Alternance;Junior (0-2 ans);990;1106;1048;Hybride;Power BI;Python;SQL;;;53
