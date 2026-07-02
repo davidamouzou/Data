@@ -1,201 +1,201 @@
-id,nom,quantite,prix_unitaire
-1,Enceinte Bluetooth Prestige,37,164.82
-2,Planche a decouper Nova,29,95.22
-3,Parfum Atelier,214,26.96
-4,Robe Nova,30,140.45
-5,Planche a decouper Nova 2,322,237.17
-6,Corde a sauter Atelier,203,146.8
-7,Robe Atelier,68,141.82
-8,Souris sans fil Urbain,292,137.92
-9,Clavier mecanique Urbain,292,31.14
-10,Tapis de yoga Comfort,364,29.76
-11,T-shirt Bleu Marine,348,56.24
-12,Savon artisanal Comfort,472,119.6
-13,Plaid Studio,92,66.61
-14,Tapis de yoga Nova,268,146.15
-15,Plaid Essentiel,37,76.25
-16,Short Urbain,77,190.73
-17,Tapis Atelier,39,240.72
-18,Planche a decouper Bleu Marine,418,198.53
-19,Chargeur USB-C Comfort,296,151.02
-20,Machine a cafe Nova,483,210.94
-21,Souris sans fil Nova,359,20.79
-22,Cable HDMI Bleu Marine,420,248.31
-23,Plaid Prestige,177,222.43
-24,Manteau Comfort,59,46.99
-25,Coussin Nature,66,193.44
-26,Tapis de yoga Prestige,446,101.38
-27,Coussin Urbain,281,115.59
-28,Enceinte Bluetooth Prestige 2,142,216.8
-29,Sac de sport Comfort,194,172.57
-30,Botte Nova,118,48.99
-31,Tapis de yoga Atelier,301,124.32
-32,Sandale Studio,214,6.99
-33,Shampoing Bleu Marine,487,144.18
-34,Basket Essentiel,399,225.48
-35,Planche a decouper Prestige,201,103.12
-36,Manteau Prestige,34,21.18
-37,Mocassin Urbain,307,32.81
-38,Pull Atelier,274,144.29
-39,Chemise Bleu Marine,447,12.21
-40,Mocassin Urbain 2,489,160.79
-41,Clavier mecanique Comfort,59,121.68
-42,Machine a cafe Essentiel,159,123.21
-43,Jean Nova,379,188.91
-44,Souris sans fil Urbain 2,105,131.98
-45,Shampoing Urbain,468,174.37
-46,Veste Nova,133,175.86
-47,Shampoing Urbain 2,114,92.78
-48,Shampoing Nature,403,155.62
-49,Mixeur Nature,378,205.66
-50,Mixeur Nature 2,182,132.29
-51,Ballon de foot Atelier,241,198.78
-52,Enceinte Bluetooth Bleu Marine,228,239.38
-53,Set de couteaux Comfort,52,25.64
-54,Mocassin Nature,247,88.4
-55,Creme hydratante Essentiel,176,227.83
-56,Poele antiadhesive Nova,400,227.98
-57,Tapis de yoga Essentiel,222,222.91
-58,Set de couteaux Nova,497,201.39
-59,Sac de sport Essentiel,484,103.93
-60,Jean Urbain,14,248.31
-61,Mocassin Urbain 3,305,155.21
-62,Bougie parfumee Comfort,280,44.03
-63,Basket Atelier,371,201.03
-64,Ballon de foot Loft,71,188.87
-65,Lampe de chevet Nature,108,12.82
-66,Clavier mecanique Nature,166,192.33
-67,Clavier mecanique Prestige,31,209.53
-68,Gourde isotherme Essentiel,417,167.63
-69,Savon artisanal Loft,77,37.9
-70,Creme hydratante Essentiel 2,311,195.46
-71,Jean Urbain 2,316,40.53
-72,Ballon de foot Loft 2,349,21.06
-73,Savon artisanal Nova,29,221.5
-74,Botte Studio,50,16.29
-75,Savon artisanal Loft 2,457,12.79
-76,Manteau Comfort 2,258,155.45
-77,Parfum Studio,273,116.36
-78,Machine a cafe Loft,357,235.72
-79,Shampoing Loft,103,223.82
-80,Machine a cafe Urbain,200,107.65
-81,Plaid Nova,219,169.75
-82,Robe Studio,459,197.27
-83,Mixeur Comfort,452,40.88
-84,Mocassin Nature 2,48,188.18
-85,Tapis Urbain,426,247.52
-86,Botte Prestige,206,248.54
-87,Souris sans fil Nature,47,93.0
-88,Gourde isotherme Atelier,234,88.46
-89,Bougie parfumee Atelier,264,99.77
-90,Shampoing Loft 2,57,240.42
-91,Mixeur Nova,139,26.5
-92,Jean Studio,419,190.4
-93,Bougie parfumee Studio,274,105.04
-94,Savon artisanal Comfort 2,29,27.82
-95,Mixeur Prestige,137,224.44
-96,Pull Studio,438,26.42
-97,Basket Studio,232,216.51
-98,Chemise Loft,468,107.92
-99,Clavier mecanique Urbain 2,363,16.53
-100,Basket Urbain,92,69.89
-101,Sandale Studio 2,105,135.57
-102,Souris sans fil Loft,138,170.0
-103,Casque audio Studio,9,15.01
-104,Corde a sauter Loft,263,244.63
-105,Lampe de chevet Essentiel,419,31.92
-106,Sac de sport Essentiel 2,455,139.19
-107,Vase Studio,117,173.8
-108,Enceinte Bluetooth Urbain,177,104.74
-109,Jean Atelier,379,23.25
-110,Souris sans fil Urbain 3,340,19.51
-111,Machine a cafe Loft 2,144,169.6
-112,Parfum Studio 2,94,17.03
-113,Sandale Essentiel,186,6.87
-114,Clavier mecanique Comfort 2,494,65.63
-115,Enceinte Bluetooth Comfort,171,50.63
-116,Coussin Essentiel,335,74.05
-117,Botte Loft,46,195.39
-118,Casque audio Urbain,21,103.47
-119,Coussin Studio,119,80.23
-120,Jean Bleu Marine,166,101.03
-121,Sac de sport Urbain,316,75.33
-122,Tapis de yoga Atelier 2,366,207.26
-123,Savon artisanal Loft 3,268,39.98
-124,Planche a decouper Bleu Marine 2,411,209.71
-125,Robe Nova 2,68,13.59
-126,Gourde isotherme Nova,231,97.88
-127,Creme hydratante Atelier,348,158.79
-128,Mocassin Studio,408,6.8
-129,Pull Loft,377,22.11
-130,Plaid Nova 2,120,212.45
-131,Tapis de yoga Nature,499,186.51
-132,Tapis Prestige,466,24.71
-133,Gourde isotherme Atelier 2,329,156.53
-134,Basket Bleu Marine,130,41.96
-135,Gourde isotherme Bleu Marine,6,144.52
-136,Coussin Essentiel 2,344,71.57
-137,Robe Essentiel,264,76.96
-138,Souris sans fil Essentiel,60,119.78
-139,Parfum Studio 3,479,244.65
-140,Coussin Studio 2,419,117.98
-141,Savon artisanal Studio,469,100.38
-142,Basket Bleu Marine 2,382,28.02
-143,Shampoing Comfort,419,38.35
-144,Corde a sauter Studio,360,222.38
-145,Enceinte Bluetooth Essentiel,248,225.03
-146,Coussin Urbain 2,251,6.87
-147,Sac de sport Prestige,72,79.67
-148,Plaid Prestige 2,430,83.11
-149,Casque audio Comfort,429,189.17
-150,Coussin Nature 2,461,179.97
-151,Gourde isotherme Studio,201,96.81
-152,Vase Nova,219,94.0
-153,Set de couteaux Atelier,26,74.47
-154,Set de couteaux Urbain,136,66.83
-155,Vase Comfort,191,52.31
-156,Machine a cafe Atelier,323,204.11
-157,Vase Loft,41,55.63
-158,Short Essentiel,70,156.03
-159,Gourde isotherme Essentiel 2,474,17.94
-160,Parfum Urbain,175,121.2
-161,Chargeur USB-C Studio,499,186.31
-162,Gourde isotherme Prestige,154,166.05
-163,Vase Prestige,329,35.21
-164,Basket Nature,415,128.14
-165,Vase Nature,170,116.52
-166,Machine a cafe Prestige,98,40.05
-167,Basket Urbain 2,46,89.43
-168,Enceinte Bluetooth Comfort 2,291,69.03
-169,Basket Prestige,381,99.4
-170,Parfum Prestige,385,71.93
-171,Manteau Studio,184,146.11
-172,Botte Nova 2,127,72.12
-173,Tapis Essentiel,159,111.36
-174,Poele antiadhesive Urbain,363,13.86
-175,Machine a cafe Bleu Marine,37,125.51
-176,Vase Essentiel,127,243.22
-177,Poele antiadhesive Nature,267,43.66
-178,Ballon de foot Essentiel,397,26.73
-179,T-shirt Urbain,470,62.74
-180,Veste Urbain,270,158.85
-181,Sac de sport Nova,153,30.25
-182,Parfum Prestige 2,404,69.65
-183,Creme hydratante Atelier 2,235,137.13
-184,Chargeur USB-C Nature,120,121.96
-185,Parfum Atelier 2,360,240.38
-186,Gourde isotherme Atelier 3,255,11.31
-187,Sac de sport Nova 2,341,68.76
-188,Plaid Nature,356,126.27
-189,Cable HDMI Prestige,202,94.4
-190,Basket Studio 2,258,186.34
-191,Robe Essentiel 2,159,242.64
-192,Mixeur Nature 3,135,119.48
-193,Set de couteaux Nova 2,253,238.26
-194,Parfum Nature,466,124.34
-195,Ballon de foot Bleu Marine,201,41.71
-196,Robe Atelier 2,72,243.68
-197,Coussin Atelier,230,50.91
-198,Gourde isotherme Nova 2,476,249.39
-199,Sandale Nature,479,51.25
-200,Savon artisanal Atelier,371,82.08
+id,nom,categorie,quantite,prix_unitaire
+1,Enceinte Bluetooth Prestige,Electronique,37,164.82
+2,Planche a decouper Nova,Cuisine,29,95.22
+3,Parfum Atelier,Beaute,214,26.96
+4,Robe Nova,Vetement,30,140.45
+5,Planche a decouper Nova 2,Cuisine,322,237.17
+6,Corde a sauter Atelier,Sport,203,146.8
+7,Robe Atelier,Vetement,68,141.82
+8,Souris sans fil Urbain,Electronique,292,137.92
+9,Clavier mecanique Urbain,Electronique,292,31.14
+10,Tapis de yoga Comfort,Sport,364,29.76
+11,T-shirt Bleu Marine,Vetement,348,56.24
+12,Savon artisanal Comfort,Beaute,472,119.6
+13,Plaid Studio,Maison,92,66.61
+14,Tapis de yoga Nova,Sport,268,146.15
+15,Plaid Essentiel,Maison,37,76.25
+16,Short Urbain,Vetement,77,190.73
+17,Tapis Atelier,Maison,39,240.72
+18,Planche a decouper Bleu Marine,Cuisine,418,198.53
+19,Chargeur USB-C Comfort,Electronique,296,151.02
+20,Machine a cafe Nova,Cuisine,483,210.94
+21,Souris sans fil Nova,Electronique,359,20.79
+22,Cable HDMI Bleu Marine,Electronique,420,248.31
+23,Plaid Prestige,Maison,177,222.43
+24,Manteau Comfort,Vetement,59,46.99
+25,Coussin Nature,Maison,66,193.44
+26,Tapis de yoga Prestige,Sport,446,101.38
+27,Coussin Urbain,Maison,281,115.59
+28,Enceinte Bluetooth Prestige 2,Electronique,142,216.8
+29,Sac de sport Comfort,Sport,194,172.57
+30,Botte Nova,Chaussure,118,48.99
+31,Tapis de yoga Atelier,Sport,301,124.32
+32,Sandale Studio,Chaussure,214,6.99
+33,Shampoing Bleu Marine,Beaute,487,144.18
+34,Basket Essentiel,Chaussure,399,225.48
+35,Planche a decouper Prestige,Cuisine,201,103.12
+36,Manteau Prestige,Vetement,34,21.18
+37,Mocassin Urbain,Chaussure,307,32.81
+38,Pull Atelier,Vetement,274,144.29
+39,Chemise Bleu Marine,Vetement,447,12.21
+40,Mocassin Urbain 2,Chaussure,489,160.79
+41,Clavier mecanique Comfort,Electronique,59,121.68
+42,Machine a cafe Essentiel,Cuisine,159,123.21
+43,Jean Nova,Vetement,379,188.91
+44,Souris sans fil Urbain 2,Electronique,105,131.98
+45,Shampoing Urbain,Beaute,468,174.37
+46,Veste Nova,Vetement,133,175.86
+47,Shampoing Urbain 2,Beaute,114,92.78
+48,Shampoing Nature,Beaute,403,155.62
+49,Mixeur Nature,Cuisine,378,205.66
+50,Mixeur Nature 2,Cuisine,182,132.29
+51,Ballon de foot Atelier,Sport,241,198.78
+52,Enceinte Bluetooth Bleu Marine,Electronique,228,239.38
+53,Set de couteaux Comfort,Cuisine,52,25.64
+54,Mocassin Nature,Chaussure,247,88.4
+55,Creme hydratante Essentiel,Beaute,176,227.83
+56,Poele antiadhesive Nova,Cuisine,400,227.98
+57,Tapis de yoga Essentiel,Sport,222,222.91
+58,Set de couteaux Nova,Cuisine,497,201.39
+59,Sac de sport Essentiel,Sport,484,103.93
+60,Jean Urbain,Vetement,14,248.31
+61,Mocassin Urbain 3,Chaussure,305,155.21
+62,Bougie parfumee Comfort,Maison,280,44.03
+63,Basket Atelier,Chaussure,371,201.03
+64,Ballon de foot Loft,Sport,71,188.87
+65,Lampe de chevet Nature,Maison,108,12.82
+66,Clavier mecanique Nature,Electronique,166,192.33
+67,Clavier mecanique Prestige,Electronique,31,209.53
+68,Gourde isotherme Essentiel,Sport,417,167.63
+69,Savon artisanal Loft,Beaute,77,37.9
+70,Creme hydratante Essentiel 2,Beaute,311,195.46
+71,Jean Urbain 2,Vetement,316,40.53
+72,Ballon de foot Loft 2,Sport,349,21.06
+73,Savon artisanal Nova,Beaute,29,221.5
+74,Botte Studio,Chaussure,50,16.29
+75,Savon artisanal Loft 2,Beaute,457,12.79
+76,Manteau Comfort 2,Vetement,258,155.45
+77,Parfum Studio,Beaute,273,116.36
+78,Machine a cafe Loft,Cuisine,357,235.72
+79,Shampoing Loft,Beaute,103,223.82
+80,Machine a cafe Urbain,Cuisine,200,107.65
+81,Plaid Nova,Maison,219,169.75
+82,Robe Studio,Vetement,459,197.27
+83,Mixeur Comfort,Cuisine,452,40.88
+84,Mocassin Nature 2,Chaussure,48,188.18
+85,Tapis Urbain,Maison,426,247.52
+86,Botte Prestige,Chaussure,206,248.54
+87,Souris sans fil Nature,Electronique,47,93.0
+88,Gourde isotherme Atelier,Sport,234,88.46
+89,Bougie parfumee Atelier,Maison,264,99.77
+90,Shampoing Loft 2,Beaute,57,240.42
+91,Mixeur Nova,Cuisine,139,26.5
+92,Jean Studio,Vetement,419,190.4
+93,Bougie parfumee Studio,Maison,274,105.04
+94,Savon artisanal Comfort 2,Beaute,29,27.82
+95,Mixeur Prestige,Cuisine,137,224.44
+96,Pull Studio,Vetement,438,26.42
+97,Basket Studio,Chaussure,232,216.51
+98,Chemise Loft,Vetement,468,107.92
+99,Clavier mecanique Urbain 2,Electronique,363,16.53
+100,Basket Urbain,Chaussure,92,69.89
+101,Sandale Studio 2,Chaussure,105,135.57
+102,Souris sans fil Loft,Electronique,138,170.0
+103,Casque audio Studio,Electronique,9,15.01
+104,Corde a sauter Loft,Sport,263,244.63
+105,Lampe de chevet Essentiel,Maison,419,31.92
+106,Sac de sport Essentiel 2,Sport,455,139.19
+107,Vase Studio,Maison,117,173.8
+108,Enceinte Bluetooth Urbain,Electronique,177,104.74
+109,Jean Atelier,Vetement,379,23.25
+110,Souris sans fil Urbain 3,Electronique,340,19.51
+111,Machine a cafe Loft 2,Cuisine,144,169.6
+112,Parfum Studio 2,Beaute,94,17.03
+113,Sandale Essentiel,Chaussure,186,6.87
+114,Clavier mecanique Comfort 2,Electronique,494,65.63
+115,Enceinte Bluetooth Comfort,Electronique,171,50.63
+116,Coussin Essentiel,Maison,335,74.05
+117,Botte Loft,Chaussure,46,195.39
+118,Casque audio Urbain,Electronique,21,103.47
+119,Coussin Studio,Maison,119,80.23
+120,Jean Bleu Marine,Vetement,166,101.03
+121,Sac de sport Urbain,Sport,316,75.33
+122,Tapis de yoga Atelier 2,Sport,366,207.26
+123,Savon artisanal Loft 3,Beaute,268,39.98
+124,Planche a decouper Bleu Marine 2,Cuisine,411,209.71
+125,Robe Nova 2,Vetement,68,13.59
+126,Gourde isotherme Nova,Sport,231,97.88
+127,Creme hydratante Atelier,Beaute,348,158.79
+128,Mocassin Studio,Chaussure,408,6.8
+129,Pull Loft,Vetement,377,22.11
+130,Plaid Nova 2,Maison,120,212.45
+131,Tapis de yoga Nature,Sport,499,186.51
+132,Tapis Prestige,Maison,466,24.71
+133,Gourde isotherme Atelier 2,Sport,329,156.53
+134,Basket Bleu Marine,Chaussure,130,41.96
+135,Gourde isotherme Bleu Marine,Sport,6,144.52
+136,Coussin Essentiel 2,Maison,344,71.57
+137,Robe Essentiel,Vetement,264,76.96
+138,Souris sans fil Essentiel,Electronique,60,119.78
+139,Parfum Studio 3,Beaute,479,244.65
+140,Coussin Studio 2,Maison,419,117.98
+141,Savon artisanal Studio,Beaute,469,100.38
+142,Basket Bleu Marine 2,Chaussure,382,28.02
+143,Shampoing Comfort,Beaute,419,38.35
+144,Corde a sauter Studio,Sport,360,222.38
+145,Enceinte Bluetooth Essentiel,Electronique,248,225.03
+146,Coussin Urbain 2,Maison,251,6.87
+147,Sac de sport Prestige,Sport,72,79.67
+148,Plaid Prestige 2,Maison,430,83.11
+149,Casque audio Comfort,Electronique,429,189.17
+150,Coussin Nature 2,Maison,461,179.97
+151,Gourde isotherme Studio,Sport,201,96.81
+152,Vase Nova,Maison,219,94.0
+153,Set de couteaux Atelier,Cuisine,26,74.47
+154,Set de couteaux Urbain,Cuisine,136,66.83
+155,Vase Comfort,Maison,191,52.31
+156,Machine a cafe Atelier,Cuisine,323,204.11
+157,Vase Loft,Maison,41,55.63
+158,Short Essentiel,Vetement,70,156.03
+159,Gourde isotherme Essentiel 2,Sport,474,17.94
+160,Parfum Urbain,Beaute,175,121.2
+161,Chargeur USB-C Studio,Electronique,499,186.31
+162,Gourde isotherme Prestige,Sport,154,166.05
+163,Vase Prestige,Maison,329,35.21
+164,Basket Nature,Chaussure,415,128.14
+165,Vase Nature,Maison,170,116.52
+166,Machine a cafe Prestige,Cuisine,98,40.05
+167,Basket Urbain 2,Chaussure,46,89.43
+168,Enceinte Bluetooth Comfort 2,Electronique,291,69.03
+169,Basket Prestige,Chaussure,381,99.4
+170,Parfum Prestige,Beaute,385,71.93
+171,Manteau Studio,Vetement,184,146.11
+172,Botte Nova 2,Chaussure,127,72.12
+173,Tapis Essentiel,Maison,159,111.36
+174,Poele antiadhesive Urbain,Cuisine,363,13.86
+175,Machine a cafe Bleu Marine,Cuisine,37,125.51
+176,Vase Essentiel,Maison,127,243.22
+177,Poele antiadhesive Nature,Cuisine,267,43.66
+178,Ballon de foot Essentiel,Sport,397,26.73
+179,T-shirt Urbain,Vetement,470,62.74
+180,Veste Urbain,Vetement,270,158.85
+181,Sac de sport Nova,Sport,153,30.25
+182,Parfum Prestige 2,Beaute,404,69.65
+183,Creme hydratante Atelier 2,Beaute,235,137.13
+184,Chargeur USB-C Nature,Electronique,120,121.96
+185,Parfum Atelier 2,Beaute,360,240.38
+186,Gourde isotherme Atelier 3,Sport,255,11.31
+187,Sac de sport Nova 2,Sport,341,68.76
+188,Plaid Nature,Maison,356,126.27
+189,Cable HDMI Prestige,Electronique,202,94.4
+190,Basket Studio 2,Chaussure,258,186.34
+191,Robe Essentiel 2,Vetement,159,242.64
+192,Mixeur Nature 3,Cuisine,135,119.48
+193,Set de couteaux Nova 2,Cuisine,253,238.26
+194,Parfum Nature,Beaute,466,124.34
+195,Ballon de foot Bleu Marine,Sport,201,41.71
+196,Robe Atelier 2,Vetement,72,243.68
+197,Coussin Atelier,Maison,230,50.91
+198,Gourde isotherme Nova 2,Sport,476,249.39
+199,Sandale Nature,Chaussure,479,51.25
+200,Savon artisanal Atelier,Beaute,371,82.08
